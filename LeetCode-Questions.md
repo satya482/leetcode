@@ -326,7 +326,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |336|Palindrome Pairs|Hard|
 | [] |337|House Robber III|Medium|
 | 👍 |338|Counting Bits|Medium|
-| [] |339|Nested List Weight Sum|Easy|
+| 👎  |339|Nested List Weight Sum|Easy|
 | [] |340|Longest Substring with At Most K Distinct Characters|Hard|
 | [] |341|Flatten Nested List Iterator|Medium|
 | 👍 |342|Power of Four|Easy|
