@@ -39,7 +39,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |32|Longest Valid Parentheses|Hard|
 | [] |33|Search in Rotated Sorted Array|Medium|
 | [] |34|Search for a Range|Medium|
-| [] |35|Search Insert Position|Easy|
+| 👍 |35|Search Insert Position|Easy|
 | [] |36|Valid Sudoku|Medium|
 | [] |37|Sudoku Solver|Hard|
 | [] |38|Count and Say|Easy|
@@ -105,7 +105,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |98|Validate Binary Search Tree|Medium|
 | [] |99|Recover Binary Search Tree|Hard|
 | 👍 |100|Same Tree|Easy|
-| [] |101|Symmetric Tree|Easy|
+| 👍 |101|Symmetric Tree|Easy|
 | [] |102|Binary Tree Level Order Traversal|Medium|
 | [] |103|Binary Tree Zigzag Level Order Traversal|Medium|
 | 👍 |104|Maximum Depth of Binary Tree|Easy|
@@ -122,7 +122,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |115|Distinct Subsequences|Hard|
 | [] |116|Populating Next Right Pointers in Each Node|Medium|
 | [] |117|Populating Next Right Pointers in Each Node II|Medium|
-| [] |118|Pascal's Triangle|Easy|
+| 👍 |118|Pascal's Triangle|Easy|
 | [] |119|Pascal's Triangle II|Easy|
 | [] |120|Triangle|Medium|
 | 👍 |121|Best Time to Buy and Sell Stock|Easy|
