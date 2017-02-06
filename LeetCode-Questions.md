@@ -7,31 +7,31 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | --- | --- | --- | --- |
 | 👍  |1|Two Sum|Easy|
 | 👍 |2|Add Two Numbers|Medium|
-| 👍  |3|Longest Substring Without Repeating Characters|Medium|
+| 👍 |3|Longest Substring Without Repeating Characters|Medium|
 | [] |4|Median of Two Sorted Arrays|Hard|
 | [] |5|Longest Palindromic Substring|Medium|
-| 👍  |6|ZigZag Conversion|Medium|
-| 👍  |7|Reverse Integer|Easy|
-| 👍  |8|String to Integer (atoi)|Medium|
-| 👍  |9|Palindrome Number|Easy|
+| 👍 |6|ZigZag Conversion|Medium|
+| 👍 |7|Reverse Integer|Easy|
+| 👍 |8|String to Integer (atoi)|Medium|
+| 👍 |9|Palindrome Number|Easy|
 | [] |10|Regular Expression Matching|Hard|
 | [] |11|Container With Most Water|Medium|
-| 👍  |12|Integer to Roman|Medium|
-| 👍  |13|Roman to Integer|Easy|
-| 👍  |14|Longest Common Prefix|Easy|
-| 👍  |15|3Sum|Medium|
+| 👍 |12|Integer to Roman|Medium|
+| 👍 |13|Roman to Integer|Easy|
+| 👍 |14|Longest Common Prefix|Easy|
+| 👍 |15|3Sum|Medium|
 | [] |16|3Sum Closest|Medium|
 | [] |17|Letter Combinations of a Phone Number|Medium|
 | [] |18|4Sum|Medium|
 | [] |19|Remove Nth Node From End of List|Medium|
-| 👍  |20|Valid Parentheses|Easy|
-| 👍  |21|Merge Two Sorted Lists|Easy|
+| 👍 |20|Valid Parentheses|Easy|
+| 👍 |21|Merge Two Sorted Lists|Easy|
 | [] |22|Generate Parentheses|Medium|
 | [] |23|Merge k Sorted Lists|Hard|
-| 👍  |24|Swap Nodes in Pairs|Medium|
+| 👍 |24|Swap Nodes in Pairs|Medium|
 | [] |25|Reverse Nodes in k-Group|Hard|
-| 👍  |26|Remove Duplicates from Sorted Array|Easy|
-| 👍  |27|Remove Element|Easy|
+| 👍 |26|Remove Duplicates from Sorted Array|Easy|
+| 👍 |27|Remove Element|Easy|
 | [] |28|Implement strStr()|Easy|
 | [] |29|Divide Two Integers|Medium|
 | [] |30|Substring with Concatenation of All Words|Hard|
@@ -54,15 +54,15 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |47|Permutations II|Medium|
 | [] |48|Rotate Image|Medium|
 | [] |49|Group Anagrams|Medium|
-| 👍  |50|Pow(x, n)|Medium|
+| 👍 |50|Pow(x, n)|Medium|
 | [] |51|N-Queens|Hard|
 | [] |52|N-Queens II|Hard|
-| 👍  |53|Maximum Subarray|Easy|
+| 👍 |53|Maximum Subarray|Easy|
 | [] |54|Spiral Matrix|Medium|
 | [] |55|Jump Game|Medium|
 | [] |56|Merge Intervals|Medium|
 | [] |57|Insert Interval|Hard|
-| 👍  |58|Length of Last Word|Easy|
+| 👍 |58|Length of Last Word|Easy|
 | [] |59|Spiral Matrix II|Medium|
 | [] |60|Permutation Sequence|Medium|
 | [] |61|Rotate List|Medium|
@@ -70,15 +70,15 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |63|Unique Paths II|Medium|
 | [] |64|Minimum Path Sum|Medium|
 | [] |65|Valid Number|Hard|
-| 👍  |66|Plus One|Easy|
-| 👍  |67|Add Binary|Easy|
+| 👍 |66|Plus One|Easy|
+| 👍 |67|Add Binary|Easy|
 | [] |68|Text Justification|Hard|
-| 👍  |69|Sqrt(x)|Easy|
-| 👍  |70|Climbing Stairs|Easy|
+| 👍 |69|Sqrt(x)|Easy|
+| 👍 |70|Climbing Stairs|Easy|
 | [] |71|Simplify Path|Medium|
 | [] |72|Edit Distance|Hard|
-| 👍  |73|Set Matrix Zeroes|Medium|
-| 👍  |74|Search a 2D Matrix|Medium|
+| 👍 |73|Set Matrix Zeroes|Medium|
+| 👍 |74|Search a 2D Matrix|Medium|
 | [] |75|Sort Colors|Medium|
 | [] |76|Minimum Window Substring|Hard|
 | [] |77|Combinations|Medium|
@@ -87,24 +87,24 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |80|Remove Duplicates from Sorted Array II|Medium|
 | [] |81|Search in Rotated Sorted Array II|Medium|
 | [] |82|Remove Duplicates from Sorted List II|Medium|
-| 👍  |83|Remove Duplicates from Sorted List|Easy|
+| 👍 |83|Remove Duplicates from Sorted List|Easy|
 | [] |84|Largest Rectangle in Histogram|Hard|
 | [] |85|Maximal Rectangle|Hard|
-| 👍  |86|Partition List|Medium|
+| 👍 |86|Partition List|Medium|
 | [] |87|Scramble String|Hard|
-| 👍  |88|Merge Sorted Array|Easy|
+| 👍 |88|Merge Sorted Array|Easy|
 | [] |89|Gray Code|Medium|
 | [] |90|Subsets II|Medium|
 | [] |91|Decode Ways|Medium|
 | [] |92|Reverse Linked List II|Medium|
 | [] |93|Restore IP Addresses|Medium|
-| 👍  |94|Binary Tree Inorder Traversal|Medium|
+| 👍 |94|Binary Tree Inorder Traversal|Medium|
 | [] |95|Unique Binary Search Trees II|Medium|
-| 👍  |96|Unique Binary Search Trees|Medium|
+| 👍 |96|Unique Binary Search Trees|Medium|
 | [] |97|Interleaving String|Hard|
-| 👍  |98|Validate Binary Search Tree|Medium|
+| 👍 |98|Validate Binary Search Tree|Medium|
 | [] |99|Recover Binary Search Tree|Hard|
-| 👍  |100|Same Tree|Easy|
+| 👍 |100|Same Tree|Easy|
 | [] |101|Symmetric Tree|Easy|
 | [] |102|Binary Tree Level Order Traversal|Medium|
 | [] |103|Binary Tree Zigzag Level Order Traversal|Medium|
@@ -115,8 +115,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |108|Convert Sorted Array to Binary Search Tree|Easy|
 | [] |109|Convert Sorted List to Binary Search Tree|Medium|
 | [] |110|Balanced Binary Tree|Easy|
-| [] |111|Minimum Depth of Binary Tree|Easy|
-| [] |112|Path Sum|Easy|
+| 👍 |111|Minimum Depth of Binary Tree|Easy|
+| 👍 |112|Path Sum|Easy|
 | [] |113|Path Sum II|Medium|
 | [] |114|Flatten Binary Tree to Linked List|Medium|
 | [] |115|Distinct Subsequences|Hard|
@@ -129,7 +129,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |122|Best Time to Buy and Sell Stock II|Easy|
 | [] |123|Best Time to Buy and Sell Stock III|Hard|
 | [] |124|Binary Tree Maximum Path Sum|Hard|
-| [] |125|Valid Palindrome|Easy|
+| 👍 |125|Valid Palindrome|Easy|
 | [] |126|Word Ladder II|Hard|
 | [] |127|Word Ladder|Medium|
 | [] |128|Longest Consecutive Sequence|Hard|
@@ -159,12 +159,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |152|Maximum Product Subarray|Medium|
 | [] |153|Find Minimum in Rotated Sorted Array|Medium|
 | [] |154|Find Minimum in Rotated Sorted Array II|Hard|
-| [] |155|Min Stack|Easy|
+| 👍 |155|Min Stack|Easy|
 | [] |156|Binary Tree Upside Down|Medium|
 | [] |157|Read N Characters Given Read4|Easy|
 | [] |158|Read N Characters Given Read4 II - Call multiple times|Hard|
 | [] |159|Longest Substring with At Most Two Distinct Characters|Hard|
-| [] |160|Intersection of Two Linked Lists|Easy|
+| 👍 |160|Intersection of Two Linked Lists|Easy|
 | [] |161|One Edit Distance|Medium|
 | [] |162|Find Peak Element|Medium|
 | [] |163|Missing Ranges|Medium|
@@ -172,28 +172,28 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |165|Compare Version Numbers|Medium|
 | [] |166|Fraction to Recurring Decimal|Medium|
 | [] |167|Two Sum II - Input array is sorted|Easy|
-| [] |168|Excel Sheet Column Title|Easy|
+| 👍 |168|Excel Sheet Column Title|Easy|
 | [] |169|Majority Element|Easy|
 | [] |170|Two Sum III - Data structure design|Easy|
 | [] |171|Excel Sheet Column Number|Easy|
-| [] |172|Factorial Trailing Zeroes|Easy|
+| 👍 |172|Factorial Trailing Zeroes|Easy|
 | [] |173|Binary Search Tree Iterator|Medium|
 | [] |174|Dungeon Game|Hard|
 | [] |179|Largest Number|Medium|
 | [] |186|Reverse Words in a String II|Medium|
 | [] |187|Repeated DNA Sequences|Medium|
 | [] |188|Best Time to Buy and Sell Stock IV|Hard|
-| [] |189|Rotate Array|Easy|
-| [] |190|Reverse Bits|Easy|
+| 👍 |189|Rotate Array|Easy|
+| 👍 |190|Reverse Bits|Easy|
 | [] |191|Number of 1 Bits|Easy|
 | [] |198|House Robber|Easy|
 | [] |199|Binary Tree Right Side View|Medium|
 | [] |200|Number of Islands|Medium|
 | [] |201|Bitwise AND of Numbers Range|Medium|
 | [] |202|Happy Number|Easy|
-| [] |203|Remove Linked List Elements|Easy|
-| [] |204|Count Primes|Easy|
-| [] |205|Isomorphic Strings|Easy|
+| 👍 |203|Remove Linked List Elements|Easy|
+| 👍 |204|Count Primes|Easy|
+| 👍 |205|Isomorphic Strings|Easy|
 | [] |206|Reverse Linked List|Easy|
 | [] |207|Course Schedule|Medium|
 | [] |208|Implement Trie (Prefix Tree)|Medium|
@@ -207,22 +207,22 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |216|Combination Sum III|Medium|
 | [] |217|Contains Duplicate|Easy|
 | [] |218|The Skyline Problem|Hard|
-| [] |219|Contains Duplicate II|Easy|
+| 👍 |219|Contains Duplicate II|Easy|
 | [] |220|Contains Duplicate III|Medium|
 | [] |221|Maximal Square|Medium|
 | [] |222|Count Complete Tree Nodes|Medium|
 | [] |223|Rectangle Area|Medium|
 | [] |224|Basic Calculator|Hard|
-| [] |225|Implement Stack using Queues|Easy|
+| 👍 |225|Implement Stack using Queues|Easy|
 | [] |226|Invert Binary Tree|Easy|
 | [] |227|Basic Calculator II|Medium|
 | [] |228|Summary Ranges|Medium|
 | [] |229|Majority Element II|Medium|
 | [] |230|Kth Smallest Element in a BST|Medium|
 | [] |231|Power of Two|Easy|
-| [] |232|Implement Queue using Stacks|Easy|
+| 👍 |232|Implement Queue using Stacks|Easy|
 | [] |233|Number of Digit One|Hard|
-| [] |234|Palindrome Linked List|Easy|
+| 👍 |234|Palindrome Linked List|Easy|
 | [] |235|Lowest Common Ancestor of a Binary Search Tree|Easy|
 | [] |236|Lowest Common Ancestor of a Binary Tree|Medium|
 | [] |237|Delete Node in a Linked List|Easy|
@@ -265,7 +265,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |275|H-Index II|Medium|
 | [] |276|Paint Fence|Easy|
 | [] |277|Find the Celebrity|Medium|
-| [] |278|First Bad Version|Easy|
+| 👍 |278|First Bad Version|Easy|
 | [] |279|Perfect Squares|Medium|
 | [] |280|Wiggle Sort|Medium|
 | [] |281|Zigzag Iterator|Medium|
@@ -277,7 +277,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |287|Find the Duplicate Number|Medium|
 | [] |288|Unique Word Abbreviation|Medium|
 | [] |289|Game of Life|Medium|
-| [] |290|Word Pattern|Easy|
+| 👍 |290|Word Pattern|Easy|
 | [] |291|Word Pattern II|Hard|
 | [] |292|Nim Game|Easy|
 | [] |293|Flip Game|Easy|
@@ -290,7 +290,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |300|Longest Increasing Subsequence|Medium|
 | [] |301|Remove Invalid Parentheses|Hard|
 | [] |302|Smallest Rectangle Enclosing Black Pixels|Hard|
-| [] |303|Range Sum Query - Immutable|Easy|
+| 👍 |303|Range Sum Query - Immutable|Easy|
 | [] |304|Range Sum Query 2D - Immutable|Medium|
 | [] |305|Number of Islands II|Hard|
 | [] |306|Additive Number|Medium|
@@ -361,7 +361,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |371|Sum of Two Integers|Easy|
 | [] |372|Super Pow|Medium|
 | [] |373|Find K Pairs with Smallest Sums|Medium|
-| [] |374|Guess Number Higher or Lower|Easy|
+| 👍 |374|Guess Number Higher or Lower|Easy|
 | [] |375|Guess Number Higher or Lower II|Medium|
 | [] |376|Wiggle Subsequence|Medium|
 | [] |377|Combination Sum IV|Medium|
