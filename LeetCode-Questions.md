@@ -5,8 +5,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 
 |Status | Number | Title | Difficulty | Companies
 | --- | --- | --- | --- | --- |
-| 👍  |1|Two Sum|Easy|LinkedIn, Uber| 
-| 👍 |2|Add Two Numbers|Medium||
+| 👍  |1|Two Sum|Easy|LinkedIn, Uber, Airbnb, Facebook| 
+| 👍 |2|Add Two Numbers|Medium|Airbnb|
 | 👍 |3|Longest Substring Without Repeating Characters|Medium||
 | [] |4|Median of Two Sorted Arrays|Hard|Google|
 | [] |5|Longest Palindromic Substring|Medium||
@@ -14,54 +14,54 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |7|Reverse Integer|Easy||
 | 👍 |8|String to Integer (atoi)|Medium|Uber|
 | 👍 |9|Palindrome Number|Easy||
-| [] |10|Regular Expression Matching|Hard|Google, Uber|
+| [] |10|Regular Expression Matching|Hard|Google, Uber, Airbnb, Facebook|
 | [] |11|Container With Most Water|Medium||
 | 👍 |12|Integer to Roman|Medium||
-| 👍 |13|Roman to Integer|Easy|Uber|
+| 👍 |13|Roman to Integer|Easy|Uber, Facebook|
 | 👍 |14|Longest Common Prefix|Easy||
-| 👍 |15|3Sum|Medium||
+| 👍 |15|3Sum|Medium|Facebook|
 | [] |16|3Sum Closest|Medium||
-| [] |17|Letter Combinations of a Phone Number|Medium|Google, Uber|
+| [] |17|Letter Combinations of a Phone Number|Medium|Google, Uber, Facebook|
 | [] |18|4Sum|Medium||
 | [] |19|Remove Nth Node From End of List|Medium||
-| 👍 |20|Valid Parentheses|Easy|Google|
+| 👍 |20|Valid Parentheses|Easy|Google, Airbnb, Facebook|
 | 👍 |21|Merge Two Sorted Lists|Easy|LinkedIn|
 | [] |22|Generate Parentheses|Medium|Google, Uber|
-| [] |23|Merge k Sorted Lists|Hard|LinkedIn, Google, Uber|
+| [] |23|Merge k Sorted Lists|Hard|LinkedIn, Google, Uber, Airbnb, Facebook|
 | 👍 |24|Swap Nodes in Pairs|Medium|Uber|
-| [] |25|Reverse Nodes in k-Group|Hard||
-| 👍 |26|Remove Duplicates from Sorted Array|Easy||
+| [] |25|Reverse Nodes in k-Group|Hard|Facebook|
+| 👍 |26|Remove Duplicates from Sorted Array|Easy|Facebook|
 | 👍 |27|Remove Element|Easy||
-| [] |28|Implement strStr()|Easy||
+| [] |28|Implement strStr()|Easy|Facebook|
 | [] |29|Divide Two Integers|Medium||
 | [] |30|Substring with Concatenation of All Words|Hard||
 | [] |31|Next Permutation|Medium|Google|
 | [] |32|Longest Valid Parentheses|Hard||
-| [] |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber|
+| [] |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber, Facebook|
 | [] |34|Search for a Range|Medium|LinkedIn|
 | 👍 |35|Search Insert Position|Easy||
 | [] |36|Valid Sudoku|Medium|Uber|
 | [] |37|Sudoku Solver|Hard|Uber|
-| [] |38|Count and Say|Easy||
+| [] |38|Count and Say|Easy|Facebook|
 | [] |39|Combination Sum|Medium|Uber|
 | [] |40|Combination Sum II|Medium||
 | [] |41|First Missing Positive|Hard||
 | [] |42|Trapping Rain Water|Hard|Google|
-| [] |43|Multiply Strings|Medium||
-| [] |44|Wildcard Matching|Hard|Google|
+| [] |43|Multiply Strings|Medium|Facebook|
+| [] |44|Wildcard Matching|Hard|Google, Facebook|
 | [] |45|Jump Game II|Hard||
 | [] |46|Permutations|Medium|LinkedIn|
 | [] |47|Permutations II|Medium|LinkedIn|
 | [] |48|Rotate Image|Medium||
-| [] |49|Group Anagrams|Medium|Uber|
-| 👍 |50|Pow(x, n)|Medium|LinkedIn, Google|
+| [] |49|Group Anagrams|Medium|Uber, Facebook|
+| 👍 |50|Pow(x, n)|Medium|LinkedIn, Google, Facebook|
 | [] |51|N-Queens|Hard||
 | [] |52|N-Queens II|Hard||
 | 👍 |53|Maximum Subarray|Easy|LinkedIn|
 | [] |54|Spiral Matrix|Medium|Google, Uber|
 | [] |55|Jump Game|Medium||
-| [] |56|Merge Intervals|Medium|LinkedIn, Google|
-| [] |57|Insert Interval|Hard|LinkedIn, Google|
+| [] |56|Merge Intervals|Medium|LinkedIn, Google, Facebook|
+| [] |57|Insert Interval|Hard|LinkedIn, Google, Facebook|
 | 👍 |58|Length of Last Word|Easy||
 | [] |59|Spiral Matrix II|Medium||
 | [] |60|Permutation Sequence|Medium||
@@ -71,48 +71,48 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |64|Minimum Path Sum|Medium||
 | [] |65|Valid Number|Hard|LinkedIn|
 | 👍 |66|Plus One|Easy|Google|
-| 👍 |67|Add Binary|Easy||
-| [] |68|Text Justification|Hard|LinkedIn|
-| 👍 |69|Sqrt(x)|Easy||
+| 👍 |67|Add Binary|Easy|Facebook|
+| [] |68|Text Justification|Hard|LinkedIn, Airbnb|
+| 👍 |69|Sqrt(x)|Easy|Facebook|
 | 👍 |70|Climbing Stairs|Easy||
-| [] |71|Simplify Path|Medium||
+| [] |71|Simplify Path|Medium|Facebook|
 | [] |72|Edit Distance|Hard||
 | 👍 |73|Set Matrix Zeroes|Medium||
 | 👍 |74|Search a 2D Matrix|Medium||
-| [] |75|Sort Colors|Medium||
-| [] |76|Minimum Window Substring|Hard|LinkedIn, Uber|
+| [] |75|Sort Colors|Medium|Facebook|
+| [] |76|Minimum Window Substring|Hard|LinkedIn, Uber, Facebook|
 | [] |77|Combinations|Medium||
-| [] |78|Subsets|Medium|Uber|
-| [] |79|Word Search|Medium||
-| [] |80|Remove Duplicates from Sorted Array II|Medium||
+| [] |78|Subsets|Medium|Uber, Facebook|
+| [] |79|Word Search|Medium|Facebook|
+| [] |80|Remove Duplicates from Sorted Array II|Medium|Facebook|
 | [] |81|Search in Rotated Sorted Array II|Medium||
 | [] |82|Remove Duplicates from Sorted List II|Medium||
 | 👍 |83|Remove Duplicates from Sorted List|Easy||
 | [] |84|Largest Rectangle in Histogram|Hard||
-| [] |85|Maximal Rectangle|Hard||
+| [] |85|Maximal Rectangle|Hard|Facebook|
 | 👍 |86|Partition List|Medium||
 | [] |87|Scramble String|Hard||
-| 👍 |88|Merge Sorted Array|Easy||
+| 👍 |88|Merge Sorted Array|Easy|Facebook|
 | [] |89|Gray Code|Medium||
-| [] |90|Subsets II|Medium||
-| [] |91|Decode Ways|Medium|Uber|
+| [] |90|Subsets II|Medium|Facebook|
+| [] |91|Decode Ways|Medium|Uber, Facebook|
 | [] |92|Reverse Linked List II|Medium||
 | [] |93|Restore IP Addresses|Medium||
 | 👍 |94|Binary Tree Inorder Traversal|Medium||
 | [] |95|Unique Binary Search Trees II|Medium||
 | 👍 |96|Unique Binary Search Trees|Medium||
 | [] |97|Interleaving String|Hard||
-| 👍 |98|Validate Binary Search Tree|Medium||
+| 👍 |98|Validate Binary Search Tree|Medium|Facebook|
 | [] |99|Recover Binary Search Tree|Hard||
 | 👍 |100|Same Tree|Easy||
 | 👍 |101|Symmetric Tree|Easy|LinkedIn|
-| [] |102|Binary Tree Level Order Traversal|Medium|LinkedIn|
+| [] |102|Binary Tree Level Order Traversal|Medium|LinkedIn, Facebook|
 | [] |103|Binary Tree Zigzag Level Order Traversal|Medium|LinkedIn|
 | 👍 |104|Maximum Depth of Binary Tree|Easy|LinkedIn, Uber|
 | [] |105|Construct Binary Tree from Preorder and Inorder Traversal|Medium||
 | [] |106|Construct Binary Tree from Inorder and Postorder Traversal|Medium||
 | [] |107|Binary Tree Level Order Traversal II|Easy||
-| 👍 |108|Convert Sorted Array to Binary Search Tree|Easy||
+| 👍 |108|Convert Sorted Array to Binary Search Tree|Easy|Airbnb|
 | [] |109|Convert Sorted List to Binary Search Tree|Medium||
 | [] |110|Balanced Binary Tree|Easy||
 | 👍 |111|Minimum Depth of Binary Tree|Easy||
@@ -121,36 +121,36 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |114|Flatten Binary Tree to Linked List|Medium||
 | [] |115|Distinct Subsequences|Hard||
 | [] |116|Populating Next Right Pointers in Each Node|Medium||
-| [] |117|Populating Next Right Pointers in Each Node II|Medium||
+| [] |117|Populating Next Right Pointers in Each Node II|Medium|Facebook|
 | 👍 |118|Pascal's Triangle|Easy||
 | [] |119|Pascal's Triangle II|Easy||
 | [] |120|Triangle|Medium||
-| 👍 |121|Best Time to Buy and Sell Stock|Easy|Uber|
+| 👍 |121|Best Time to Buy and Sell Stock|Easy|Uber, Facebook|
 | 👍 |122|Best Time to Buy and Sell Stock II|Easy||
 | [] |123|Best Time to Buy and Sell Stock III|Hard||
 | [] |124|Binary Tree Maximum Path Sum|Hard||
-| 👍 |125|Valid Palindrome|Easy|Uber|
+| 👍 |125|Valid Palindrome|Easy|Uber, Facebook|
 | [] |126|Word Ladder II|Hard||
-| [] |127|Word Ladder|Medium|LinkedIn|
-| [] |128|Longest Consecutive Sequence|Hard|Google|
+| [] |127|Word Ladder|Medium|LinkedIn, Facebook|
+| [] |128|Longest Consecutive Sequence|Hard|Google, Facebook|
 | [] |129|Sum Root to Leaf Numbers|Medium||
 | [] |130|Surrounded Regions|Medium||
 | [] |131|Palindrome Partitioning|Medium||
 | [] |132|Palindrome Partitioning II|Hard||
-| [] |133|Clone Graph|Medium|Google, Uber|
+| [] |133|Clone Graph|Medium|Google, Uber, Facebook|
 | [] |134|Gas Station|Medium||
 | [] |135|Candy|Hard||
-| 👍 |136|Single Number|Easy||
+| 👍 |136|Single Number|Easy|Airbnb|
 | [] |137|Single Number II|Medium||
 | [] |138|Copy List with Random Pointer|Medium|Uber|
-| [] |139|Word Break|Medium|Google, Uber|
+| [] |139|Word Break|Medium|Google, Uber, Facebook|
 | [] |140|Word Break II|Hard|Google, Uber|
 | 👍 |141|Linked List Cycle|Easy||
 | [] |142|Linked List Cycle II|Medium||
 | [] |143|Reorder List|Medium||
 | [] |144|Binary Tree Preorder Traversal|Medium||
 | [] |145|Binary Tree Postorder Traversal|Hard||
-| [] |146|LRU Cache|Hard|Google, Uber|
+| [] |146|LRU Cache|Hard|Google, Uber, Facebook|
 | [] |147|Insertion Sort List|Medium||
 | [] |148|Sort List|Medium||
 | [] |149|Max Points on a Line|Hard|LinkedIn|
@@ -161,55 +161,55 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |154|Find Minimum in Rotated Sorted Array II|Hard||
 | 👍 |155|Min Stack|Easy|Google, Uber|
 | [] |156|Binary Tree Upside Down|Medium|LinkedIn|
-| [] |157|Read N Characters Given Read4|Easy||
-| [] |158|Read N Characters Given Read4 II - Call multiple times|Hard|Google|
+| [] |157|Read N Characters Given Read4|Easy|Facebook|
+| [] |158|Read N Characters Given Read4 II - Call multiple times|Hard|Google, Facebook|
 | [] |159|Longest Substring with At Most Two Distinct Characters|Hard|Google|
-| 👍 |160|Intersection of Two Linked Lists|Easy||
-| [] |161|One Edit Distance|Medium|Uber|
+| 👍 |160|Intersection of Two Linked Lists|Easy|Airbnb|
+| [] |161|One Edit Distance|Medium|Uber, Facebook|
 | [] |162|Find Peak Element|Medium|Google|
 | [] |163|Missing Ranges|Medium|Google|
 | [] |164|Maximum Gap|Hard||
 | 👍 |165|Compare Version Numbers|Medium||
 | [] |166|Fraction to Recurring Decimal|Medium|Google|
 | 👍 |167|Two Sum II - Input array is sorted|Easy||
-| 👍 |168|Excel Sheet Column Title|Easy||
+| 👍 |168|Excel Sheet Column Title|Easy|Facebook|
 | 👍 |169|Majority Element|Easy||
 | [] |170|Two Sum III - Data structure design|Easy|LinkedIn|
 | 👍 |171|Excel Sheet Column Number|Easy|Uber|
 | 👍 |172|Factorial Trailing Zeroes|Easy||
-| [] |173|Binary Search Tree Iterator|Medium|LinkedIn, Google|
+| [] |173|Binary Search Tree Iterator|Medium|LinkedIn, Google, Facebook|
 | [] |174|Dungeon Game|Hard||
 | [] |179|Largest Number|Medium||
 | [] |186|Reverse Words in a String II|Medium|Uber|
 | [] |187|Repeated DNA Sequences|Medium|LinkedIn|
 | [] |188|Best Time to Buy and Sell Stock IV|Hard||
 | 👍 |189|Rotate Array|Easy||
-| 👍 |190|Reverse Bits|Easy||
+| 👍 |190|Reverse Bits|Easy|Airbnb|
 | 👍 |191|Number of 1 Bits|Easy||
-| [] |198|House Robber|Easy|LinkedIn|
+| [] |198|House Robber|Easy|LinkedIn, Airbnb|
 | [] |199|Binary Tree Right Side View|Medium||
-| [] |200|Number of Islands|Medium|Google|
+| [] |200|Number of Islands|Medium|Google, Facebook|
 | [] |201|Bitwise AND of Numbers Range|Medium||
-| 👍 |202|Happy Number|Easy|Uber|
+| 👍 |202|Happy Number|Easy|Uber, Airbnb|
 | 👍 |203|Remove Linked List Elements|Easy||
 | 👍 |204|Count Primes|Easy||
 | 👍 |205|Isomorphic Strings|Easy|LinkedIn|
-| 👍 |206|Reverse Linked List|Easy|Uber|
+| 👍 |206|Reverse Linked List|Easy|Uber, Facebook|
 | [] |207|Course Schedule|Medium||
-| [] |208|Implement Trie (Prefix Tree)|Medium|Google, Uber|
-| [] |209|Minimum Size Subarray Sum|Medium||
-| [] |210|Course Schedule II|Medium||
-| [] |211|Add and Search Word - Data structure design|Medium||
-| [] |212|Word Search II|Hard|Google|
+| [] |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook|
+| [] |209|Minimum Size Subarray Sum|Medium|Facebook|
+| [] |210|Course Schedule II|Medium|Facebook|
+| [] |211|Add and Search Word - Data structure design|Medium|Facebook|
+| [] |212|Word Search II|Hard|Google, Airbnb|
 | [] |213|House Robber II|Medium||
 | [] |214|Shortest Palindrome|Hard|Google|
-| [] |215|Kth Largest Element in an Array|Medium||
+| [] |215|Kth Largest Element in an Array|Medium|Facebook|
 | [] |216|Combination Sum III|Medium||
-| 👍 |217|Contains Duplicate|Easy||
-| [] |218|The Skyline Problem|Hard|Google|
-| 👍 |219|Contains Duplicate II|Easy||
-| [] |220|Contains Duplicate III|Medium||
-| [] |221|Maximal Square|Medium||
+| 👍 |217|Contains Duplicate|Easy|Airbnb|
+| [] |218|The Skyline Problem|Hard|Google, Facebook|
+| 👍 |219|Contains Duplicate II|Easy|Airbnb|
+| [] |220|Contains Duplicate III|Medium|Airbnb|
+| [] |221|Maximal Square|Medium|Airbnb, Facebook|
 | [] |222|Count Complete Tree Nodes|Medium||
 | 👍 |223|Rectangle Area|Medium||
 | [] |224|Basic Calculator|Hard|Google|
@@ -222,11 +222,11 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |231|Power of Two|Easy|Google|
 | 👍 |232|Implement Queue using Stacks|Easy||
 | [] |233|Number of Digit One|Hard||
-| 👍 |234|Palindrome Linked List|Easy||
-| 👍 |235|Lowest Common Ancestor of a Binary Search Tree|Easy||
-| [] |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn|
+| 👍 |234|Palindrome Linked List|Easy|Facebook|
+| 👍 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|Facebook|
+| [] |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook|
 | 👍 |237|Delete Node in a Linked List|Easy||
-| 👍 |238|Product of Array Except Self|Medium|LinkedIn|
+| 👍 |238|Product of Array Except Self|Medium|LinkedIn, Facebook|
 | [] |239|Sliding Window Maximum|Hard|Google|
 | 👍 |240|Search a 2D Matrix II|Medium|Google|
 | [] |241|Different Ways to Add Parentheses|Medium||
@@ -239,41 +239,41 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |248|Strobogrammatic Number III|Hard||
 | [] |249|Group Shifted Strings|Medium|Google, Uber|
 | [] |250|Count Univalue Subtrees|Medium||
-| [] |251|Flatten 2D Vector|Medium|Google|
-| [] |252|Meeting Rooms|Easy||
-| [] |253|Meeting Rooms II|Medium|Google|
+| [] |251|Flatten 2D Vector|Medium|Google, Airbnb|
+| [] |252|Meeting Rooms|Easy|Facebook|
+| [] |253|Meeting Rooms II|Medium|Google, Facebook|
 | [] |254|Factor Combinations|Medium|LinkedIn, Uber|
 | [] |255|Verify Preorder Sequence in Binary Search Tree|Medium||
 | [] |256|Paint House|Easy|LinkedIn|
-| [] |257|Binary Tree Paths|Easy|Google|
+| [] |257|Binary Tree Paths|Easy|Google, Facebook|
 | 👍 |258|Add Digits|Easy||
 | [] |259|3Sum Smaller|Medium|Google|
 | 👍 |260|Single Number III|Medium||
-| [] |261|Graph Valid Tree|Medium|Google|
+| [] |261|Graph Valid Tree|Medium|Google, Facebook|
 | 👍 |263|Ugly Number|Easy||
 | [] |264|Ugly Number II|Medium||
-| [] |265|Paint House II|Hard||
+| [] |265|Paint House II|Hard|Facebook|
 | [] |266|Palindrome Permutation|Easy|Google, Uber|
 | [] |267|Palindrome Permutation II|Medium||
 | 👍 |268|Missing Number|Easy||
-| [] |269|Alien Dictionary|Hard|Google|
+| [] |269|Alien Dictionary|Hard|Google, Airbnb, Facebook|
 | [] |270|Closest Binary Search Tree Value|Easy|Google|
 | [] |271|Encode and Decode Strings|Medium|Google|
 | [] |272|Closest Binary Search Tree Value II|Hard|Google|
-| [] |273|Integer to English Words|Hard||
-| [] |274|H-Index|Medium|Google|
-| [] |275|H-Index II|Medium||
+| [] |273|Integer to English Words|Hard|Facebook|
+| [] |274|H-Index|Medium|Google, Facebook|
+| [] |275|H-Index II|Medium|Facebook|
 | [] |276|Paint Fence|Easy|Google|
-| [] |277|Find the Celebrity|Medium|LinkedIn|
-| 👍 |278|First Bad Version|Easy||
+| [] |277|Find the Celebrity|Medium|LinkedIn, Facebook|
+| 👍 |278|First Bad Version|Easy|Facebook|
 | [] |279|Perfect Squares|Medium|Google|
 | [] |280|Wiggle Sort|Medium|Google|
 | [] |281|Zigzag Iterator|Medium|Google|
-| [] |282|Expression Add Operators|Hard|Google|
-| 👍 |283|Move Zeroes|Easy||
+| [] |282|Expression Add Operators|Hard|Google, Facebook|
+| 👍 |283|Move Zeroes|Easy|Facebook|
 | [] |284|Peeking Iterator|Medium|Google|
-| [] |285|Inorder Successor in BST|Medium||
-| [] |286|Walls and Gates|Medium|Google|
+| [] |285|Inorder Successor in BST|Medium|Facebook|
+| [] |286|Walls and Gates|Medium|Google, Facebook|
 | [] |287|Find the Duplicate Number|Medium||
 | [] |288|Unique Word Abbreviation|Medium|Google|
 | [] |289|Game of Life|Medium|Google|
@@ -284,11 +284,11 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |294|Flip Game II|Medium|Google|
 | [] |295|Find Median from Data Stream|Hard|Google|
 | [] |296|Best Meeting Point|Hard||
-| [] |297|Serialize and Deserialize Binary Tree|Hard|LinkedIn, Google, Uber|
+| [] |297|Serialize and Deserialize Binary Tree|Hard|LinkedIn, Google, Uber, Facebook|
 | [] |298|Binary Tree Longest Consecutive Sequence|Medium|Google|
 | [] |299|Bulls and Cows|Medium||
 | 👍 |300|Longest Increasing Subsequence|Medium||
-| [] |301|Remove Invalid Parentheses|Hard||
+| [] |301|Remove Invalid Parentheses|Hard|Facebook|
 | [] |302|Smallest Rectangle Enclosing Black Pixels|Hard|Google|
 | 👍 |303|Range Sum Query - Immutable|Easy||
 | [] |304|Range Sum Query 2D - Immutable|Medium||
@@ -298,10 +298,10 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |308|Range Sum Query 2D - Mutable|Hard|Google|
 | [] |309|Best Time to Buy and Sell Stock with Cooldown|Medium|Google|
 | [] |310|Minimum Height Trees|Medium|Google|
-| [] |311|Sparse Matrix Multiplication|Medium|LinkedIn|
+| [] |311|Sparse Matrix Multiplication|Medium|LinkedIn, Facebook|
 | [] |312|Burst Balloons|Hard|Google|
 | [] |313|Super Ugly Number|Medium|Google|
-| [] |314|Binary Tree Vertical Order Traversal|Medium|Google|
+| [] |314|Binary Tree Vertical Order Traversal|Medium|Google, Facebook|
 | [] |315|Count of Smaller Numbers After Self|Hard|Google|
 | [] |316|Remove Duplicate Letters|Hard|Google|
 | [] |317|Shortest Distance from All Buildings|Hard|Google|
@@ -312,7 +312,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |322|Coin Change|Medium||
 | [] |323|Number of Connected Components in an Undirected Graph|Medium|Google|
 | [] |324|Wiggle Sort II|Medium|Google|
-| [] |325|Maximum Size Subarray Sum Equals k|Medium||
+| [] |325|Maximum Size Subarray Sum Equals k|Medium|Facebook|
 | 👍 |326|Power of Three|Easy|Google|
 | [] |327|Count of Range Sum|Hard|Google|
 | 👍 |328|Odd Even Linked List|Medium||
@@ -321,9 +321,9 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |331|Verify Preorder Serialization of a Binary Tree|Medium|Google|
 | [] |332|Reconstruct Itinerary|Medium|Google|
 | [] |333|Largest BST Subtree|Medium||
-| [] |334|Increasing Triplet Subsequence|Medium||
+| [] |334|Increasing Triplet Subsequence|Medium|Facebook|
 | [] |335|Self Crossing|Hard||
-| [] |336|Palindrome Pairs|Hard|Google|
+| [] |336|Palindrome Pairs|Hard|Google, Airbnb|
 | [] |337|House Robber III|Medium|Uber|
 | 👍 |338|Counting Bits|Medium||
 | 👎 |339|Nested List Weight Sum|Easy|LinkedIn|
