@@ -9,12 +9,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |2|Add Two Numbers|Medium|Airbnb|
 | 👍 |3|Longest Substring Without Repeating Characters|Medium||
 | [] |4|Median of Two Sorted Arrays|Hard|Google|
-| [] |5|Longest Palindromic Substring|Medium||
+| 👍 |5|Longest Palindromic Substring|Medium||
 | 👍 |6|ZigZag Conversion|Medium||
 | 👍 |7|Reverse Integer|Easy||
 | 👍 |8|String to Integer (atoi)|Medium|Uber|
 | 👍 |9|Palindrome Number|Easy||
-| [] |10|Regular Expression Matching|Hard|Google, Uber, Airbnb, Facebook|
+| 👍 |10|Regular Expression Matching|Hard|Google, Uber, Airbnb, Facebook|
 | [] |11|Container With Most Water|Medium||
 | 👍 |12|Integer to Roman|Medium||
 | 👍 |13|Roman to Integer|Easy|Uber, Facebook|
@@ -53,7 +53,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |46|Permutations|Medium|LinkedIn|
 | [] |47|Permutations II|Medium|LinkedIn|
 | [] |48|Rotate Image|Medium||
-| [] |49|Group Anagrams|Medium|Uber, Facebook|
+| 👍 |49|Group Anagrams|Medium|Uber, Facebook|
 | 👍 |50|Pow(x, n)|Medium|LinkedIn, Google, Facebook|
 | [] |51|N-Queens|Hard||
 | [] |52|N-Queens II|Hard||
