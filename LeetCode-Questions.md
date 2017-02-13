@@ -48,7 +48,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |41|First Missing Positive|Hard||
 | [] |42|Trapping Rain Water|Hard|Google|
 | [] |43|Multiply Strings|Medium|Facebook|
-| [] |44|Wildcard Matching|Hard|Google, Facebook|
+| 👍 |44|Wildcard Matching|Hard|Google, Facebook|
 | [] |45|Jump Game II|Hard||
 | [] |46|Permutations|Medium|LinkedIn|
 | [] |47|Permutations II|Medium|LinkedIn|
