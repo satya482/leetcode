@@ -20,7 +20,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |13|Roman to Integer|Easy|Uber, Facebook|
 | 👍 |14|Longest Common Prefix|Easy||
 | 👍 |15|3Sum|Medium|Facebook|
-| [] |16|3Sum Closest|Medium||
+| 👍 |16|3Sum Closest|Medium||
 | [] |17|Letter Combinations of a Phone Number|Medium|Google, Uber, Facebook|
 | [] |18|4Sum|Medium||
 | [] |19|Remove Nth Node From End of List|Medium||
