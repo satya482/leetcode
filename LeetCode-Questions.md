@@ -5,7 +5,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 
 |Status | Number | Title | Difficulty | Companies
 | --- | --- | --- | --- | --- |
-| 👍  |1|Two Sum|Easy|LinkedIn, Uber, Airbnb, Facebook| 
+| 👍 |1|Two Sum|Easy|LinkedIn, Uber, Airbnb, Facebook| 
 | 👍 |2|Add Two Numbers|Medium|Airbnb|
 | 👍 |3|Longest Substring Without Repeating Characters|Medium||
 | [] |4|Median of Two Sorted Arrays|Hard|Google|
@@ -23,7 +23,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |16|3Sum Closest|Medium||
 | [] |17|Letter Combinations of a Phone Number|Medium|Google, Uber, Facebook|
 | [] |18|4Sum|Medium||
-| [] |19|Remove Nth Node From End of List|Medium||
+| 👍 |19|Remove Nth Node From End of List|Medium||
 | 👍 |20|Valid Parentheses|Easy|Google, Airbnb, Facebook|
 | 👍 |21|Merge Two Sorted Lists|Easy|LinkedIn|
 | [] |22|Generate Parentheses|Medium|Google, Uber|
@@ -32,7 +32,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |25|Reverse Nodes in k-Group|Hard|Facebook|
 | 👍 |26|Remove Duplicates from Sorted Array|Easy|Facebook|
 | 👍 |27|Remove Element|Easy||
-| [] |28|Implement strStr()|Easy|Facebook|
+| 👍 |28|Implement strStr()|Easy|Facebook|
 | [] |29|Divide Two Integers|Medium||
 | [] |30|Substring with Concatenation of All Words|Hard||
 | [] |31|Next Permutation|Medium|Google|
@@ -40,7 +40,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber, Facebook|
 | [] |34|Search for a Range|Medium|LinkedIn|
 | 👍 |35|Search Insert Position|Easy||
-| [] |36|Valid Sudoku|Medium|Uber|
+| 👍 |36|Valid Sudoku|Medium|Uber|
 | [] |37|Sudoku Solver|Hard|Uber|
 | [] |38|Count and Say|Easy|Facebook|
 | [] |39|Combination Sum|Medium|Uber|
