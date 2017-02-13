@@ -59,16 +59,16 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |52|N-Queens II|Hard||
 | 👍 |53|Maximum Subarray|Easy|LinkedIn|
 | [] |54|Spiral Matrix|Medium|Google, Uber|
-| [] |55|Jump Game|Medium||
+| 👍 |55|Jump Game|Medium||
 | [] |56|Merge Intervals|Medium|LinkedIn, Google, Facebook|
 | [] |57|Insert Interval|Hard|LinkedIn, Google, Facebook|
 | 👍 |58|Length of Last Word|Easy||
 | [] |59|Spiral Matrix II|Medium||
 | [] |60|Permutation Sequence|Medium||
 | [] |61|Rotate List|Medium||
-| [] |62|Unique Paths|Medium||
-| [] |63|Unique Paths II|Medium||
-| [] |64|Minimum Path Sum|Medium||
+| 👍 |62|Unique Paths|Medium||
+| 👍 |63|Unique Paths II|Medium||
+| 👍 |64|Minimum Path Sum|Medium||
 | [] |65|Valid Number|Hard|LinkedIn|
 | 👍 |66|Plus One|Easy|Google|
 | 👍 |67|Add Binary|Easy|Facebook|
