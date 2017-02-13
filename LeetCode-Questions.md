@@ -45,14 +45,14 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |38|Count and Say|Easy|Facebook|
 | [] |39|Combination Sum|Medium|Uber|
 | [] |40|Combination Sum II|Medium||
-| [] |41|First Missing Positive|Hard||
+| 👍 |41|First Missing Positive|Hard||
 | [] |42|Trapping Rain Water|Hard|Google|
 | [] |43|Multiply Strings|Medium|Facebook|
 | [] |44|Wildcard Matching|Hard|Google, Facebook|
 | [] |45|Jump Game II|Hard||
 | [] |46|Permutations|Medium|LinkedIn|
 | [] |47|Permutations II|Medium|LinkedIn|
-| [] |48|Rotate Image|Medium||
+| 👍 |48|Rotate Image|Medium||
 | 👍 |49|Group Anagrams|Medium|Uber, Facebook|
 | 👍 |50|Pow(x, n)|Medium|LinkedIn, Google, Facebook|
 | [] |51|N-Queens|Hard||
