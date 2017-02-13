@@ -33,7 +33,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |26|Remove Duplicates from Sorted Array|Easy|Facebook|
 | 👍 |27|Remove Element|Easy||
 | 👍 |28|Implement strStr()|Easy|Facebook|
-| [] |29|Divide Two Integers|Medium||
+| 👍 |29|Divide Two Integers|Medium||
 | [] |30|Substring with Concatenation of All Words|Hard||
 | [] |31|Next Permutation|Medium|Google|
 | [] |32|Longest Valid Parentheses|Hard||
@@ -113,7 +113,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |106|Construct Binary Tree from Inorder and Postorder Traversal|Medium||
 | [] |107|Binary Tree Level Order Traversal II|Easy||
 | 👍 |108|Convert Sorted Array to Binary Search Tree|Easy|Airbnb|
-| [] |109|Convert Sorted List to Binary Search Tree|Medium||
+| 👍 |109|Convert Sorted List to Binary Search Tree|Medium||
 | [] |110|Balanced Binary Tree|Easy||
 | 👍 |111|Minimum Depth of Binary Tree|Easy||
 | 👍 |112|Path Sum|Easy||
@@ -148,7 +148,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |141|Linked List Cycle|Easy||
 | [] |142|Linked List Cycle II|Medium||
 | [] |143|Reorder List|Medium||
-| [] |144|Binary Tree Preorder Traversal|Medium||
+| 👍 |144|Binary Tree Preorder Traversal|Medium||
 | [] |145|Binary Tree Postorder Traversal|Hard||
 | [] |146|LRU Cache|Hard|Google, Uber, Facebook|
 | [] |147|Insertion Sort List|Medium||
@@ -179,7 +179,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |172|Factorial Trailing Zeroes|Easy||
 | [] |173|Binary Search Tree Iterator|Medium|LinkedIn, Google, Facebook|
 | [] |174|Dungeon Game|Hard||
-| [] |179|Largest Number|Medium||
+| 👍 |179|Largest Number|Medium||
 | [] |186|Reverse Words in a String II|Medium|Uber|
 | [] |187|Repeated DNA Sequences|Medium|LinkedIn|
 | [] |188|Best Time to Buy and Sell Stock IV|Hard||
@@ -321,12 +321,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |331|Verify Preorder Serialization of a Binary Tree|Medium|Google|
 | [] |332|Reconstruct Itinerary|Medium|Google|
 | [] |333|Largest BST Subtree|Medium||
-| [] |334|Increasing Triplet Subsequence|Medium|Facebook|
+| 👍 |334|Increasing Triplet Subsequence|Medium|Facebook|
 | [] |335|Self Crossing|Hard||
 | [] |336|Palindrome Pairs|Hard|Google, Airbnb|
 | [] |337|House Robber III|Medium|Uber|
 | 👍 |338|Counting Bits|Medium||
-| 👎 |339|Nested List Weight Sum|Easy|LinkedIn|
+| [] |339|Nested List Weight Sum|Easy|LinkedIn|
 | [] |340|Longest Substring with At Most K Distinct Characters|Hard|Google|
 | [] |341|Flatten Nested List Iterator|Medium|Google|
 | 👍 |342|Power of Four|Easy||
@@ -371,7 +371,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |381|Insert Delete GetRandom O(1) - Duplicates allowed|Hard||
 | [] |382|Linked List Random Node|Medium||
 | 👍 |383|Ransom Note|Easy||
-| [] |384|Shuffle an Array|Medium||
+| 👍 |384|Shuffle an Array|Medium||
 | [] |385|Mini Parser|Medium||
 | [] |386|Lexicographical Numbers|Medium||
 | 👍 |387|First Unique Character in a String|Easy||
@@ -422,7 +422,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |439|Ternary Expression Parser|Medium|
 | [] |440|K-th Smallest in Lexicographical Order|Hard|
 | 👍 |441|Arranging Coins|Easy|
-| [] |442|Find All Duplicates in an Array|Medium|
+| 👍 |442|Find All Duplicates in an Array|Medium|
 | [] |444|Sequence Reconstruction|Medium|
 | 👍 |445|Add Two Numbers II|Medium|
 | [] |446|Arithmetic Slices II - Subsequence|Hard|
