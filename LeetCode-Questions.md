@@ -42,7 +42,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |35|Search Insert Position|Easy||
 | 👍 |36|Valid Sudoku|Medium|Uber|
 | [] |37|Sudoku Solver|Hard|Uber|
-| [] |38|Count and Say|Easy|Facebook|
+| 👍 |38|Count and Say|Easy|Facebook|
 | [] |39|Combination Sum|Medium|Uber|
 | [] |40|Combination Sum II|Medium||
 | 👍 |41|First Missing Positive|Hard||
@@ -330,7 +330,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |340|Longest Substring with At Most K Distinct Characters|Hard|Google|
 | [] |341|Flatten Nested List Iterator|Medium|Google|
 | 👍 |342|Power of Four|Easy||
-| [] |343|Integer Break|Medium||
+| 👍 |343|Integer Break|Medium||
 | 👍 |344|Reverse String|Easy||
 | 👍 |345|Reverse Vowels of a String|Easy||
 | [] |346|Moving Average from Data Stream|Easy||
