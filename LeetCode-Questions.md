@@ -76,7 +76,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |69|Sqrt(x)|Easy|Facebook|
 | 👍 |70|Climbing Stairs|Easy||
 | [] |71|Simplify Path|Medium|Facebook|
-| [] |72|Edit Distance|Hard||
+| 👍 |72|Edit Distance|Hard||
 | 👍 |73|Set Matrix Zeroes|Medium||
 | 👍 |74|Search a 2D Matrix|Medium||
 | 👍 |75|Sort Colors|Medium|Facebook|
