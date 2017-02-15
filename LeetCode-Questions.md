@@ -224,7 +224,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |233|Number of Digit One|Hard||
 | 👍 |234|Palindrome Linked List|Easy|Facebook|
 | 👍 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|Facebook|
-| [] |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook|
+| 👍 |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook|
 | 👍 |237|Delete Node in a Linked List|Easy||
 | 👍 |238|Product of Array Except Self|Medium|LinkedIn, Facebook|
 | [] |239|Sliding Window Maximum|Hard|Google|
