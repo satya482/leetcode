@@ -79,7 +79,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |72|Edit Distance|Hard||
 | 👍 |73|Set Matrix Zeroes|Medium||
 | 👍 |74|Search a 2D Matrix|Medium||
-| [] |75|Sort Colors|Medium|Facebook|
+| 👍 |75|Sort Colors|Medium|Facebook|
 | [] |76|Minimum Window Substring|Hard|LinkedIn, Uber, Facebook|
 | [] |77|Combinations|Medium||
 | [] |78|Subsets|Medium|Uber, Facebook|
@@ -166,7 +166,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |159|Longest Substring with At Most Two Distinct Characters|Hard|Google|
 | 👍 |160|Intersection of Two Linked Lists|Easy|Airbnb|
 | [] |161|One Edit Distance|Medium|Uber, Facebook|
-| [] |162|Find Peak Element|Medium|Google|
+| 👍 |162|Find Peak Element|Medium|Google|
 | [] |163|Missing Ranges|Medium|Google|
 | [] |164|Maximum Gap|Hard||
 | 👍 |165|Compare Version Numbers|Medium||
@@ -177,7 +177,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |170|Two Sum III - Data structure design|Easy|LinkedIn|
 | 👍 |171|Excel Sheet Column Number|Easy|Uber|
 | 👍 |172|Factorial Trailing Zeroes|Easy||
-| [] |173|Binary Search Tree Iterator|Medium|LinkedIn, Google, Facebook|
+| 👍 |173|Binary Search Tree Iterator|Medium|LinkedIn, Google, Facebook|
 | [] |174|Dungeon Game|Hard||
 | 👍 |179|Largest Number|Medium||
 | [] |186|Reverse Words in a String II|Medium|Uber|
