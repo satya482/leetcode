@@ -388,86 +388,92 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |398|Random Pick Index|Medium||
 | [] |399|Evaluate Division|Medium||
 | [] |400|Nth Digit|Easy||
-| [] |401|Binary Watch|Easy|
-| [] |402|Remove K Digits|Medium|
-| [] |403|Frog Jump|Hard|
-| 👍 |404|Sum of Left Leaves|Easy|
-| [] |405|Convert a Number to Hexadecimal|Easy|
-| 👍 |406|Queue Reconstruction by Height|Medium|
-| [] |407|Trapping Rain Water II|Hard|
-| [] |408|Valid Word Abbreviation|Easy|
-| 👍 |409|Longest Palindrome|Easy|
-| [] |410|Split Array Largest Sum|Hard|
-| [] |411|Minimum Unique Word Abbreviation|Hard|
-| 👍 |412|Fizz Buzz|Easy|
-| 👍 |413|Arithmetic Slices|Medium|
-| 👍 |414|Third Maximum Number|Easy|
-| 👍 |415|Add Strings|Easy|
-| [] |416|Partition Equal Subset Sum|Medium|
-| [] |417|Pacific Atlantic Water Flow|Medium|
-| [] |418|Sentence Screen Fitting|Medium|
-| 👍 |419|Battleships in a Board|Medium|
-| [] |420|Strong Password Checker|Hard|
-| [] |421|Maximum XOR of Two Numbers in an Array|Medium|
-| [] |422|Valid Word Square|Easy|
-| 👍 |423|Reconstruct Original Digits from English|Medium|
-| [] |424|Longest Repeating Character Replacement|Medium|
-| [] |425|Word Squares|Hard|
-| [] |432|All O`one Data Structure|Hard|
-| 👍 |434|Number of Segments in a String|Easy|
-| [] |435|Non-overlapping Intervals|Medium|
-| [] |436|Find Right Interval|Medium|
-| [] |437|Path Sum III|Easy|
-| [] |438|Find All Anagrams in a String|Easy|
-| [] |439|Ternary Expression Parser|Medium|
-| [] |440|K-th Smallest in Lexicographical Order|Hard|
-| 👍 |441|Arranging Coins|Easy|
-| 👍 |442|Find All Duplicates in an Array|Medium|
-| [] |444|Sequence Reconstruction|Medium|
-| 👍 |445|Add Two Numbers II|Medium|
-| [] |446|Arithmetic Slices II - Subsequence|Hard|
-| [] |447|Number of Boomerangs|Easy|
-| 👍 |448|Find All Numbers Disappeared in an Array|Easy|
-| [] |449|Serialize and Deserialize BST|Medium|
-| [] |450|Delete Node in a BST|Medium|
-| [] |451|Sort Characters By Frequency|Medium|
-| [] |452|Minimum Number of Arrows to Burst Balloons|Medium|
-| 👍 |453|Minimum Moves to Equal Array Elements|Easy|
-| [] |454|4Sum II|Medium|
-| 👍 |455|Assign Cookies|Easy|
-| [] |456|132 Pattern|Medium|
-| [] |459|Repeated Substring Pattern|Easy|
-| [] |460|LFU Cache|Hard|
-| 👍 |461|Hamming Distance|Easy|
-| [] |462|Minimum Moves to Equal Array Elements II|Medium|
-| 👍 |463|Island Perimeter|Easy|
-| [] |464|Can I Win|Medium|
-| [] |465|Optimal Account Balancing|Hard|
-| [] |466|Count The Repetitions|Hard|
-| [] |467|Unique Substrings in Wraparound String|Medium|
-| [] |468|Validate IP Address|Medium|
-| [] |469|Convex Polygon|Medium|
-| [] |471|Encode String with Shortest Length|Hard|
-| [] |472|Concatenated Words|Hard|
-| [] |473|Matchsticks to Square|Medium|
-| [] |474|Ones and Zeroes|Medium|
-| [] |475|Heaters|Easy|
-| 👍 |476|Number Complement|Easy|
-| [] |477|Total Hamming Distance|Medium|
-| [] |480|Sliding Window Median|Hard|
-| [] |481|Magical String|Medium|
-| [] |482|License Key Formatting|Medium|
-| [] |483|Smallest Good Base|Hard|
-| [] |484|Find Permutation|Medium|
-| 👍 |485|Max Consecutive Ones|Easy|
-| [] |486|Predict the Winner|Medium|
-| [] |487|Max Consecutive Ones II|Medium|
-| [] |488|Zuma Game|Hard|
-| [] |490|The Maze|Medium|
-| [] |491|Increasing Subsequences|Medium|
-| 👍 |492|Construct the Rectangle|Easy|
-| [] |494|Target Sum|Medium|
-| [] |495|Teemo Attacking|Medium|
-| [] |499|The Maze III|Hard|
-| [] |501|Find Mode in Binary Search Tree|Easy|
-| [] |505|The Maze II|Medium
+| [] |401|Binary Watch|Easy||
+| [] |402|Remove K Digits|Medium||
+| [] |403|Frog Jump|Hard||
+| 👍 |404|Sum of Left Leaves|Easy||
+| [] |405|Convert a Number to Hexadecimal|Easy||
+| 👍 |406|Queue Reconstruction by Height|Medium||
+| [] |407|Trapping Rain Water II|Hard||
+| [] |408|Valid Word Abbreviation|Easy||
+| 👍 |409|Longest Palindrome|Easy||
+| [] |410|Split Array Largest Sum|Hard||
+| [] |411|Minimum Unique Word Abbreviation|Hard||
+| 👍 |412|Fizz Buzz|Easy||
+| 👍 |413|Arithmetic Slices|Medium||
+| 👍 |414|Third Maximum Number|Easy||
+| 👍 |415|Add Strings|Easy||
+| [] |416|Partition Equal Subset Sum|Medium||
+| [] |417|Pacific Atlantic Water Flow|Medium||
+| [] |418|Sentence Screen Fitting|Medium||
+| 👍 |419|Battleships in a Board|Medium||
+| [] |420|Strong Password Checker|Hard||
+| [] |421|Maximum XOR of Two Numbers in an Array|Medium||
+| [] |422|Valid Word Square|Easy||
+| 👍 |423|Reconstruct Original Digits from English|Medium||
+| [] |424|Longest Repeating Character Replacement|Medium||
+| [] |425|Word Squares|Hard||
+| [] |432|All O`one Data Structure|Hard||
+| 👍 |434|Number of Segments in a String|Easy||
+| [] |435|Non-overlapping Intervals|Medium||
+| [] |436|Find Right Interval|Medium||
+| [] |437|Path Sum III|Easy||
+| [] |438|Find All Anagrams in a String|Easy||
+| [] |439|Ternary Expression Parser|Medium||
+| [] |440|K-th Smallest in Lexicographical Order|Hard||
+| 👍 |441|Arranging Coins|Easy||
+| 👍 |442|Find All Duplicates in an Array|Medium||
+| [] |444|Sequence Reconstruction|Medium||
+| 👍 |445|Add Two Numbers II|Medium||
+| [] |446|Arithmetic Slices II - Subsequence|Hard||
+| [] |447|Number of Boomerangs|Easy||
+| 👍 |448|Find All Numbers Disappeared in an Array|Easy||
+| [] |449|Serialize and Deserialize BST|Medium||
+| [] |450|Delete Node in a BST|Medium||
+| [] |451|Sort Characters By Frequency|Medium||
+| [] |452|Minimum Number of Arrows to Burst Balloons|Medium||
+| 👍 |453|Minimum Moves to Equal Array Elements|Easy||
+| [] |454|4Sum II|Medium||
+| 👍 |455|Assign Cookies|Easy||
+| [] |456|132 Pattern|Medium||
+| [] |459|Repeated Substring Pattern|Easy||
+| [] |460|LFU Cache|Hard||
+| 👍 |461|Hamming Distance|Easy||
+| [] |462|Minimum Moves to Equal Array Elements II|Medium||
+| 👍 |463|Island Perimeter|Easy||
+| [] |464|Can I Win|Medium||
+| [] |465|Optimal Account Balancing|Hard||
+| [] |466|Count The Repetitions|Hard||
+| [] |467|Unique Substrings in Wraparound String|Medium||
+| [] |468|Validate IP Address|Medium||
+| [] |469|Convex Polygon|Medium||
+| [] |471|Encode String with Shortest Length|Hard||
+| [] |472|Concatenated Words|Hard||
+| [] |473|Matchsticks to Square|Medium||
+| [] |474|Ones and Zeroes|Medium||
+| [] |475|Heaters|Easy||
+| 👍 |476|Number Complement|Easy||
+| [] |477|Total Hamming Distance|Medium||
+| [] |480|Sliding Window Median|Hard||
+| [] |481|Magical String|Medium||
+| [] |482|License Key Formatting|Medium||
+| [] |483|Smallest Good Base|Hard||
+| [] |484|Find Permutation|Medium||
+| 👍 |485|Max Consecutive Ones|Easy||
+| [] |486|Predict the Winner|Medium||
+| [] |487|Max Consecutive Ones II|Medium||
+| [] |488|Zuma Game|Hard||
+| [] |490|The Maze|Medium||
+| [] |491|Increasing Subsequences|Medium||
+| 👍 |492|Construct the Rectangle|Easy||
+| [] |494|Target Sum|Medium||
+| [] |495|Teemo Attacking|Medium||
+| [] |499|The Maze III|Hard||
+| 👍 |500|Keyboard_Row|Easy||
+| [] |501|Find Mode in Binary Search Tree|Easy||
+| [] |505|The Maze II|Medium||
+| [] |506|Relative Ranks| Easy ||
+| [] |508|Most Frequent Subtree Sum|Medium||
+| [] |513|Find Bottom Left Tree Value|Medium||
+| [] |515|Find Largest Value in Each Tree Row|Medium||
+| [] |516|Longest Palindromic Subsequence|Medium||
