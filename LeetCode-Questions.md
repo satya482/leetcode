@@ -157,8 +157,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |150|Evaluate Reverse Polish Notation|Medium|LinkedIn|
 | [] |151|Reverse Words in a String|Medium||
 | [] |152|Maximum Product Subarray|Medium|LinkedIn|
-| [] |153|Find Minimum in Rotated Sorted Array|Medium||
-| [] |154|Find Minimum in Rotated Sorted Array II|Hard||
+| 👍 |153|Find Minimum in Rotated Sorted Array|Medium||
+| 👍 |154|Find Minimum in Rotated Sorted Array II|Hard||
 | 👍 |155|Min Stack|Easy|Google, Uber|
 | [] |156|Binary Tree Upside Down|Medium|LinkedIn|
 | [] |157|Read N Characters Given Read4|Easy|Facebook|
