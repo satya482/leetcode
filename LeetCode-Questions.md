@@ -439,7 +439,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |459|Repeated Substring Pattern|Easy||
 | [] |460|LFU Cache|Hard||
 | 👍 |461|Hamming Distance|Easy||
-| [] |462|Minimum Moves to Equal Array Elements II|Medium||
+| 👍 |462|Minimum Moves to Equal Array Elements II|Medium||
 | 👍 |463|Island Perimeter|Easy||
 | [] |464|Can I Win|Medium||
 | [] |465|Optimal Account Balancing|Hard||
