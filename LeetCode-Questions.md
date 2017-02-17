@@ -84,7 +84,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |77|Combinations|Medium||
 | [] |78|Subsets|Medium|Uber, Facebook|
 | [] |79|Word Search|Medium|Facebook|
-| [] |80|Remove Duplicates from Sorted Array II|Medium|Facebook|
+| 👍 |80|Remove Duplicates from Sorted Array II|Medium|Facebook|
 | [] |81|Search in Rotated Sorted Array II|Medium||
 | [] |82|Remove Duplicates from Sorted List II|Medium||
 | 👍 |83|Remove Duplicates from Sorted List|Easy||
@@ -133,7 +133,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |126|Word Ladder II|Hard||
 | [] |127|Word Ladder|Medium|LinkedIn, Facebook|
 | [] |128|Longest Consecutive Sequence|Hard|Google, Facebook|
-| [] |129|Sum Root to Leaf Numbers|Medium||
+| 👍 |129|Sum Root to Leaf Numbers|Medium||
 | [] |130|Surrounded Regions|Medium||
 | [] |131|Palindrome Partitioning|Medium||
 | [] |132|Palindrome Partitioning II|Hard||
@@ -154,9 +154,9 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |147|Insertion Sort List|Medium||
 | [] |148|Sort List|Medium||
 | [] |149|Max Points on a Line|Hard|LinkedIn|
-| [] |150|Evaluate Reverse Polish Notation|Medium|LinkedIn|
+| 👍 |150|Evaluate Reverse Polish Notation|Medium|LinkedIn|
 | [] |151|Reverse Words in a String|Medium||
-| [] |152|Maximum Product Subarray|Medium|LinkedIn|
+| 👍 |152|Maximum Product Subarray|Medium|LinkedIn|
 | 👍 |153|Find Minimum in Rotated Sorted Array|Medium||
 | 👍 |154|Find Minimum in Rotated Sorted Array II|Hard||
 | 👍 |155|Min Stack|Easy|Google, Uber|
@@ -209,7 +209,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |218|The Skyline Problem|Hard|Google, Facebook|
 | 👍 |219|Contains Duplicate II|Easy|Airbnb|
 | [] |220|Contains Duplicate III|Medium|Airbnb|
-| [] |221|Maximal Square|Medium|Airbnb, Facebook|
+| 👍 |221|Maximal Square|Medium|Airbnb, Facebook|
 | [] |222|Count Complete Tree Nodes|Medium||
 | 👍 |223|Rectangle Area|Medium||
 | [] |224|Basic Calculator|Hard|Google|
@@ -271,7 +271,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |281|Zigzag Iterator|Medium|Google|
 | [] |282|Expression Add Operators|Hard|Google, Facebook|
 | 👍 |283|Move Zeroes|Easy|Facebook|
-| [] |284|Peeking Iterator|Medium|Google|
+| 👍 |284|Peeking Iterator|Medium|Google|
 | [] |285|Inorder Successor in BST|Medium|Facebook|
 | [] |286|Walls and Gates|Medium|Google, Facebook|
 | [] |287|Find the Duplicate Number|Medium||
@@ -367,7 +367,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |377|Combination Sum IV|Medium||
 | [] |378|Kth Smallest Element in a Sorted Matrix|Medium||
 | [] |379|Design Phone Directory|Medium||
-| [] |380|Insert Delete GetRandom O(1)|Medium||
+| 👍 |380|Insert Delete GetRandom O(1)|Medium||
 | [] |381|Insert Delete GetRandom O(1) - Duplicates allowed|Hard||
 | [] |382|Linked List Random Node|Medium||
 | 👍 |383|Ransom Note|Easy||
@@ -384,7 +384,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |394|Decode String|Medium||
 | [] |395|Longest Substring with At Least K Repeating Characters|Medium||
 | [] |396|Rotate Function|Medium||
-| [] |397|Integer Replacement|Medium||
+| 👍 |397|Integer Replacement|Medium||
 | [] |398|Random Pick Index|Medium||
 | [] |399|Evaluate Division|Medium||
 | [] |400|Nth Digit|Easy||
