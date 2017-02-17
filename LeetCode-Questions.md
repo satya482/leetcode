@@ -471,6 +471,9 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |499|The Maze III|Hard||
 | 👍 |500|Keyboard_Row|Easy||
 | [] |501|Find Mode in Binary Search Tree|Easy||
+| [] |502|IPO|Hard||
+| [] |503|Next Greater Element II|Medium||
+| 👍 |504|Base 7|Easy||
 | [] |505|The Maze II|Medium||
 | [] |506|Relative Ranks| Easy ||
 | [] |508|Most Frequent Subtree Sum|Medium||
