@@ -22,7 +22,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |15|3Sum|Medium|Facebook|
 | 👍 |16|3Sum Closest|Medium||
 | [] |17|Letter Combinations of a Phone Number|Medium|Google, Uber, Facebook|
-| [] |18|4Sum|Medium||
+| 👍 |18|4Sum|Medium||
 | 👍 |19|Remove Nth Node From End of List|Medium||
 | 👍 |20|Valid Parentheses|Easy|Google, Airbnb, Facebook|
 | 👍 |21|Merge Two Sorted Lists|Easy|LinkedIn|
@@ -114,7 +114,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |107|Binary Tree Level Order Traversal II|Easy||
 | 👍 |108|Convert Sorted Array to Binary Search Tree|Easy|Airbnb|
 | 👍 |109|Convert Sorted List to Binary Search Tree|Medium||
-| [] |110|Balanced Binary Tree|Easy||
+| 👍 |110|Balanced Binary Tree|Easy||
 | 👍 |111|Minimum Depth of Binary Tree|Easy||
 | 👍 |112|Path Sum|Easy||
 | [] |113|Path Sum II|Medium||
