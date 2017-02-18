@@ -106,12 +106,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |99|Recover Binary Search Tree|Hard||
 | 👍 |100|Same Tree|Easy||
 | 👍 |101|Symmetric Tree|Easy|LinkedIn|
-| [] |102|Binary Tree Level Order Traversal|Medium|LinkedIn, Facebook|
+| 👍 |102|Binary Tree Level Order Traversal|Medium|LinkedIn, Facebook|
 | [] |103|Binary Tree Zigzag Level Order Traversal|Medium|LinkedIn|
 | 👍 |104|Maximum Depth of Binary Tree|Easy|LinkedIn, Uber|
 | [] |105|Construct Binary Tree from Preorder and Inorder Traversal|Medium||
 | [] |106|Construct Binary Tree from Inorder and Postorder Traversal|Medium||
-| [] |107|Binary Tree Level Order Traversal II|Easy||
+| 👍 |107|Binary Tree Level Order Traversal II|Easy||
 | 👍 |108|Convert Sorted Array to Binary Search Tree|Easy|Airbnb|
 | 👍 |109|Convert Sorted List to Binary Search Tree|Medium||
 | 👍 |110|Balanced Binary Tree|Easy||
@@ -477,6 +477,6 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |505|The Maze II|Medium||
 | [] |506|Relative Ranks| Easy ||
 | [] |508|Most Frequent Subtree Sum|Medium||
-| [] |513|Find Bottom Left Tree Value|Medium||
-| [] |515|Find Largest Value in Each Tree Row|Medium||
+| 👍 |513|Find Bottom Left Tree Value|Medium||
+| 👍 |515|Find Largest Value in Each Tree Row|Medium||
 | [] |516|Longest Palindromic Subsequence|Medium||
