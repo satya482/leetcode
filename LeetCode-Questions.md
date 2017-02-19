@@ -58,7 +58,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |51|N-Queens|Hard||
 | [] |52|N-Queens II|Hard||
 | 👍 |53|Maximum Subarray|Easy|LinkedIn|
-| [] |54|Spiral Matrix|Medium|Google, Uber|
+| 👍 |54|Spiral Matrix|Medium|Google, Uber|
 | 👍 |55|Jump Game|Medium||
 | [] |56|Merge Intervals|Medium|LinkedIn, Google, Facebook|
 | [] |57|Insert Interval|Hard|LinkedIn, Google, Facebook|
@@ -109,7 +109,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |102|Binary Tree Level Order Traversal|Medium|LinkedIn, Facebook|
 | [] |103|Binary Tree Zigzag Level Order Traversal|Medium|LinkedIn|
 | 👍 |104|Maximum Depth of Binary Tree|Easy|LinkedIn, Uber|
-| [] |105|Construct Binary Tree from Preorder and Inorder Traversal|Medium||
+| 👍 |105|Construct Binary Tree from Preorder and Inorder Traversal|Medium||
 | [] |106|Construct Binary Tree from Inorder and Postorder Traversal|Medium||
 | 👍 |107|Binary Tree Level Order Traversal II|Easy||
 | 👍 |108|Convert Sorted Array to Binary Search Tree|Easy|Airbnb|
