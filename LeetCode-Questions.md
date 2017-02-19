@@ -152,7 +152,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |145|Binary Tree Postorder Traversal|Hard||
 | [] |146|LRU Cache|Hard|Google, Uber, Facebook|
 | [] |147|Insertion Sort List|Medium||
-| [] |148|Sort List|Medium||
+| 👍 |148|Sort List|Medium||
 | [] |149|Max Points on a Line|Hard|LinkedIn|
 | 👍 |150|Evaluate Reverse Polish Notation|Medium|LinkedIn|
 | [] |151|Reverse Words in a String|Medium||
@@ -217,7 +217,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |226|Invert Binary Tree|Easy||
 | [] |227|Basic Calculator II|Medium||
 | [] |228|Summary Ranges|Medium|Google|
-| [] |229|Majority Element II|Medium||
+| 👍 |229|Majority Element II|Medium||
 | [] |230|Kth Smallest Element in a BST|Medium|Google, Uber|
 | 👍 |231|Power of Two|Easy|Google|
 | 👍 |232|Implement Queue using Stacks|Easy||
