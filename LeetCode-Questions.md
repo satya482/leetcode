@@ -187,7 +187,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |190|Reverse Bits|Easy|Airbnb|
 | 👍 |191|Number of 1 Bits|Easy||
 | [] |198|House Robber|Easy|LinkedIn, Airbnb|
-| [] |199|Binary Tree Right Side View|Medium||
+| 👍 |199|Binary Tree Right Side View|Medium||
 | [] |200|Number of Islands|Medium|Google, Facebook|
 | 👍 |201|Bitwise AND of Numbers Range|Medium||
 | 👍 |202|Happy Number|Easy|Uber, Airbnb|
@@ -379,7 +379,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |389|Find the Difference|Easy||
 | [] |390|Elimination Game|Medium||
 | [] |391|Perfect Rectangle|Hard||
-| [] |392|Is Subsequence|Medium||
+| 👍 |392|Is Subsequence|Medium||
 | [] |393|UTF-8 Validation|Medium||
 | [] |394|Decode String|Medium||
 | [] |395|Longest Substring with At Least K Repeating Characters|Medium||
