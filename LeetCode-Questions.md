@@ -132,7 +132,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |125|Valid Palindrome|Easy|Uber, Facebook|
 | [] |126|Word Ladder II|Hard||
 | [] |127|Word Ladder|Medium|LinkedIn, Facebook|
-| [] |128|Longest Consecutive Sequence|Hard|Google, Facebook|
+| 👍 |128|Longest Consecutive Sequence|Hard|Google, Facebook|
 | 👍 |129|Sum Root to Leaf Numbers|Medium||
 | [] |130|Surrounded Regions|Medium||
 | 👍 |131|Palindrome Partitioning|Medium||
