@@ -43,15 +43,15 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |36|Valid Sudoku|Medium|Uber|
 | [] |37|Sudoku Solver|Hard|Uber|
 | 👍 |38|Count and Say|Easy|Facebook|
-| [] |39|Combination Sum|Medium|Uber|
-| [] |40|Combination Sum II|Medium||
+| 👍 |39|Combination Sum|Medium|Uber|
+| 👍 |40|Combination Sum II|Medium||
 | 👍 |41|First Missing Positive|Hard||
 | [] |42|Trapping Rain Water|Hard|Google|
 | [] |43|Multiply Strings|Medium|Facebook|
 | 👍 |44|Wildcard Matching|Hard|Google, Facebook|
 | [] |45|Jump Game II|Hard||
-| [] |46|Permutations|Medium|LinkedIn|
-| [] |47|Permutations II|Medium|LinkedIn|
+| 👍 |46|Permutations|Medium|LinkedIn|
+| 👍 |47|Permutations II|Medium|LinkedIn|
 | 👍 |48|Rotate Image|Medium||
 | 👍 |49|Group Anagrams|Medium|Uber, Facebook|
 | 👍 |50|Pow(x, n)|Medium|LinkedIn, Google, Facebook|
@@ -81,8 +81,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |74|Search a 2D Matrix|Medium||
 | 👍 |75|Sort Colors|Medium|Facebook|
 | [] |76|Minimum Window Substring|Hard|LinkedIn, Uber, Facebook|
-| [] |77|Combinations|Medium||
-| [] |78|Subsets|Medium|Uber, Facebook|
+| 👍 |77|Combinations|Medium||
+| 👍 |78|Subsets|Medium|Uber, Facebook|
 | [] |79|Word Search|Medium|Facebook|
 | 👍 |80|Remove Duplicates from Sorted Array II|Medium|Facebook|
 | [] |81|Search in Rotated Sorted Array II|Medium||
@@ -94,7 +94,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |87|Scramble String|Hard||
 | 👍 |88|Merge Sorted Array|Easy|Facebook|
 | [] |89|Gray Code|Medium||
-| [] |90|Subsets II|Medium|Facebook|
+| 👍 |90|Subsets II|Medium|Facebook|
 | [] |91|Decode Ways|Medium|Uber, Facebook|
 | [] |92|Reverse Linked List II|Medium||
 | [] |93|Restore IP Addresses|Medium||
@@ -135,7 +135,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |128|Longest Consecutive Sequence|Hard|Google, Facebook|
 | 👍 |129|Sum Root to Leaf Numbers|Medium||
 | [] |130|Surrounded Regions|Medium||
-| [] |131|Palindrome Partitioning|Medium||
+| 👍 |131|Palindrome Partitioning|Medium||
 | [] |132|Palindrome Partitioning II|Hard||
 | [] |133|Clone Graph|Medium|Google, Uber, Facebook|
 | [] |134|Gas Station|Medium||
@@ -186,7 +186,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |189|Rotate Array|Easy||
 | 👍 |190|Reverse Bits|Easy|Airbnb|
 | 👍 |191|Number of 1 Bits|Easy||
-| [] |198|House Robber|Easy|LinkedIn, Airbnb|
+| 👍 |198|House Robber|Easy|LinkedIn, Airbnb|
 | 👍 |199|Binary Tree Right Side View|Medium||
 | [] |200|Number of Islands|Medium|Google, Facebook|
 | 👍 |201|Bitwise AND of Numbers Range|Medium||
