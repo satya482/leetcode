@@ -334,7 +334,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |344|Reverse String|Easy||
 | 👍 |345|Reverse Vowels of a String|Easy||
 | [] |346|Moving Average from Data Stream|Easy||
-| [] |347|Top K Frequent Elements|Medium||
+| 👍 |347|Top K Frequent Elements|Medium||
 | [] |348|Design Tic-Tac-Toe|Medium||
 | 👍 |349|Intersection of Two Arrays|Easy||
 | 👍 |350|Intersection of Two Arrays II|Easy||
