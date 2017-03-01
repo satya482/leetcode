@@ -95,7 +95,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |88|Merge Sorted Array|Easy|Facebook|
 | [] |89|Gray Code|Medium||
 | 👍 |90|Subsets II|Medium|Facebook|
-| [] |91|Decode Ways|Medium|Uber, Facebook|
+| 👍 |91|Decode Ways|Medium|Uber, Facebook|
 | [] |92|Reverse Linked List II|Medium||
 | [] |93|Restore IP Addresses|Medium||
 | 👍 |94|Binary Tree Inorder Traversal|Medium||
@@ -218,7 +218,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |227|Basic Calculator II|Medium||
 | [] |228|Summary Ranges|Medium|Google|
 | 👍 |229|Majority Element II|Medium||
-| [] |230|Kth Smallest Element in a BST|Medium|Google, Uber|
+| 👍 |230|Kth Smallest Element in a BST|Medium|Google, Uber|
 | 👍 |231|Power of Two|Easy|Google|
 | 👍 |232|Implement Queue using Stacks|Easy||
 | [] |233|Number of Digit One|Hard||
@@ -433,7 +433,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |451|Sort Characters By Frequency|Medium||
 | [] |452|Minimum Number of Arrows to Burst Balloons|Medium||
 | 👍 |453|Minimum Moves to Equal Array Elements|Easy||
-| [] |454|4Sum II|Medium||
+| 👍 |454|4Sum II|Medium||
 | 👍 |455|Assign Cookies|Easy||
 | [] |456|132 Pattern|Medium||
 | [] |459|Repeated Substring Pattern|Easy||
