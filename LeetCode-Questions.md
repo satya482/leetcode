@@ -60,7 +60,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |53|Maximum Subarray|Easy|LinkedIn|
 | 👍 |54|Spiral Matrix|Medium|Google, Uber|
 | 👍 |55|Jump Game|Medium||
-| [] |56|Merge Intervals|Medium|LinkedIn, Google, Facebook|
+| 👍 |56|Merge Intervals|Medium|LinkedIn, Google, Facebook|
 | [] |57|Insert Interval|Hard|LinkedIn, Google, Facebook|
 | 👍 |58|Length of Last Word|Easy||
 | [] |59|Spiral Matrix II|Medium||
