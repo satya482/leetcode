@@ -107,7 +107,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |100|Same Tree|Easy||
 | 👍 |101|Symmetric Tree|Easy|LinkedIn|
 | 👍 |102|Binary Tree Level Order Traversal|Medium|LinkedIn, Facebook|
-| [] |103|Binary Tree Zigzag Level Order Traversal|Medium|LinkedIn|
+| 👍 |103|Binary Tree Zigzag Level Order Traversal|Medium|LinkedIn|
 | 👍 |104|Maximum Depth of Binary Tree|Easy|LinkedIn, Uber|
 | 👍 |105|Construct Binary Tree from Preorder and Inorder Traversal|Medium||
 | [] |106|Construct Binary Tree from Inorder and Postorder Traversal|Medium||
@@ -274,7 +274,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |284|Peeking Iterator|Medium|Google|
 | [] |285|Inorder Successor in BST|Medium|Facebook|
 | [] |286|Walls and Gates|Medium|Google, Facebook|
-| [] |287|Find the Duplicate Number|Medium||
+| 👍 |287|Find the Duplicate Number|Medium||
 | [] |288|Unique Word Abbreviation|Medium|Google|
 | [] |289|Game of Life|Medium|Google|
 | 👍 |290|Word Pattern|Easy|Uber|
@@ -365,7 +365,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |375|Guess Number Higher or Lower II|Medium||
 | [] |376|Wiggle Subsequence|Medium||
 | [] |377|Combination Sum IV|Medium||
-| [] |378|Kth Smallest Element in a Sorted Matrix|Medium||
+| 👍 |378|Kth Smallest Element in a Sorted Matrix|Medium||
 | [] |379|Design Phone Directory|Medium||
 | 👍 |380|Insert Delete GetRandom O(1)|Medium||
 | [] |381|Insert Delete GetRandom O(1) - Duplicates allowed|Hard||
