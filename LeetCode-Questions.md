@@ -26,7 +26,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |19|Remove Nth Node From End of List|Medium||
 | 👍 |20|Valid Parentheses|Easy|Google, Airbnb, Facebook|
 | 👍 |21|Merge Two Sorted Lists|Easy|LinkedIn|
-| [] |22|Generate Parentheses|Medium|Google, Uber|
+| 👍 |22|Generate Parentheses|Medium|Google, Uber|
 | [] |23|Merge k Sorted Lists|Hard|LinkedIn, Google, Uber, Airbnb, Facebook|
 | 👍 |24|Swap Nodes in Pairs|Medium|Uber|
 | [] |25|Reverse Nodes in k-Group|Hard|Facebook|
@@ -120,7 +120,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |113|Path Sum II|Medium||
 | [] |114|Flatten Binary Tree to Linked List|Medium||
 | [] |115|Distinct Subsequences|Hard||
-| [] |116|Populating Next Right Pointers in Each Node|Medium||
+| 👍 |116|Populating Next Right Pointers in Each Node|Medium||
 | [] |117|Populating Next Right Pointers in Each Node II|Medium|Facebook|
 | 👍 |118|Pascal's Triangle|Easy||
 | [] |119|Pascal's Triangle II|Easy||
@@ -328,7 +328,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |338|Counting Bits|Medium||
 | [] |339|Nested List Weight Sum|Easy|LinkedIn|
 | [] |340|Longest Substring with At Most K Distinct Characters|Hard|Google|
-| [] |341|Flatten Nested List Iterator|Medium|Google|
+| 👍 |341|Flatten Nested List Iterator|Medium|Google|
 | 👍 |342|Power of Four|Easy||
 | 👍 |343|Integer Break|Medium||
 | 👍 |344|Reverse String|Easy||
