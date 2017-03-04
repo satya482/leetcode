@@ -15,7 +15,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |8|String to Integer (atoi)|Medium|Uber|
 | 👍 |9|Palindrome Number|Easy||
 | 👍 |10|Regular Expression Matching|Hard|Google, Uber, Airbnb, Facebook|
-| [] |11|Container With Most Water|Medium||
+| 👍 |11|Container With Most Water|Medium||
 | 👍 |12|Integer to Roman|Medium||
 | 👍 |13|Roman to Integer|Easy|Uber, Facebook|
 | 👍 |14|Longest Common Prefix|Easy||
@@ -146,7 +146,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |139|Word Break|Medium|Google, Uber, Facebook|
 | [] |140|Word Break II|Hard|Google, Uber|
 | 👍 |141|Linked List Cycle|Easy||
-| [] |142|Linked List Cycle II|Medium||
+| 👍 |142|Linked List Cycle II|Medium||
 | [] |143|Reorder List|Medium||
 | 👍 |144|Binary Tree Preorder Traversal|Medium||
 | [] |145|Binary Tree Postorder Traversal|Hard||
@@ -276,7 +276,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |286|Walls and Gates|Medium|Google, Facebook|
 | 👍 |287|Find the Duplicate Number|Medium||
 | [] |288|Unique Word Abbreviation|Medium|Google|
-| [] |289|Game of Life|Medium|Google|
+| 👍 |289|Game of Life|Medium|Google|
 | 👍 |290|Word Pattern|Easy|Uber|
 | [] |291|Word Pattern II|Hard|Uber|
 | 👍 |292|Nim Game|Easy||
