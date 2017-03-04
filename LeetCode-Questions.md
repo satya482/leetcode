@@ -266,7 +266,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |276|Paint Fence|Easy|Google|
 | [] |277|Find the Celebrity|Medium|LinkedIn, Facebook|
 | 👍 |278|First Bad Version|Easy|Facebook|
-| [] |279|Perfect Squares|Medium|Google|
+| 👍 |279|Perfect Squares|Medium|Google|
 | [] |280|Wiggle Sort|Medium|Google|
 | [] |281|Zigzag Iterator|Medium|Google|
 | [] |282|Expression Add Operators|Hard|Google, Facebook|
