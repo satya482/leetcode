@@ -38,7 +38,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |31|Next Permutation|Medium|Google|
 | [] |32|Longest Valid Parentheses|Hard||
 | [] |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber, Facebook|
-| [] |34|Search for a Range|Medium|LinkedIn|
+| 👍 |34|Search for a Range|Medium|LinkedIn|
 | 👍 |35|Search Insert Position|Easy||
 | 👍 |36|Valid Sudoku|Medium|Uber|
 | [] |37|Sudoku Solver|Hard|Uber|
