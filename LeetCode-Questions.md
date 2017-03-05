@@ -478,6 +478,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |506|Relative Ranks| Easy ||
 | [] |508|Most Frequent Subtree Sum|Medium||
 | 👍 |513|Find Bottom Left Tree Value|Medium||
+| [] |514|Freedom Trail|Hard||
 | 👍 |515|Find Largest Value in Each Tree Row|Medium||
 | [] |516|Longest Palindromic Subsequence|Medium||
 | [] |517|Super Washing Machines|Hard||
@@ -488,4 +489,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |526|Beautiful Arrangement|Medium||
 | [] |529|Minesweeper |Medium||
 | [] |530|Minimum Absolute Difference in BST|Easy||
+| [] |531|Lonely Pixel I|Medium||
+| [] |532|K-diff Pairs in an Array|Easy||
+| [] |533|Lonely Pixel II|Medium||
 | [] |535|Encode and Decode TinyURL|Medium||
