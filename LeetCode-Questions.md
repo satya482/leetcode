@@ -37,7 +37,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |30|Substring with Concatenation of All Words|Hard||
 | [] |31|Next Permutation|Medium|Google|
 | [] |32|Longest Valid Parentheses|Hard||
-| [] |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber, Facebook|
+| 👍 |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber, Facebook|
 | 👍 |34|Search for a Range|Medium|LinkedIn|
 | 👍 |35|Search Insert Position|Easy||
 | 👍 |36|Valid Sudoku|Medium|Uber|
@@ -138,7 +138,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |131|Palindrome Partitioning|Medium||
 | [] |132|Palindrome Partitioning II|Hard||
 | [] |133|Clone Graph|Medium|Google, Uber, Facebook|
-| [] |134|Gas Station|Medium||
+| 👍 |134|Gas Station|Medium||
 | [] |135|Candy|Hard||
 | 👍 |136|Single Number|Easy|Airbnb|
 | [] |137|Single Number II|Medium||
@@ -309,7 +309,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |319|Bulb Switcher|Medium||
 | [] |320|Generalized Abbreviation|Medium|Google|
 | [] |321|Create Maximum Number|Hard|Google|
-| [] |322|Coin Change|Medium||
+| 👍 |322|Coin Change|Medium||
 | [] |323|Number of Connected Components in an Undirected Graph|Medium|Google|
 | [] |324|Wiggle Sort II|Medium|Google|
 | [] |325|Maximum Size Subarray Sum Equals k|Medium|Facebook|
