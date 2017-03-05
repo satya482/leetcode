@@ -284,7 +284,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |294|Flip Game II|Medium|Google|
 | [] |295|Find Median from Data Stream|Hard|Google|
 | [] |296|Best Meeting Point|Hard||
-| [] |297|Serialize and Deserialize Binary Tree|Hard|LinkedIn, Google, Uber, Facebook|
+| 👍 |297|Serialize and Deserialize Binary Tree|Hard|LinkedIn, Google, Uber, Facebook|
 | [] |298|Binary Tree Longest Consecutive Sequence|Medium|Google|
 | [] |299|Bulls and Cows|Medium||
 | 👍 |300|Longest Increasing Subsequence|Medium||
