@@ -488,7 +488,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |525|Contiguous Array|Medium||
 | [] |526|Beautiful Arrangement|Medium||
 | [] |529|Minesweeper |Medium||
-| [] |530|Minimum Absolute Difference in BST|Easy||
+| 👍 |530|Minimum Absolute Difference in BST|Easy||
 | [] |531|Lonely Pixel I|Medium||
 | [] |532|K-diff Pairs in an Array|Easy||
 | [] |533|Lonely Pixel II|Medium||
