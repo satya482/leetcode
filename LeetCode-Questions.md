@@ -480,3 +480,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |513|Find Bottom Left Tree Value|Medium||
 | 👍 |515|Find Largest Value in Each Tree Row|Medium||
 | [] |516|Longest Palindromic Subsequence|Medium||
+| [] |517|Super Washing Machines|Hard||
+| 👍 |520|Detect Capital|Easy||
+| [] |523|Continuous Subarray Sum|Medium||
+| [] |524|Longest Word in Dictionary through Deleting|Medium||
+| [] |525|Contiguous Array|Medium||
+| [] |526|Beautiful Arrangement|Medium||
+| [] |529|Minesweeper |Medium||
+| [] |530|Minimum Absolute Difference in BST|Easy||
+| [] |535|Encode and Decode TinyURL|Medium||
