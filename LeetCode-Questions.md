@@ -251,7 +251,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |260|Single Number III|Medium||
 | [] |261|Graph Valid Tree|Medium|Google, Facebook|
 | 👍 |263|Ugly Number|Easy||
-| [] |264|Ugly Number II|Medium||
+| 👍 |264|Ugly Number II|Medium||
 | [] |265|Paint House II|Hard|Facebook|
 | [] |266|Palindrome Permutation|Easy|Google, Uber|
 | [] |267|Palindrome Permutation II|Medium||
