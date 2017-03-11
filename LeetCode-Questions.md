@@ -21,7 +21,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |14|Longest Common Prefix|Easy||
 | 👍 |15|3Sum|Medium|Facebook|
 | 👍 |16|3Sum Closest|Medium||
-| [] |17|Letter Combinations of a Phone Number|Medium|Google, Uber, Facebook|
+| 👍 |17|Letter Combinations of a Phone Number|Medium|Google, Uber, Facebook|
 | 👍 |18|4Sum|Medium||
 | 👍 |19|Remove Nth Node From End of List|Medium||
 | 👍 |20|Valid Parentheses|Easy|Google, Airbnb, Facebook|
@@ -150,7 +150,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |143|Reorder List|Medium||
 | 👍 |144|Binary Tree Preorder Traversal|Medium||
 | [] |145|Binary Tree Postorder Traversal|Hard||
-| [] |146|LRU Cache|Hard|Google, Uber, Facebook|
+| 👍 |146|LRU Cache|Hard|Google, Uber, Facebook|
 | [] |147|Insertion Sort List|Medium||
 | 👍 |148|Sort List|Medium||
 | [] |149|Max Points on a Line|Hard|LinkedIn|
