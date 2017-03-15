@@ -466,8 +466,11 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |490|The Maze|Medium||
 | [] |491|Increasing Subsequences|Medium||
 | 👍 |492|Construct the Rectangle|Easy||
+| [] |493|Reverse Pairs|Hard||
 | [] |494|Target Sum|Medium||
 | [] |495|Teemo Attacking|Medium||
+| [] |496|Next Greater Element I|Easy||
+| [] |498|Diagonal Traverse|Medium||
 | [] |499|The Maze III|Hard||
 | 👍 |500|Keyboard_Row|Easy||
 | [] |501|Find Mode in Binary Search Tree|Easy||
@@ -487,9 +490,13 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |524|Longest Word in Dictionary through Deleting|Medium||
 | [] |525|Contiguous Array|Medium||
 | [] |526|Beautiful Arrangement|Medium||
-| [] |529|Minesweeper |Medium||
+| [] |527|Word Abbreviation|Hard||
+| [] |529|Minesweeper|Medium||
 | 👍 |530|Minimum Absolute Difference in BST|Easy||
 | [] |531|Lonely Pixel I|Medium||
 | [] |532|K-diff Pairs in an Array|Easy||
 | [] |533|Lonely Pixel II|Medium||
 | [] |535|Encode and Decode TinyURL|Medium||
+| [] |536|Construct Binary Tree from String|Medium||
+| [] |539|Minimum Time Difference|Medium||
+| [] |541|Reverse String II|Easy||
