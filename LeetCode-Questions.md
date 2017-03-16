@@ -46,7 +46,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |39|Combination Sum|Medium|Uber|
 | 👍 |40|Combination Sum II|Medium||
 | 👍 |41|First Missing Positive|Hard||
-| [] |42|Trapping Rain Water|Hard|Google|
+| 👍 |42|Trapping Rain Water|Hard|Google|
 | [] |43|Multiply Strings|Medium|Facebook|
 | 👍 |44|Wildcard Matching|Hard|Google, Facebook|
 | [] |45|Jump Game II|Hard||
