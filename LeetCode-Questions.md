@@ -203,7 +203,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |212|Word Search II|Hard|Google, Airbnb|
 | [] |213|House Robber II|Medium||
 | [] |214|Shortest Palindrome|Hard|Google|
-| [] |215|Kth Largest Element in an Array|Medium|Facebook|
+| 👍 |215|Kth Largest Element in an Array|Medium|Facebook|
 | [] |216|Combination Sum III|Medium||
 | 👍 |217|Contains Duplicate|Easy|Airbnb|
 | [] |218|The Skyline Problem|Hard|Google, Facebook|
@@ -282,7 +282,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |292|Nim Game|Easy||
 | [] |293|Flip Game|Easy|Google|
 | [] |294|Flip Game II|Medium|Google|
-| [] |295|Find Median from Data Stream|Hard|Google|
+| 👍 |295|Find Median from Data Stream|Hard|Google|
 | [] |296|Best Meeting Point|Hard||
 | 👍 |297|Serialize and Deserialize Binary Tree|Hard|LinkedIn, Google, Uber, Facebook|
 | [] |298|Binary Tree Longest Consecutive Sequence|Medium|Google|
@@ -382,7 +382,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |392|Is Subsequence|Medium||
 | [] |393|UTF-8 Validation|Medium||
 | [] |394|Decode String|Medium||
-| [] |395|Longest Substring with At Least K Repeating Characters|Medium||
+| 👍 |395|Longest Substring with At Least K Repeating Characters|Medium||
 | [] |396|Rotate Function|Medium||
 | 👍 |397|Integer Replacement|Medium||
 | [] |398|Random Pick Index|Medium||
