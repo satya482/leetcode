@@ -161,7 +161,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |154|Find Minimum in Rotated Sorted Array II|Hard||
 | 👍 |155|Min Stack|Easy|Google, Uber|
 | [] |156|Binary Tree Upside Down|Medium|LinkedIn|
-| [] |157|Read N Characters Given Read4|Easy|Facebook|
+| 😊 |157|Read N Characters Given Read4|Easy|Facebook|
 | [] |158|Read N Characters Given Read4 II - Call multiple times|Hard|Google, Facebook|
 | [] |159|Longest Substring with At Most Two Distinct Characters|Hard|Google|
 | 👍 |160|Intersection of Two Linked Lists|Easy|Airbnb|
