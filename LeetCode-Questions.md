@@ -335,13 +335,13 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |341|Flatten Nested List Iterator|Medium|Google| Top Interview Question |
 | 👍 |342|Power of Four|Easy||
 | 👍 |343|Integer Break|Medium||
-| 👍 |344|Reverse String|Easy|| Top Interview Question |
+| 👍 |344|Reverse String|Easy| C | Top Interview Question |
 | 👍 |345|Reverse Vowels of a String|Easy||
 | [] |346|Moving Average from Data Stream|Easy||
-| 👍 |347|Top K Frequent Elements|Medium|| Top Interview Question |
-| [] |348|Design Tic-Tac-Toe|Medium|| Top Interview Question |
+| 👍 |347|Top K Frequent Elements|Medium| C | Top Interview Question |
+| [] |348|Design Tic-Tac-Toe|Medium| C | Top Interview Question |
 | 👍 |349|Intersection of Two Arrays|Easy||
-| 👍 |350|Intersection of Two Arrays II|Easy|| Top Interview Question |
+| 👍 |350|Intersection of Two Arrays II|Easy| C | Top Interview Question |
 | [] |351|Android Unlock Patterns|Medium||
 | [] |352|Data Stream as Disjoint Intervals|Hard||
 | [] |353|Design Snake Game|Medium||
@@ -362,23 +362,23 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |368|Largest Divisible Subset|Medium||
 | [] |369|Plus One Linked List|Medium||
 | [] |370|Range Addition|Medium||
-| 👍 |371|Sum of Two Integers|Easy|| Top Interview Question |
+| 👍 |371|Sum of Two Integers|Easy| C | Top Interview Question |
 | [] |372|Super Pow|Medium||
 | [] |373|Find K Pairs with Smallest Sums|Medium||
 | 👍 |374|Guess Number Higher or Lower|Easy||
 | [] |375|Guess Number Higher or Lower II|Medium||
 | [] |376|Wiggle Subsequence|Medium||
 | [] |377|Combination Sum IV|Medium||
-| 👍 |378|Kth Smallest Element in a Sorted Matrix|Medium|| Top Interview Question |
+| 👍 |378|Kth Smallest Element in a Sorted Matrix|Medium| C | Top Interview Question |
 | [] |379|Design Phone Directory|Medium||
-| 👍 |380|Insert Delete GetRandom O(1)|Medium|| Top Interview Question |
+| 👍 |380|Insert Delete GetRandom O(1)|Medium| C | Top Interview Question |
 | [] |381|Insert Delete GetRandom O(1) - Duplicates allowed|Hard||
 | [] |382|Linked List Random Node|Medium||
 | 👍 |383|Ransom Note|Easy||
-| 👍 |384|Shuffle an Array|Medium|| Top Interview Question |
+| 👍 |384|Shuffle an Array|Medium| C | Top Interview Question |
 | [] |385|Mini Parser|Medium||
 | [] |386|Lexicographical Numbers|Medium||
-| 👍 |387|First Unique Character in a String|Easy|| Top Interview Question |
+| 👍 |387|First Unique Character in a String|Easy| C | Top Interview Question |
 | [] |388|Longest Absolute File Path|Medium||
 | 👍 |389|Find the Difference|Easy||
 | [] |390|Elimination Game|Medium||
@@ -386,7 +386,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |392|Is Subsequence|Medium||
 | [] |393|UTF-8 Validation|Medium||
 | [] |394|Decode String|Medium||
-| 👍 |395|Longest Substring with At Least K Repeating Characters|Medium|| Top Interview Question |
+| 👍 |395|Longest Substring with At Least K Repeating Characters|Medium| C | Top Interview Question |
 | [] |396|Rotate Function|Medium||
 | 👍 |397|Integer Replacement|Medium||
 | [] |398|Random Pick Index|Medium||
@@ -403,7 +403,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |409|Longest Palindrome|Easy||
 | [] |410|Split Array Largest Sum|Hard||
 | [] |411|Minimum Unique Word Abbreviation|Hard||
-| 👍 |412|Fizz Buzz|Easy|| Top Interview Question |
+| 👍 |412|Fizz Buzz|Easy| C | Top Interview Question |
 | 👍 |413|Arithmetic Slices|Medium||
 | 👍 |414|Third Maximum Number|Easy||
 | 👍 |415|Add Strings|Easy||
@@ -437,7 +437,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |451|Sort Characters By Frequency|Medium||
 | [] |452|Minimum Number of Arrows to Burst Balloons|Medium||
 | 👍 |453|Minimum Moves to Equal Array Elements|Easy||
-| 👍 |454|4Sum II|Medium|| Top Interview Question |
+| 👍 |454|4Sum II|Medium| C | Top Interview Question |
 | 👍 |455|Assign Cookies|Easy||
 | [] |456|132 Pattern|Medium||
 | [] |459|Repeated Substring Pattern|Easy||
