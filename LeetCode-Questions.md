@@ -192,7 +192,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |191|Number of 1 Bits|Easy|| Top Interview Question |
 | 👍 |198|House Robber|Easy|LinkedIn, Airbnb| Top Interview Question |
 | 👍 |199|Binary Tree Right Side View|Medium||
-| [] |200|Number of Islands|Medium|Google, Facebook| Top Interview Question |
+| 👍 |200|Number of Islands|Medium|Google, Facebook| Top Interview Question |
 | 👍 |201|Bitwise AND of Numbers Range|Medium||
 | 👍 |202|Happy Number|Easy|Uber, Airbnb| Top Interview Question |
 | 👍 |203|Remove Linked List Elements|Easy||
