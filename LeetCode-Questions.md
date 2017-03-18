@@ -8,7 +8,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 [] - Not yet Done
 
 |Status | Number | Title | Difficulty | Companies | Top Interview Question |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 👍 |1|Two Sum|Easy|LinkedIn, Uber, Airbnb, Facebook| Top Interview Question |
 | 👍 |2|Add Two Numbers|Medium|Airbnb| Top Interview Question |
 | 👍 |3|Longest Substring Without Repeating Characters|Medium|| Top Interview Question |
