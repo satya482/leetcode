@@ -3,6 +3,10 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 
 ## Questions
 
+👍 - Unlocked & Done
+😊 - Locked & Done
+[] - Not yet Done
+
 |Status | Number | Title | Difficulty | Companies
 | --- | --- | --- | --- | --- |
 | 👍 |1|Two Sum|Easy|LinkedIn, Uber, Airbnb, Facebook| 
@@ -239,7 +243,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |248|Strobogrammatic Number III|Hard||
 | [] |249|Group Shifted Strings|Medium|Google, Uber|
 | [] |250|Count Univalue Subtrees|Medium||
-| [] |251|Flatten 2D Vector|Medium|Google, Airbnb|
+| 😊  |251|Flatten 2D Vector|Medium|Google, Airbnb|
 | [] |252|Meeting Rooms|Easy|Facebook|
 | [] |253|Meeting Rooms II|Medium|Google, Facebook|
 | [] |254|Factor Combinations|Medium|LinkedIn, Uber|
@@ -268,11 +272,11 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |278|First Bad Version|Easy|Facebook|
 | 👍 |279|Perfect Squares|Medium|Google|
 | [] |280|Wiggle Sort|Medium|Google|
-| [] |281|Zigzag Iterator|Medium|Google|
+| 😊 |281|Zigzag Iterator|Medium|Google|
 | [] |282|Expression Add Operators|Hard|Google, Facebook|
 | 👍 |283|Move Zeroes|Easy|Facebook|
 | 👍 |284|Peeking Iterator|Medium|Google|
-| [] |285|Inorder Successor in BST|Medium|Facebook|
+| 😊 |285|Inorder Successor in BST|Medium|Facebook|
 | [] |286|Walls and Gates|Medium|Google, Facebook|
 | 👍 |287|Find the Duplicate Number|Medium||
 | [] |288|Unique Word Abbreviation|Medium|Google|
