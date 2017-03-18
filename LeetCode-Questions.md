@@ -147,7 +147,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |136|Single Number|Easy|Airbnb| Top Interview Question |
 | [] |137|Single Number II|Medium||
 | [] |138|Copy List with Random Pointer|Medium|Uber| Top Interview Question |
-| [] |139|Word Break|Medium|Google, Uber, Facebook| Top Interview Question |
+| 👍 |139|Word Break|Medium|Google, Uber, Facebook| Top Interview Question |
 | [] |140|Word Break II|Hard|Google, Uber| Top Interview Question |
 | 👍 |141|Linked List Cycle|Easy|| Top Interview Question |
 | 👍 |142|Linked List Cycle II|Medium||
@@ -219,7 +219,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |224|Basic Calculator|Hard|Google|
 | 👍 |225|Implement Stack using Queues|Easy||
 | 👍 |226|Invert Binary Tree|Easy||
-| [] |227|Basic Calculator II|Medium|| Top Interview Question |
+| 👍 |227|Basic Calculator II|Medium|| Top Interview Question |
 | [] |228|Summary Ranges|Medium|Google|
 | 👍 |229|Majority Element II|Medium||
 | 👍 |230|Kth Smallest Element in a BST|Medium|Google, Uber| Top Interview Question |
