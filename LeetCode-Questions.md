@@ -7,116 +7,116 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 😊 - Locked & Done
 [] - Not yet Done
 
-|Status | Number | Title | Difficulty | Companies
+|Status | Number | Title | Difficulty | Companies | Top Interview Question |
 | --- | --- | --- | --- | --- |
-| 👍 |1|Two Sum|Easy|LinkedIn, Uber, Airbnb, Facebook| 
-| 👍 |2|Add Two Numbers|Medium|Airbnb|
-| 👍 |3|Longest Substring Without Repeating Characters|Medium||
-| [] |4|Median of Two Sorted Arrays|Hard|Google|
-| 👍 |5|Longest Palindromic Substring|Medium||
+| 👍 |1|Two Sum|Easy|LinkedIn, Uber, Airbnb, Facebook| Top Interview Question |
+| 👍 |2|Add Two Numbers|Medium|Airbnb| Top Interview Question |
+| 👍 |3|Longest Substring Without Repeating Characters|Medium|| Top Interview Question |
+| [] |4|Median of Two Sorted Arrays|Hard|Google| Top Interview Question |
+| 👍 |5|Longest Palindromic Substring|Medium|| Top Interview Question |
 | 👍 |6|ZigZag Conversion|Medium||
-| 👍 |7|Reverse Integer|Easy||
-| 👍 |8|String to Integer (atoi)|Medium|Uber|
+| 👍 |7|Reverse Integer|Easy|| Top Interview Question |
+| 👍 |8|String to Integer (atoi)|Medium|Uber| Top Interview Question |
 | 👍 |9|Palindrome Number|Easy||
-| 👍 |10|Regular Expression Matching|Hard|Google, Uber, Airbnb, Facebook|
-| 👍 |11|Container With Most Water|Medium||
+| 👍 |10|Regular Expression Matching|Hard|Google, Uber, Airbnb, Facebook| Top Interview Question |
+| 👍 |11|Container With Most Water|Medium|| Top Interview Question |
 | 👍 |12|Integer to Roman|Medium||
-| 👍 |13|Roman to Integer|Easy|Uber, Facebook|
-| 👍 |14|Longest Common Prefix|Easy||
-| 👍 |15|3Sum|Medium|Facebook|
+| 👍 |13|Roman to Integer|Easy|Uber, Facebook| Top Interview Question |
+| 👍 |14|Longest Common Prefix|Easy|| Top Interview Question |
+| 👍 |15|3Sum|Medium|Facebook| Top Interview Question |
 | 👍 |16|3Sum Closest|Medium||
-| 👍 |17|Letter Combinations of a Phone Number|Medium|Google, Uber, Facebook|
+| 👍 |17|Letter Combinations of a Phone Number|Medium|Google, Uber, Facebook| Top Interview Question |
 | 👍 |18|4Sum|Medium||
-| 👍 |19|Remove Nth Node From End of List|Medium||
-| 👍 |20|Valid Parentheses|Easy|Google, Airbnb, Facebook|
-| 👍 |21|Merge Two Sorted Lists|Easy|LinkedIn|
-| 👍 |22|Generate Parentheses|Medium|Google, Uber|
-| [] |23|Merge k Sorted Lists|Hard|LinkedIn, Google, Uber, Airbnb, Facebook|
+| 👍 |19|Remove Nth Node From End of List|Medium|| Top Interview Question |
+| 👍 |20|Valid Parentheses|Easy|Google, Airbnb, Facebook| Top Interview Question |
+| 👍 |21|Merge Two Sorted Lists|Easy|LinkedIn| Top Interview Question |
+| 👍 |22|Generate Parentheses|Medium|Google, Uber| Top Interview Question |
+| [] |23|Merge k Sorted Lists|Hard|LinkedIn, Google, Uber, Airbnb, Facebook| Top Interview Question |
 | 👍 |24|Swap Nodes in Pairs|Medium|Uber|
 | [] |25|Reverse Nodes in k-Group|Hard|Facebook|
-| 👍 |26|Remove Duplicates from Sorted Array|Easy|Facebook|
+| 👍 |26|Remove Duplicates from Sorted Array|Easy|Facebook| Top Interview Question |
 | 👍 |27|Remove Element|Easy||
-| 👍 |28|Implement strStr()|Easy|Facebook|
-| 👍 |29|Divide Two Integers|Medium||
+| 👍 |28|Implement strStr()|Easy|Facebook| Top Interview Question |
+| 👍 |29|Divide Two Integers|Medium|| Top Interview Question |
 | [] |30|Substring with Concatenation of All Words|Hard||
 | [] |31|Next Permutation|Medium|Google|
 | [] |32|Longest Valid Parentheses|Hard||
-| 👍 |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber, Facebook|
-| 👍 |34|Search for a Range|Medium|LinkedIn|
+| 👍 |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber, Facebook| Top Interview Question |
+| 👍 |34|Search for a Range|Medium|LinkedIn| Top Interview Question |
 | 👍 |35|Search Insert Position|Easy||
-| 👍 |36|Valid Sudoku|Medium|Uber|
+| 👍 |36|Valid Sudoku|Medium|Uber| Top Interview Question |
 | [] |37|Sudoku Solver|Hard|Uber|
-| 👍 |38|Count and Say|Easy|Facebook|
+| 👍 |38|Count and Say|Easy|Facebook| Top Interview Question |
 | 👍 |39|Combination Sum|Medium|Uber|
 | 👍 |40|Combination Sum II|Medium||
-| 👍 |41|First Missing Positive|Hard||
-| 👍 |42|Trapping Rain Water|Hard|Google|
+| 👍 |41|First Missing Positive|Hard|| Top Interview Question |
+| 👍 |42|Trapping Rain Water|Hard|Google| Top Interview Question |
 | [] |43|Multiply Strings|Medium|Facebook|
-| 👍 |44|Wildcard Matching|Hard|Google, Facebook|
+| 👍 |44|Wildcard Matching|Hard|Google, Facebook| Top Interview Question |
 | [] |45|Jump Game II|Hard||
-| 👍 |46|Permutations|Medium|LinkedIn|
+| 👍 |46|Permutations|Medium|LinkedIn| Top Interview Question |
 | 👍 |47|Permutations II|Medium|LinkedIn|
-| 👍 |48|Rotate Image|Medium||
-| 👍 |49|Group Anagrams|Medium|Uber, Facebook|
-| 👍 |50|Pow(x, n)|Medium|LinkedIn, Google, Facebook|
+| 👍 |48|Rotate Image|Medium|| Top Interview Question |
+| 👍 |49|Group Anagrams|Medium|Uber, Facebook| Top Interview Question |
+| 👍 |50|Pow(x, n)|Medium|LinkedIn, Google, Facebook| Top Interview Question |
 | [] |51|N-Queens|Hard||
 | [] |52|N-Queens II|Hard||
-| 👍 |53|Maximum Subarray|Easy|LinkedIn|
-| 👍 |54|Spiral Matrix|Medium|Google, Uber|
-| 👍 |55|Jump Game|Medium||
-| 👍 |56|Merge Intervals|Medium|LinkedIn, Google, Facebook|
+| 👍 |53|Maximum Subarray|Easy|LinkedIn| Top Interview Question |
+| 👍 |54|Spiral Matrix|Medium|Google, Uber| Top Interview Question |
+| 👍 |55|Jump Game|Medium|| Top Interview Question |
+| 👍 |56|Merge Intervals|Medium|LinkedIn, Google, Facebook| Top Interview Question |
 | [] |57|Insert Interval|Hard|LinkedIn, Google, Facebook|
 | 👍 |58|Length of Last Word|Easy||
 | 👍 |59|Spiral Matrix II|Medium||
 | [] |60|Permutation Sequence|Medium||
 | 👍 |61|Rotate List|Medium||
-| 👍 |62|Unique Paths|Medium||
+| 👍 |62|Unique Paths|Medium|| Top Interview Question |
 | 👍 |63|Unique Paths II|Medium||
 | 👍 |64|Minimum Path Sum|Medium||
 | [] |65|Valid Number|Hard|LinkedIn|
-| 👍 |66|Plus One|Easy|Google|
+| 👍 |66|Plus One|Easy|Google| Top Interview Question |
 | 👍 |67|Add Binary|Easy|Facebook|
 | [] |68|Text Justification|Hard|LinkedIn, Airbnb|
-| 👍 |69|Sqrt(x)|Easy|Facebook|
-| 👍 |70|Climbing Stairs|Easy||
+| 👍 |69|Sqrt(x)|Easy|Facebook| Top Interview Question |
+| 👍 |70|Climbing Stairs|Easy|| Top Interview Question |
 | [] |71|Simplify Path|Medium|Facebook|
 | 👍 |72|Edit Distance|Hard||
-| 👍 |73|Set Matrix Zeroes|Medium||
+| 👍 |73|Set Matrix Zeroes|Medium|| Top Interview Question |
 | 👍 |74|Search a 2D Matrix|Medium||
-| 👍 |75|Sort Colors|Medium|Facebook|
-| [] |76|Minimum Window Substring|Hard|LinkedIn, Uber, Facebook|
+| 👍 |75|Sort Colors|Medium|Facebook| Top Interview Question |
+| [] |76|Minimum Window Substring|Hard|LinkedIn, Uber, Facebook| Top Interview Question |
 | 👍 |77|Combinations|Medium||
-| 👍 |78|Subsets|Medium|Uber, Facebook|
-| [] |79|Word Search|Medium|Facebook|
+| 👍 |78|Subsets|Medium|Uber, Facebook| Top Interview Question |
+| [] |79|Word Search|Medium|Facebook| Top Interview Question |
 | 👍 |80|Remove Duplicates from Sorted Array II|Medium|Facebook|
 | [] |81|Search in Rotated Sorted Array II|Medium||
 | [] |82|Remove Duplicates from Sorted List II|Medium||
 | 👍 |83|Remove Duplicates from Sorted List|Easy||
-| [] |84|Largest Rectangle in Histogram|Hard||
+| [] |84|Largest Rectangle in Histogram|Hard|| Top Interview Question |
 | [] |85|Maximal Rectangle|Hard|Facebook|
 | 👍 |86|Partition List|Medium||
 | [] |87|Scramble String|Hard||
-| 👍 |88|Merge Sorted Array|Easy|Facebook|
+| 👍 |88|Merge Sorted Array|Easy|Facebook| Top Interview Question |
 | [] |89|Gray Code|Medium||
 | 👍 |90|Subsets II|Medium|Facebook|
-| 👍 |91|Decode Ways|Medium|Uber, Facebook|
+| 👍 |91|Decode Ways|Medium|Uber, Facebook| Top Interview Question |
 | [] |92|Reverse Linked List II|Medium||
 | [] |93|Restore IP Addresses|Medium||
-| 👍 |94|Binary Tree Inorder Traversal|Medium||
+| 👍 |94|Binary Tree Inorder Traversal|Medium|| Top Interview Question |
 | [] |95|Unique Binary Search Trees II|Medium||
 | 👍 |96|Unique Binary Search Trees|Medium||
 | [] |97|Interleaving String|Hard||
-| 👍 |98|Validate Binary Search Tree|Medium|Facebook|
+| 👍 |98|Validate Binary Search Tree|Medium|Facebook| Top Interview Question |
 | [] |99|Recover Binary Search Tree|Hard||
 | 👍 |100|Same Tree|Easy||
-| 👍 |101|Symmetric Tree|Easy|LinkedIn|
-| 👍 |102|Binary Tree Level Order Traversal|Medium|LinkedIn, Facebook|
-| 👍 |103|Binary Tree Zigzag Level Order Traversal|Medium|LinkedIn|
-| 👍 |104|Maximum Depth of Binary Tree|Easy|LinkedIn, Uber|
-| 👍 |105|Construct Binary Tree from Preorder and Inorder Traversal|Medium||
+| 👍 |101|Symmetric Tree|Easy|LinkedIn| Top Interview Question |
+| 👍 |102|Binary Tree Level Order Traversal|Medium|LinkedIn, Facebook| Top Interview Question |
+| 👍 |103|Binary Tree Zigzag Level Order Traversal|Medium|LinkedIn| Top Interview Question |
+| 👍 |104|Maximum Depth of Binary Tree|Easy|LinkedIn, Uber| Top Interview Question |
+| 👍 |105|Construct Binary Tree from Preorder and Inorder Traversal|Medium|| Top Interview Question |
 | [] |106|Construct Binary Tree from Inorder and Postorder Traversal|Medium||
 | 👍 |107|Binary Tree Level Order Traversal II|Easy||
-| 👍 |108|Convert Sorted Array to Binary Search Tree|Easy|Airbnb|
+| 👍 |108|Convert Sorted Array to Binary Search Tree|Easy|Airbnb| Top Interview Question |
 | 👍 |109|Convert Sorted List to Binary Search Tree|Medium||
 | 👍 |110|Balanced Binary Tree|Easy||
 | 👍 |111|Minimum Depth of Binary Tree|Easy||
@@ -124,93 +124,93 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |113|Path Sum II|Medium||
 | [] |114|Flatten Binary Tree to Linked List|Medium||
 | [] |115|Distinct Subsequences|Hard||
-| 👍 |116|Populating Next Right Pointers in Each Node|Medium||
+| 👍 |116|Populating Next Right Pointers in Each Node|Medium|| Top Interview Question |
 | [] |117|Populating Next Right Pointers in Each Node II|Medium|Facebook|
-| 👍 |118|Pascal's Triangle|Easy||
+| 👍 |118|Pascal's Triangle|Easy|| Top Interview Question |
 | [] |119|Pascal's Triangle II|Easy||
 | [] |120|Triangle|Medium||
-| 👍 |121|Best Time to Buy and Sell Stock|Easy|Uber, Facebook|
-| 👍 |122|Best Time to Buy and Sell Stock II|Easy||
+| 👍 |121|Best Time to Buy and Sell Stock|Easy|Uber, Facebook| Top Interview Question |
+| 👍 |122|Best Time to Buy and Sell Stock II|Easy|| Top Interview Question |
 | [] |123|Best Time to Buy and Sell Stock III|Hard||
-| [] |124|Binary Tree Maximum Path Sum|Hard||
-| 👍 |125|Valid Palindrome|Easy|Uber, Facebook|
+| [] |124|Binary Tree Maximum Path Sum|Hard|| Top Interview Question |
+| 👍 |125|Valid Palindrome|Easy|Uber, Facebook| Top Interview Question |
 | [] |126|Word Ladder II|Hard||
-| [] |127|Word Ladder|Medium|LinkedIn, Facebook|
-| 👍 |128|Longest Consecutive Sequence|Hard|Google, Facebook|
+| [] |127|Word Ladder|Medium|LinkedIn, Facebook| Top Interview Question |
+| 👍 |128|Longest Consecutive Sequence|Hard|Google, Facebook| Top Interview Question |
 | 👍 |129|Sum Root to Leaf Numbers|Medium||
-| [] |130|Surrounded Regions|Medium||
-| 👍 |131|Palindrome Partitioning|Medium||
+| [] |130|Surrounded Regions|Medium|| Top Interview Question |
+| 👍 |131|Palindrome Partitioning|Medium|| Top Interview Question |
 | [] |132|Palindrome Partitioning II|Hard||
 | [] |133|Clone Graph|Medium|Google, Uber, Facebook|
-| 👍 |134|Gas Station|Medium||
+| 👍 |134|Gas Station|Medium|| Top Interview Question |
 | [] |135|Candy|Hard||
-| 👍 |136|Single Number|Easy|Airbnb|
+| 👍 |136|Single Number|Easy|Airbnb| Top Interview Question |
 | [] |137|Single Number II|Medium||
-| [] |138|Copy List with Random Pointer|Medium|Uber|
-| [] |139|Word Break|Medium|Google, Uber, Facebook|
-| [] |140|Word Break II|Hard|Google, Uber|
-| 👍 |141|Linked List Cycle|Easy||
+| [] |138|Copy List with Random Pointer|Medium|Uber| Top Interview Question |
+| [] |139|Word Break|Medium|Google, Uber, Facebook| Top Interview Question |
+| [] |140|Word Break II|Hard|Google, Uber| Top Interview Question |
+| 👍 |141|Linked List Cycle|Easy|| Top Interview Question |
 | 👍 |142|Linked List Cycle II|Medium||
 | [] |143|Reorder List|Medium||
 | 👍 |144|Binary Tree Preorder Traversal|Medium||
 | [] |145|Binary Tree Postorder Traversal|Hard||
-| 👍 |146|LRU Cache|Hard|Google, Uber, Facebook|
+| 👍 |146|LRU Cache|Hard|Google, Uber, Facebook| Top Interview Question |
 | [] |147|Insertion Sort List|Medium||
-| 👍 |148|Sort List|Medium||
-| [] |149|Max Points on a Line|Hard|LinkedIn|
-| 👍 |150|Evaluate Reverse Polish Notation|Medium|LinkedIn|
+| 👍 |148|Sort List|Medium|| Top Interview Question |
+| [] |149|Max Points on a Line|Hard|LinkedIn| Top Interview Question |
+| 👍 |150|Evaluate Reverse Polish Notation|Medium|LinkedIn| Top Interview Question |
 | [] |151|Reverse Words in a String|Medium||
-| 👍 |152|Maximum Product Subarray|Medium|LinkedIn|
+| 👍 |152|Maximum Product Subarray|Medium|LinkedIn| Top Interview Question |
 | 👍 |153|Find Minimum in Rotated Sorted Array|Medium||
 | 👍 |154|Find Minimum in Rotated Sorted Array II|Hard||
-| 👍 |155|Min Stack|Easy|Google, Uber|
+| 👍 |155|Min Stack|Easy|Google, Uber| Top Interview Question |
 | [] |156|Binary Tree Upside Down|Medium|LinkedIn|
 | 😊 |157|Read N Characters Given Read4|Easy|Facebook|
 | [] |158|Read N Characters Given Read4 II - Call multiple times|Hard|Google, Facebook|
 | [] |159|Longest Substring with At Most Two Distinct Characters|Hard|Google|
-| 👍 |160|Intersection of Two Linked Lists|Easy|Airbnb|
+| 👍 |160|Intersection of Two Linked Lists|Easy|Airbnb| Top Interview Question |
 | [] |161|One Edit Distance|Medium|Uber, Facebook|
-| 👍 |162|Find Peak Element|Medium|Google|
-| [] |163|Missing Ranges|Medium|Google|
+| 👍 |162|Find Peak Element|Medium|Google| Top Interview Question |
+| [] |163|Missing Ranges|Medium|Google| Top Interview Question |
 | [] |164|Maximum Gap|Hard||
 | 👍 |165|Compare Version Numbers|Medium||
-| [] |166|Fraction to Recurring Decimal|Medium|Google|
+| [] |166|Fraction to Recurring Decimal|Medium|Google| Top Interview Question |
 | 👍 |167|Two Sum II - Input array is sorted|Easy||
 | 👍 |168|Excel Sheet Column Title|Easy|Facebook|
-| 👍 |169|Majority Element|Easy||
+| 👍 |169|Majority Element|Easy|| Top Interview Question |
 | [] |170|Two Sum III - Data structure design|Easy|LinkedIn|
-| 👍 |171|Excel Sheet Column Number|Easy|Uber|
-| 👍 |172|Factorial Trailing Zeroes|Easy||
+| 👍 |171|Excel Sheet Column Number|Easy|Uber| Top Interview Question |
+| 👍 |172|Factorial Trailing Zeroes|Easy|| Top Interview Question |
 | 👍 |173|Binary Search Tree Iterator|Medium|LinkedIn, Google, Facebook|
 | [] |174|Dungeon Game|Hard||
-| 👍 |179|Largest Number|Medium||
+| 👍 |179|Largest Number|Medium|| Top Interview Question |
 | [] |186|Reverse Words in a String II|Medium|Uber|
 | [] |187|Repeated DNA Sequences|Medium|LinkedIn|
 | [] |188|Best Time to Buy and Sell Stock IV|Hard||
-| 👍 |189|Rotate Array|Easy||
-| 👍 |190|Reverse Bits|Easy|Airbnb|
-| 👍 |191|Number of 1 Bits|Easy||
-| 👍 |198|House Robber|Easy|LinkedIn, Airbnb|
+| 👍 |189|Rotate Array|Easy|| Top Interview Question |
+| 👍 |190|Reverse Bits|Easy|Airbnb| Top Interview Question |
+| 👍 |191|Number of 1 Bits|Easy|| Top Interview Question |
+| 👍 |198|House Robber|Easy|LinkedIn, Airbnb| Top Interview Question |
 | 👍 |199|Binary Tree Right Side View|Medium||
-| [] |200|Number of Islands|Medium|Google, Facebook|
+| [] |200|Number of Islands|Medium|Google, Facebook| Top Interview Question |
 | 👍 |201|Bitwise AND of Numbers Range|Medium||
-| 👍 |202|Happy Number|Easy|Uber, Airbnb|
+| 👍 |202|Happy Number|Easy|Uber, Airbnb| Top Interview Question |
 | 👍 |203|Remove Linked List Elements|Easy||
-| 👍 |204|Count Primes|Easy||
+| 👍 |204|Count Primes|Easy|| Top Interview Question |
 | 👍 |205|Isomorphic Strings|Easy|LinkedIn|
-| 👍 |206|Reverse Linked List|Easy|Uber, Facebook|
-| [] |207|Course Schedule|Medium||
-| [] |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook|
+| 👍 |206|Reverse Linked List|Easy|Uber, Facebook| Top Interview Question |
+| [] |207|Course Schedule|Medium|| Top Interview Question |
+| [] |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook| Top Interview Question |
 | [] |209|Minimum Size Subarray Sum|Medium|Facebook|
-| [] |210|Course Schedule II|Medium|Facebook|
+| [] |210|Course Schedule II|Medium|Facebook| Top Interview Question |
 | [] |211|Add and Search Word - Data structure design|Medium|Facebook|
-| [] |212|Word Search II|Hard|Google, Airbnb|
+| [] |212|Word Search II|Hard|Google, Airbnb| Top Interview Question |
 | [] |213|House Robber II|Medium||
 | [] |214|Shortest Palindrome|Hard|Google|
-| 👍 |215|Kth Largest Element in an Array|Medium|Facebook|
+| 👍 |215|Kth Largest Element in an Array|Medium|Facebook| Top Interview Question |
 | [] |216|Combination Sum III|Medium||
-| 👍 |217|Contains Duplicate|Easy|Airbnb|
-| [] |218|The Skyline Problem|Hard|Google, Facebook|
+| 👍 |217|Contains Duplicate|Easy|Airbnb| Top Interview Question |
+| [] |218|The Skyline Problem|Hard|Google, Facebook| Top Interview Question |
 | 👍 |219|Contains Duplicate II|Easy|Airbnb|
 | [] |220|Contains Duplicate III|Medium|Airbnb|
 | 👍 |221|Maximal Square|Medium|Airbnb, Facebook|
@@ -219,22 +219,22 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |224|Basic Calculator|Hard|Google|
 | 👍 |225|Implement Stack using Queues|Easy||
 | 👍 |226|Invert Binary Tree|Easy||
-| [] |227|Basic Calculator II|Medium||
+| [] |227|Basic Calculator II|Medium|| Top Interview Question |
 | [] |228|Summary Ranges|Medium|Google|
 | 👍 |229|Majority Element II|Medium||
-| 👍 |230|Kth Smallest Element in a BST|Medium|Google, Uber|
+| 👍 |230|Kth Smallest Element in a BST|Medium|Google, Uber| Top Interview Question |
 | 👍 |231|Power of Two|Easy|Google|
 | 👍 |232|Implement Queue using Stacks|Easy||
 | [] |233|Number of Digit One|Hard||
-| 👍 |234|Palindrome Linked List|Easy|Facebook|
+| 👍 |234|Palindrome Linked List|Easy|Facebook| Top Interview Question |
 | 👍 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|Facebook|
-| 👍 |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook|
-| 👍 |237|Delete Node in a Linked List|Easy||
-| 👍 |238|Product of Array Except Self|Medium|LinkedIn, Facebook|
-| [] |239|Sliding Window Maximum|Hard|Google|
-| 👍 |240|Search a 2D Matrix II|Medium|Google|
+| 👍 |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook| Top Interview Question |
+| 👍 |237|Delete Node in a Linked List|Easy|| Top Interview Question |
+| 👍 |238|Product of Array Except Self|Medium|LinkedIn, Facebook| Top Interview Question |
+| [] |239|Sliding Window Maximum|Hard|Google| Top Interview Question |
+| 👍 |240|Search a 2D Matrix II|Medium|Google| Top Interview Question |
 | [] |241|Different Ways to Add Parentheses|Medium||
-| 👍 |242|Valid Anagram|Easy|Uber|
+| 👍 |242|Valid Anagram|Easy|Uber| Top Interview Question |
 | [] |243|Shortest Word Distance|Easy|LinkedIn|
 | [] |244|Shortest Word Distance II|Medium|LinkedIn|
 | [] |245|Shortest Word Distance III|Medium|LinkedIn|
@@ -243,9 +243,9 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |248|Strobogrammatic Number III|Hard||
 | [] |249|Group Shifted Strings|Medium|Google, Uber|
 | [] |250|Count Univalue Subtrees|Medium||
-| 😊  |251|Flatten 2D Vector|Medium|Google, Airbnb|
+| 😊  |251|Flatten 2D Vector|Medium|Google, Airbnb| Top Interview Question |
 | [] |252|Meeting Rooms|Easy|Facebook|
-| [] |253|Meeting Rooms II|Medium|Google, Facebook|
+| [] |253|Meeting Rooms II|Medium|Google, Facebook| Top Interview Question |
 | [] |254|Factor Combinations|Medium|LinkedIn, Uber|
 | [] |255|Verify Preorder Sequence in Binary Search Tree|Medium||
 | [] |256|Paint House|Easy|LinkedIn|
@@ -259,8 +259,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |265|Paint House II|Hard|Facebook|
 | [] |266|Palindrome Permutation|Easy|Google, Uber|
 | [] |267|Palindrome Permutation II|Medium||
-| 👍 |268|Missing Number|Easy||
-| [] |269|Alien Dictionary|Hard|Google, Airbnb, Facebook|
+| 👍 |268|Missing Number|Easy|| Top Interview Question |
+| [] |269|Alien Dictionary|Hard|Google, Airbnb, Facebook| Top Interview Question |
 | [] |270|Closest Binary Search Tree Value|Easy|Google|
 | [] |271|Encode and Decode Strings|Medium|Google|
 | [] |272|Closest Binary Search Tree Value II|Hard|Google|
@@ -268,30 +268,30 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |274|H-Index|Medium|Google, Facebook|
 | [] |275|H-Index II|Medium|Facebook|
 | [] |276|Paint Fence|Easy|Google|
-| [] |277|Find the Celebrity|Medium|LinkedIn, Facebook|
+| [] |277|Find the Celebrity|Medium|LinkedIn, Facebook| Top Interview Question |
 | 👍 |278|First Bad Version|Easy|Facebook|
-| 👍 |279|Perfect Squares|Medium|Google|
+| 👍 |279|Perfect Squares|Medium|Google| Top Interview Question |
 | [] |280|Wiggle Sort|Medium|Google|
 | 😊 |281|Zigzag Iterator|Medium|Google|
 | [] |282|Expression Add Operators|Hard|Google, Facebook|
-| 👍 |283|Move Zeroes|Easy|Facebook|
+| 👍 |283|Move Zeroes|Easy|Facebook| Top Interview Question |
 | 👍 |284|Peeking Iterator|Medium|Google|
 | 😊 |285|Inorder Successor in BST|Medium|Facebook|
 | [] |286|Walls and Gates|Medium|Google, Facebook|
-| 👍 |287|Find the Duplicate Number|Medium||
+| 👍 |287|Find the Duplicate Number|Medium|| Top Interview Question |
 | [] |288|Unique Word Abbreviation|Medium|Google|
-| 👍 |289|Game of Life|Medium|Google|
+| 👍 |289|Game of Life|Medium|Google| Top Interview Question |
 | 👍 |290|Word Pattern|Easy|Uber|
 | [] |291|Word Pattern II|Hard|Uber|
 | 👍 |292|Nim Game|Easy||
 | [] |293|Flip Game|Easy|Google|
 | [] |294|Flip Game II|Medium|Google|
-| 👍 |295|Find Median from Data Stream|Hard|Google|
+| 👍 |295|Find Median from Data Stream|Hard|Google| Top Interview Question |
 | [] |296|Best Meeting Point|Hard||
-| 👍 |297|Serialize and Deserialize Binary Tree|Hard|LinkedIn, Google, Uber, Facebook|
+| 👍 |297|Serialize and Deserialize Binary Tree|Hard|LinkedIn, Google, Uber, Facebook| Top Interview Question |
 | [] |298|Binary Tree Longest Consecutive Sequence|Medium|Google|
 | [] |299|Bulls and Cows|Medium||
-| 👍 |300|Longest Increasing Subsequence|Medium||
+| 👍 |300|Longest Increasing Subsequence|Medium|| Top Interview Question |
 | [] |301|Remove Invalid Parentheses|Hard|Facebook|
 | [] |302|Smallest Rectangle Enclosing Black Pixels|Hard|Google|
 | 👍 |303|Range Sum Query - Immutable|Easy||
@@ -299,49 +299,49 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |305|Number of Islands II|Hard|Google|
 | [] |306|Additive Number|Medium||
 | [] |307|Range Sum Query - Mutable|Medium||
-| [] |308|Range Sum Query 2D - Mutable|Hard|Google|
+| [] |308|Range Sum Query 2D - Mutable|Hard|Google| Top Interview Question |
 | [] |309|Best Time to Buy and Sell Stock with Cooldown|Medium|Google|
 | [] |310|Minimum Height Trees|Medium|Google|
 | [] |311|Sparse Matrix Multiplication|Medium|LinkedIn, Facebook|
 | [] |312|Burst Balloons|Hard|Google|
 | [] |313|Super Ugly Number|Medium|Google|
 | [] |314|Binary Tree Vertical Order Traversal|Medium|Google, Facebook|
-| [] |315|Count of Smaller Numbers After Self|Hard|Google|
+| [] |315|Count of Smaller Numbers After Self|Hard|Google| Top Interview Question |
 | [] |316|Remove Duplicate Letters|Hard|Google|
 | [] |317|Shortest Distance from All Buildings|Hard|Google|
 | [] |318|Maximum Product of Word Lengths|Medium|Google|
 | 👍 |319|Bulb Switcher|Medium||
 | [] |320|Generalized Abbreviation|Medium|Google|
 | [] |321|Create Maximum Number|Hard|Google|
-| 👍 |322|Coin Change|Medium||
+| 👍 |322|Coin Change|Medium|| Top Interview Question |
 | [] |323|Number of Connected Components in an Undirected Graph|Medium|Google|
-| [] |324|Wiggle Sort II|Medium|Google|
+| [] |324|Wiggle Sort II|Medium|Google| Top Interview Question |
 | [] |325|Maximum Size Subarray Sum Equals k|Medium|Facebook|
-| 👍 |326|Power of Three|Easy|Google|
+| 👍 |326|Power of Three|Easy|Google| Top Interview Question |
 | [] |327|Count of Range Sum|Hard|Google|
-| 👍 |328|Odd Even Linked List|Medium||
-| [] |329|Longest Increasing Path in a Matrix|Hard|Google|
+| 👍 |328|Odd Even Linked List|Medium|| Top Interview Question |
+| [] |329|Longest Increasing Path in a Matrix|Hard|Google| Top Interview Question |
 | [] |330|Patching Array|Hard|Google|
 | [] |331|Verify Preorder Serialization of a Binary Tree|Medium|Google|
 | [] |332|Reconstruct Itinerary|Medium|Google|
 | [] |333|Largest BST Subtree|Medium||
-| 👍 |334|Increasing Triplet Subsequence|Medium|Facebook|
+| 👍 |334|Increasing Triplet Subsequence|Medium|Facebook| Top Interview Question |
 | [] |335|Self Crossing|Hard||
 | [] |336|Palindrome Pairs|Hard|Google, Airbnb|
 | [] |337|House Robber III|Medium|Uber|
 | 👍 |338|Counting Bits|Medium||
 | [] |339|Nested List Weight Sum|Easy|LinkedIn|
-| [] |340|Longest Substring with At Most K Distinct Characters|Hard|Google|
-| 👍 |341|Flatten Nested List Iterator|Medium|Google|
+| [] |340|Longest Substring with At Most K Distinct Characters|Hard|Google| Top Interview Question |
+| 👍 |341|Flatten Nested List Iterator|Medium|Google| Top Interview Question |
 | 👍 |342|Power of Four|Easy||
 | 👍 |343|Integer Break|Medium||
-| 👍 |344|Reverse String|Easy||
+| 👍 |344|Reverse String|Easy|| Top Interview Question |
 | 👍 |345|Reverse Vowels of a String|Easy||
 | [] |346|Moving Average from Data Stream|Easy||
-| 👍 |347|Top K Frequent Elements|Medium||
-| [] |348|Design Tic-Tac-Toe|Medium||
+| 👍 |347|Top K Frequent Elements|Medium|| Top Interview Question |
+| [] |348|Design Tic-Tac-Toe|Medium|| Top Interview Question |
 | 👍 |349|Intersection of Two Arrays|Easy||
-| 👍 |350|Intersection of Two Arrays II|Easy||
+| 👍 |350|Intersection of Two Arrays II|Easy|| Top Interview Question |
 | [] |351|Android Unlock Patterns|Medium||
 | [] |352|Data Stream as Disjoint Intervals|Hard||
 | [] |353|Design Snake Game|Medium||
@@ -362,23 +362,23 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |368|Largest Divisible Subset|Medium||
 | [] |369|Plus One Linked List|Medium||
 | [] |370|Range Addition|Medium||
-| 👍 |371|Sum of Two Integers|Easy||
+| 👍 |371|Sum of Two Integers|Easy|| Top Interview Question |
 | [] |372|Super Pow|Medium||
 | [] |373|Find K Pairs with Smallest Sums|Medium||
 | 👍 |374|Guess Number Higher or Lower|Easy||
 | [] |375|Guess Number Higher or Lower II|Medium||
 | [] |376|Wiggle Subsequence|Medium||
 | [] |377|Combination Sum IV|Medium||
-| 👍 |378|Kth Smallest Element in a Sorted Matrix|Medium||
+| 👍 |378|Kth Smallest Element in a Sorted Matrix|Medium|| Top Interview Question |
 | [] |379|Design Phone Directory|Medium||
-| 👍 |380|Insert Delete GetRandom O(1)|Medium||
+| 👍 |380|Insert Delete GetRandom O(1)|Medium|| Top Interview Question |
 | [] |381|Insert Delete GetRandom O(1) - Duplicates allowed|Hard||
 | [] |382|Linked List Random Node|Medium||
 | 👍 |383|Ransom Note|Easy||
-| 👍 |384|Shuffle an Array|Medium||
+| 👍 |384|Shuffle an Array|Medium|| Top Interview Question |
 | [] |385|Mini Parser|Medium||
 | [] |386|Lexicographical Numbers|Medium||
-| 👍 |387|First Unique Character in a String|Easy||
+| 👍 |387|First Unique Character in a String|Easy|| Top Interview Question |
 | [] |388|Longest Absolute File Path|Medium||
 | 👍 |389|Find the Difference|Easy||
 | [] |390|Elimination Game|Medium||
@@ -386,7 +386,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |392|Is Subsequence|Medium||
 | [] |393|UTF-8 Validation|Medium||
 | [] |394|Decode String|Medium||
-| 👍 |395|Longest Substring with At Least K Repeating Characters|Medium||
+| 👍 |395|Longest Substring with At Least K Repeating Characters|Medium|| Top Interview Question |
 | [] |396|Rotate Function|Medium||
 | 👍 |397|Integer Replacement|Medium||
 | [] |398|Random Pick Index|Medium||
@@ -403,7 +403,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |409|Longest Palindrome|Easy||
 | [] |410|Split Array Largest Sum|Hard||
 | [] |411|Minimum Unique Word Abbreviation|Hard||
-| 👍 |412|Fizz Buzz|Easy||
+| 👍 |412|Fizz Buzz|Easy|| Top Interview Question |
 | 👍 |413|Arithmetic Slices|Medium||
 | 👍 |414|Third Maximum Number|Easy||
 | 👍 |415|Add Strings|Easy||
@@ -437,7 +437,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |451|Sort Characters By Frequency|Medium||
 | [] |452|Minimum Number of Arrows to Burst Balloons|Medium||
 | 👍 |453|Minimum Moves to Equal Array Elements|Easy||
-| 👍 |454|4Sum II|Medium||
+| 👍 |454|4Sum II|Medium|| Top Interview Question |
 | 👍 |455|Assign Cookies|Easy||
 | [] |456|132 Pattern|Medium||
 | [] |459|Repeated Substring Pattern|Easy||
