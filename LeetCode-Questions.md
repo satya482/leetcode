@@ -174,7 +174,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |163|Missing Ranges|Medium|Google| Top Interview Question |
 | [] |164|Maximum Gap|Hard||
 | 👍 |165|Compare Version Numbers|Medium||
-| [] |166|Fraction to Recurring Decimal|Medium|Google| Top Interview Question |
+| 👍 |166|Fraction to Recurring Decimal|Medium|Google| Top Interview Question |
 | 👍 |167|Two Sum II - Input array is sorted|Easy||
 | 👍 |168|Excel Sheet Column Title|Easy|Facebook|
 | 👍 |169|Majority Element|Easy|| Top Interview Question |
