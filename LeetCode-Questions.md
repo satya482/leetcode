@@ -87,7 +87,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |76|Minimum Window Substring|Hard|LinkedIn, Uber, Facebook| Top Interview Question |
 | 👍 |77|Combinations|Medium||
 | 👍 |78|Subsets|Medium|Uber, Facebook| Top Interview Question |
-| [] |79|Word Search|Medium|Facebook| Top Interview Question |
+| 👍 |79|Word Search|Medium|Facebook| Top Interview Question |
 | 👍 |80|Remove Duplicates from Sorted Array II|Medium|Facebook|
 | [] |81|Search in Rotated Sorted Array II|Medium||
 | [] |82|Remove Duplicates from Sorted List II|Medium||
