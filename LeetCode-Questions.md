@@ -146,7 +146,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |135|Candy|Hard||
 | 👍 |136|Single Number|Easy|Airbnb| Top Interview Question |
 | [] |137|Single Number II|Medium||
-| [] |138|Copy List with Random Pointer|Medium|Uber| Top Interview Question |
+| 👍 |138|Copy List with Random Pointer|Medium|Uber| Top Interview Question |
 | 👍 |139|Word Break|Medium|Google, Uber, Facebook| Top Interview Question |
 | [] |140|Word Break II|Hard|Google, Uber| Top Interview Question |
 | 👍 |141|Linked List Cycle|Easy|| Top Interview Question |
@@ -200,7 +200,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |205|Isomorphic Strings|Easy|LinkedIn|
 | 👍 |206|Reverse Linked List|Easy|Uber, Facebook| Top Interview Question |
 | [] |207|Course Schedule|Medium|| Top Interview Question |
-| [] |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook| Top Interview Question |
+| 👍 |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook| Top Interview Question |
 | [] |209|Minimum Size Subarray Sum|Medium|Facebook|
 | [] |210|Course Schedule II|Medium|Facebook| Top Interview Question |
 | [] |211|Add and Search Word - Data structure design|Medium|Facebook|
