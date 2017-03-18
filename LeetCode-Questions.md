@@ -11,7 +11,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | --- | --- | --- | --- | --- | --- |
 | 👍 |1|Two Sum|Easy|LinkedIn, Uber, Airbnb, Facebook| Top Interview Question |
 | 👍 |2|Add Two Numbers|Medium|Airbnb| Top Interview Question |
-| 👍 |3|Longest Substring Without Repeating Characters|Medium|| Top Interview Question |
+| 👍 |3|Longest Substring Without Repeating Characters|Medium|C| Top Interview Question |
 | [] |4|Median of Two Sorted Arrays|Hard|Google| Top Interview Question |
 | 👍 |5|Longest Palindromic Substring|Medium|| Top Interview Question |
 | 👍 |6|ZigZag Conversion|Medium||
