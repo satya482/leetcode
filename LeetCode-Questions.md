@@ -33,13 +33,13 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |22|Generate Parentheses|Medium|Google, Uber| Top Interview Question |
 | 👍 |23|Merge k Sorted Lists|Hard|LinkedIn, Google, Uber, Airbnb, Facebook| Top Interview Question |
 | 👍 |24|Swap Nodes in Pairs|Medium|Uber|
-| [] |25|Reverse Nodes in k-Group|Hard|Facebook|
+| 👍 |25|Reverse Nodes in k-Group|Hard|Facebook|
 | 👍 |26|Remove Duplicates from Sorted Array|Easy|Facebook| Top Interview Question |
 | 👍 |27|Remove Element|Easy||
 | 👍 |28|Implement strStr()|Easy|Facebook| Top Interview Question |
 | 👍 |29|Divide Two Integers|Medium|| Top Interview Question |
 | [] |30|Substring with Concatenation of All Words|Hard||
-| [] |31|Next Permutation|Medium|Google|
+| 👍 |31|Next Permutation|Medium|Google|
 | [] |32|Longest Valid Parentheses|Hard||
 | 👍 |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber, Facebook| Top Interview Question |
 | 👍 |34|Search for a Range|Medium|LinkedIn| Top Interview Question |
