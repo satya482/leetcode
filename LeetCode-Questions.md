@@ -31,7 +31,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |20|Valid Parentheses|Easy|Google, Airbnb, Facebook| Top Interview Question |
 | 👍 |21|Merge Two Sorted Lists|Easy|LinkedIn| Top Interview Question |
 | 👍 |22|Generate Parentheses|Medium|Google, Uber| Top Interview Question |
-| [] |23|Merge k Sorted Lists|Hard|LinkedIn, Google, Uber, Airbnb, Facebook| Top Interview Question |
+| 👍 |23|Merge k Sorted Lists|Hard|LinkedIn, Google, Uber, Airbnb, Facebook| Top Interview Question |
 | 👍 |24|Swap Nodes in Pairs|Medium|Uber|
 | [] |25|Reverse Nodes in k-Group|Hard|Facebook|
 | 👍 |26|Remove Duplicates from Sorted Array|Easy|Facebook| Top Interview Question |
@@ -132,7 +132,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |121|Best Time to Buy and Sell Stock|Easy|Uber, Facebook| Top Interview Question |
 | 👍 |122|Best Time to Buy and Sell Stock II|Easy|| Top Interview Question |
 | [] |123|Best Time to Buy and Sell Stock III|Hard||
-| [] |124|Binary Tree Maximum Path Sum|Hard|| Top Interview Question |
+| 👍 |124|Binary Tree Maximum Path Sum|Hard|| Top Interview Question |
 | 👍 |125|Valid Palindrome|Easy|Uber, Facebook| Top Interview Question |
 | [] |126|Word Ladder II|Hard||
 | [] |127|Word Ladder|Medium|LinkedIn, Facebook| Top Interview Question |
