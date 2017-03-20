@@ -89,7 +89,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |78|Subsets|Medium|Uber, Facebook| Top Interview Question |
 | 👍 |79|Word Search|Medium|Facebook| Top Interview Question |
 | 👍 |80|Remove Duplicates from Sorted Array II|Medium|Facebook|
-| [] |81|Search in Rotated Sorted Array II|Medium||
+| 👍 |81|Search in Rotated Sorted Array II|Medium||
 | [] |82|Remove Duplicates from Sorted List II|Medium||
 | 👍 |83|Remove Duplicates from Sorted List|Easy||
 | [] |84|Largest Rectangle in Histogram|Hard|| Top Interview Question |
