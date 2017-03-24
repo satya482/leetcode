@@ -216,7 +216,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |221|Maximal Square|Medium|Airbnb, Facebook|
 | [] |222|Count Complete Tree Nodes|Medium||
 | 👍 |223|Rectangle Area|Medium||
-| [] |224|Basic Calculator|Hard|Google|
+| 👍 |224|Basic Calculator|Hard|Google|
 | 👍 |225|Implement Stack using Queues|Easy||
 | 👍 |226|Invert Binary Tree|Easy||
 | 👍 |227|Basic Calculator II|Medium|| Top Interview Question |
