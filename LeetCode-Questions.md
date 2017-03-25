@@ -201,9 +201,9 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |206|Reverse Linked List|Easy|Uber, Facebook| Top Interview Question |
 | 👍 |207|Course Schedule|Medium|| Top Interview Question |
 | 👍 |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook| Top Interview Question |
-| [] |209|Minimum Size Subarray Sum|Medium|Facebook|
+| 👍 |209|Minimum Size Subarray Sum|Medium|Facebook|
 | 👍 |210|Course Schedule II|Medium|Facebook| Top Interview Question |
-| [] |211|Add and Search Word - Data structure design|Medium|Facebook|
+| 👍 |211|Add and Search Word - Data structure design|Medium|Facebook|
 | [] |212|Word Search II|Hard|Google, Airbnb| Top Interview Question |
 | [] |213|House Robber II|Medium||
 | [] |214|Shortest Palindrome|Hard|Google|
@@ -265,8 +265,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |271|Encode and Decode Strings|Medium|Google|
 | [] |272|Closest Binary Search Tree Value II|Hard|Google|
 | [] |273|Integer to English Words|Hard|Facebook|
-| [] |274|H-Index|Medium|Google, Facebook|
-| [] |275|H-Index II|Medium|Facebook|
+| 👍 |274|H-Index|Medium|Google, Facebook|
+| 👍 |275|H-Index II|Medium|Facebook|
 | [] |276|Paint Fence|Easy|Google|
 | [] |277|Find the Celebrity|Medium|LinkedIn, Facebook| Top Interview Question |
 | 👍 |278|First Bad Version|Easy|Facebook|
@@ -290,7 +290,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |296|Best Meeting Point|Hard||
 | 👍 |297|Serialize and Deserialize Binary Tree|Hard|LinkedIn, Google, Uber, Facebook| Top Interview Question |
 | [] |298|Binary Tree Longest Consecutive Sequence|Medium|Google|
-| [] |299|Bulls and Cows|Medium||
+| 👍 |299|Bulls and Cows|Medium||
 | 👍 |300|Longest Increasing Subsequence|Medium|| Top Interview Question |
 | [] |301|Remove Invalid Parentheses|Hard|Facebook|
 | [] |302|Smallest Rectangle Enclosing Black Pixels|Hard|Google|
