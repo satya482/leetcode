@@ -249,7 +249,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |254|Factor Combinations|Medium|LinkedIn, Uber|
 | [] |255|Verify Preorder Sequence in Binary Search Tree|Medium||
 | [] |256|Paint House|Easy|LinkedIn|
-| [] |257|Binary Tree Paths|Easy|Google, Facebook|
+| 👍 |257|Binary Tree Paths|Easy|Google, Facebook|
 | 👍 |258|Add Digits|Easy||
 | [] |259|3Sum Smaller|Medium|Google|
 | 👍 |260|Single Number III|Medium||
