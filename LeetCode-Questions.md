@@ -90,14 +90,14 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |79|Word Search|Medium|Facebook| Top Interview Question |
 | 👍 |80|Remove Duplicates from Sorted Array II|Medium|Facebook|
 | 👍 |81|Search in Rotated Sorted Array II|Medium||
-| [] |82|Remove Duplicates from Sorted List II|Medium||
+| 👍 |82|Remove Duplicates from Sorted List II|Medium||
 | 👍 |83|Remove Duplicates from Sorted List|Easy||
 | [] |84|Largest Rectangle in Histogram|Hard|| Top Interview Question |
 | [] |85|Maximal Rectangle|Hard|Facebook|
 | 👍 |86|Partition List|Medium||
 | [] |87|Scramble String|Hard||
 | 👍 |88|Merge Sorted Array|Easy|Facebook| Top Interview Question |
-| [] |89|Gray Code|Medium||
+| 👍 |89|Gray Code|Medium||
 | 👍 |90|Subsets II|Medium|Facebook|
 | 👍 |91|Decode Ways|Medium|Uber, Facebook| Top Interview Question |
 | [] |92|Reverse Linked List II|Medium||
@@ -122,10 +122,10 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |111|Minimum Depth of Binary Tree|Easy||
 | 👍 |112|Path Sum|Easy||
 | [] |113|Path Sum II|Medium||
-| [] |114|Flatten Binary Tree to Linked List|Medium||
+| 👍 |114|Flatten Binary Tree to Linked List|Medium||
 | [] |115|Distinct Subsequences|Hard||
 | 👍 |116|Populating Next Right Pointers in Each Node|Medium|| Top Interview Question |
-| [] |117|Populating Next Right Pointers in Each Node II|Medium|Facebook|
+| 👍 |117|Populating Next Right Pointers in Each Node II|Medium|Facebook|
 | 👍 |118|Pascal's Triangle|Easy|| Top Interview Question |
 | [] |119|Pascal's Triangle II|Easy||
 | [] |120|Triangle|Medium||
@@ -141,7 +141,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |130|Surrounded Regions|Medium|| Top Interview Question |
 | 👍 |131|Palindrome Partitioning|Medium|| Top Interview Question |
 | [] |132|Palindrome Partitioning II|Hard||
-| [] |133|Clone Graph|Medium|Google, Uber, Facebook|
+| 👍 |133|Clone Graph|Medium|Google, Uber, Facebook|
 | 👍 |134|Gas Station|Medium|| Top Interview Question |
 | [] |135|Candy|Hard||
 | 👍 |136|Single Number|Easy|Airbnb| Top Interview Question |
@@ -151,11 +151,11 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |140|Word Break II|Hard|Google, Uber| Top Interview Question |
 | 👍 |141|Linked List Cycle|Easy|| Top Interview Question |
 | 👍 |142|Linked List Cycle II|Medium||
-| [] |143|Reorder List|Medium||
+| 👍 |143|Reorder List|Medium||
 | 👍 |144|Binary Tree Preorder Traversal|Medium||
 | [] |145|Binary Tree Postorder Traversal|Hard||
 | 👍 |146|LRU Cache|Hard|Google, Uber, Facebook| Top Interview Question |
-| [] |147|Insertion Sort List|Medium||
+| 👍 |147|Insertion Sort List|Medium||
 | 👍 |148|Sort List|Medium|| Top Interview Question |
 | [] |149|Max Points on a Line|Hard|LinkedIn| Top Interview Question |
 | 👍 |150|Evaluate Reverse Polish Notation|Medium|LinkedIn| Top Interview Question |
