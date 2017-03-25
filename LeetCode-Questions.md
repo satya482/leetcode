@@ -40,12 +40,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |29|Divide Two Integers|Medium|| Top Interview Question |
 | [] |30|Substring with Concatenation of All Words|Hard||
 | 👍 |31|Next Permutation|Medium|Google|
-| [] |32|Longest Valid Parentheses|Hard||
+| 👍 |32|Longest Valid Parentheses|Hard||
 | 👍 |33|Search in Rotated Sorted Array|Medium|LinkedIn, Uber, Facebook| Top Interview Question |
 | 👍 |34|Search for a Range|Medium|LinkedIn| Top Interview Question |
 | 👍 |35|Search Insert Position|Easy||
 | 👍 |36|Valid Sudoku|Medium|Uber| Top Interview Question |
-| [] |37|Sudoku Solver|Hard|Uber|
+| 👍 |37|Sudoku Solver|Hard|Uber|
 | 👍 |38|Count and Say|Easy|Facebook| Top Interview Question |
 | 👍 |39|Combination Sum|Medium|Uber|
 | 👍 |40|Combination Sum II|Medium||
@@ -53,14 +53,14 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |42|Trapping Rain Water|Hard|Google| Top Interview Question |
 | 👍 |43|Multiply Strings|Medium|Facebook|
 | 👍 |44|Wildcard Matching|Hard|Google, Facebook| Top Interview Question |
-| [] |45|Jump Game II|Hard||
+| 👍 |45|Jump Game II|Hard||
 | 👍 |46|Permutations|Medium|LinkedIn| Top Interview Question |
 | 👍 |47|Permutations II|Medium|LinkedIn|
 | 👍 |48|Rotate Image|Medium|| Top Interview Question |
 | 👍 |49|Group Anagrams|Medium|Uber, Facebook| Top Interview Question |
 | 👍 |50|Pow(x, n)|Medium|LinkedIn, Google, Facebook| Top Interview Question |
-| [] |51|N-Queens|Hard||
-| [] |52|N-Queens II|Hard||
+| 👍 |51|N-Queens|Hard||
+| 👍 |52|N-Queens II|Hard||
 | 👍 |53|Maximum Subarray|Easy|LinkedIn| Top Interview Question |
 | 👍 |54|Spiral Matrix|Medium|Google, Uber| Top Interview Question |
 | 👍 |55|Jump Game|Medium|| Top Interview Question |
@@ -159,7 +159,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |148|Sort List|Medium|| Top Interview Question |
 | [] |149|Max Points on a Line|Hard|LinkedIn| Top Interview Question |
 | 👍 |150|Evaluate Reverse Polish Notation|Medium|LinkedIn| Top Interview Question |
-| [] |151|Reverse Words in a String|Medium||
+| 👍 |151|Reverse Words in a String|Medium||
 | 👍 |152|Maximum Product Subarray|Medium|LinkedIn| Top Interview Question |
 | 👍 |153|Find Minimum in Rotated Sorted Array|Medium||
 | 👍 |154|Find Minimum in Rotated Sorted Array II|Hard||
@@ -185,7 +185,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |174|Dungeon Game|Hard||
 | 👍 |179|Largest Number|Medium|| Top Interview Question |
 | [] |186|Reverse Words in a String II|Medium|Uber|
-| [] |187|Repeated DNA Sequences|Medium|LinkedIn|
+| 👍 |187|Repeated DNA Sequences|Medium|LinkedIn|
 | [] |188|Best Time to Buy and Sell Stock IV|Hard||
 | 👍 |189|Rotate Array|Easy|| Top Interview Question |
 | 👍 |190|Reverse Bits|Easy|Airbnb| Top Interview Question |
@@ -346,7 +346,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |352|Data Stream as Disjoint Intervals|Hard||
 | [] |353|Design Snake Game|Medium||
 | [] |354|Russian Doll Envelopes|Hard||
-| [] |355|Design Twitter|Medium||
+| 👍 |355|Design Twitter|Medium||
 | [] |356|Line Reflection|Medium||
 | 👍 |357|Count Numbers with Unique Digits|Medium||
 | [] |358|Rearrange String k Distance Apart|Hard||
@@ -359,44 +359,44 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |365|Water and Jug Problem|Medium||
 | [] |366|Find Leaves of Binary Tree|Medium||
 | 👍 |367|Valid Perfect Square|Easy||
-| [] |368|Largest Divisible Subset|Medium||
+| 👍 |368|Largest Divisible Subset|Medium||
 | [] |369|Plus One Linked List|Medium||
 | [] |370|Range Addition|Medium||
 | 👍 |371|Sum of Two Integers|Easy| C | Top Interview Question |
-| [] |372|Super Pow|Medium||
+| 👍 |372|Super Pow|Medium||
 | 👍 |373|Find K Pairs with Smallest Sums|Medium||
 | 👍 |374|Guess Number Higher or Lower|Easy||
-| [] |375|Guess Number Higher or Lower II|Medium||
-| [] |376|Wiggle Subsequence|Medium||
+| 👍 |375|Guess Number Higher or Lower II|Medium||
+| 👍 |376|Wiggle Subsequence|Medium||
 | 👍 |377|Combination Sum IV|Medium||
 | 👍 |378|Kth Smallest Element in a Sorted Matrix|Medium| C | Top Interview Question |
 | [] |379|Design Phone Directory|Medium||
 | 👍 |380|Insert Delete GetRandom O(1)|Medium| C | Top Interview Question |
 | [] |381|Insert Delete GetRandom O(1) - Duplicates allowed|Hard||
-| [] |382|Linked List Random Node|Medium||
+| 👍 |382|Linked List Random Node|Medium||
 | 👍 |383|Ransom Note|Easy||
 | 👍 |384|Shuffle an Array|Medium| C | Top Interview Question |
-| [] |385|Mini Parser|Medium||
+| 👍 |385|Mini Parser|Medium||
 | [] |386|Lexicographical Numbers|Medium||
 | 👍 |387|First Unique Character in a String|Easy| C | Top Interview Question |
-| [] |388|Longest Absolute File Path|Medium||
+| 👍 |388|Longest Absolute File Path|Medium||
 | 👍 |389|Find the Difference|Easy||
-| [] |390|Elimination Game|Medium||
+| 👍 |390|Elimination Game|Medium||
 | [] |391|Perfect Rectangle|Hard||
 | 👍 |392|Is Subsequence|Medium||
 | [] |393|UTF-8 Validation|Medium||
-| [] |394|Decode String|Medium||
+| 👍 |394|Decode String|Medium||
 | 👍 |395|Longest Substring with At Least K Repeating Characters|Medium| C | Top Interview Question |
-| [] |396|Rotate Function|Medium||
+| 👍 |396|Rotate Function|Medium||
 | 👍 |397|Integer Replacement|Medium||
-| [] |398|Random Pick Index|Medium||
+| 👍 |398|Random Pick Index|Medium||
 | [] |399|Evaluate Division|Medium||
-| [] |400|Nth Digit|Easy||
-| [] |401|Binary Watch|Easy||
+| 👍 |400|Nth Digit|Easy||
+| 👍 |401|Binary Watch|Easy||
 | [] |402|Remove K Digits|Medium||
 | [] |403|Frog Jump|Hard||
 | 👍 |404|Sum of Left Leaves|Easy||
-| [] |405|Convert a Number to Hexadecimal|Easy||
+| 👍 |405|Convert a Number to Hexadecimal|Easy||
 | 👍 |406|Queue Reconstruction by Height|Medium||
 | [] |407|Trapping Rain Water II|Hard||
 | [] |408|Valid Word Abbreviation|Easy||
@@ -407,7 +407,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |413|Arithmetic Slices|Medium||
 | 👍 |414|Third Maximum Number|Easy||
 | 👍 |415|Add Strings|Easy||
-| [] |416|Partition Equal Subset Sum|Medium||
+| 👍 |416|Partition Equal Subset Sum|Medium||
 | [] |417|Pacific Atlantic Water Flow|Medium||
 | [] |418|Sentence Screen Fitting|Medium||
 | 👍 |419|Battleships in a Board|Medium||
