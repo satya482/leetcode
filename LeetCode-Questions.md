@@ -68,7 +68,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |57|Insert Interval|Hard|LinkedIn, Google, Facebook|
 | 👍 |58|Length of Last Word|Easy||
 | 👍 |59|Spiral Matrix II|Medium||
-| [] |60|Permutation Sequence|Medium||
+| 👍 |60|Permutation Sequence|Medium||
 | 👍 |61|Rotate List|Medium||
 | 👍 |62|Unique Paths|Medium|| Top Interview Question |
 | 👍 |63|Unique Paths II|Medium||
@@ -79,7 +79,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |68|Text Justification|Hard|LinkedIn, Airbnb|
 | 👍 |69|Sqrt(x)|Easy|Facebook| Top Interview Question |
 | 👍 |70|Climbing Stairs|Easy|| Top Interview Question |
-| [] |71|Simplify Path|Medium|Facebook|
+| 👍 |71|Simplify Path|Medium|Facebook|
 | 👍 |72|Edit Distance|Hard||
 | 👍 |73|Set Matrix Zeroes|Medium|| Top Interview Question |
 | 👍 |74|Search a 2D Matrix|Medium||
@@ -114,7 +114,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |103|Binary Tree Zigzag Level Order Traversal|Medium|LinkedIn| Top Interview Question |
 | 👍 |104|Maximum Depth of Binary Tree|Easy|LinkedIn, Uber| Top Interview Question |
 | 👍 |105|Construct Binary Tree from Preorder and Inorder Traversal|Medium|| Top Interview Question |
-| [] |106|Construct Binary Tree from Inorder and Postorder Traversal|Medium||
+| 👍 |106|Construct Binary Tree from Inorder and Postorder Traversal|Medium||
 | 👍 |107|Binary Tree Level Order Traversal II|Easy||
 | 👍 |108|Convert Sorted Array to Binary Search Tree|Easy|Airbnb| Top Interview Question |
 | 👍 |109|Convert Sorted List to Binary Search Tree|Medium||
@@ -127,8 +127,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |116|Populating Next Right Pointers in Each Node|Medium|| Top Interview Question |
 | 👍 |117|Populating Next Right Pointers in Each Node II|Medium|Facebook|
 | 👍 |118|Pascal's Triangle|Easy|| Top Interview Question |
-| [] |119|Pascal's Triangle II|Easy||
-| [] |120|Triangle|Medium||
+| 👍 |119|Pascal's Triangle II|Easy||
+| 👍 |120|Triangle|Medium||
 | 👍 |121|Best Time to Buy and Sell Stock|Easy|Uber, Facebook| Top Interview Question |
 | 👍 |122|Best Time to Buy and Sell Stock II|Easy|| Top Interview Question |
 | [] |123|Best Time to Buy and Sell Stock III|Hard||
@@ -205,7 +205,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |210|Course Schedule II|Medium|Facebook| Top Interview Question |
 | 👍 |211|Add and Search Word - Data structure design|Medium|Facebook|
 | [] |212|Word Search II|Hard|Google, Airbnb| Top Interview Question |
-| [] |213|House Robber II|Medium||
+| 👍 |213|House Robber II|Medium||
 | [] |214|Shortest Palindrome|Hard|Google|
 | 👍 |215|Kth Largest Element in an Array|Medium|Facebook| Top Interview Question |
 | [] |216|Combination Sum III|Medium||
@@ -295,21 +295,21 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |301|Remove Invalid Parentheses|Hard|Facebook|
 | [] |302|Smallest Rectangle Enclosing Black Pixels|Hard|Google|
 | 👍 |303|Range Sum Query - Immutable|Easy||
-| [] |304|Range Sum Query 2D - Immutable|Medium||
+| 👍 |304|Range Sum Query 2D - Immutable|Medium||
 | [] |305|Number of Islands II|Hard|Google|
 | [] |306|Additive Number|Medium||
 | [] |307|Range Sum Query - Mutable|Medium||
 | [] |308|Range Sum Query 2D - Mutable|Hard|Google| Top Interview Question |
-| [] |309|Best Time to Buy and Sell Stock with Cooldown|Medium|Google|
+| 👍 |309|Best Time to Buy and Sell Stock with Cooldown|Medium|Google|
 | [] |310|Minimum Height Trees|Medium|Google|
 | [] |311|Sparse Matrix Multiplication|Medium|LinkedIn, Facebook|
 | [] |312|Burst Balloons|Hard|Google|
-| [] |313|Super Ugly Number|Medium|Google|
+| 👍 |313|Super Ugly Number|Medium|Google|
 | [] |314|Binary Tree Vertical Order Traversal|Medium|Google, Facebook|
 | 👍 |315|Count of Smaller Numbers After Self|Hard|Google| Top Interview Question |
 | [] |316|Remove Duplicate Letters|Hard|Google|
 | [] |317|Shortest Distance from All Buildings|Hard|Google|
-| [] |318|Maximum Product of Word Lengths|Medium|Google|
+| 👍 |318|Maximum Product of Word Lengths|Medium|Google|
 | 👍 |319|Bulb Switcher|Medium||
 | [] |320|Generalized Abbreviation|Medium|Google|
 | [] |321|Create Maximum Number|Hard|Google|
@@ -322,13 +322,13 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |328|Odd Even Linked List|Medium|| Top Interview Question |
 | 👍 |329|Longest Increasing Path in a Matrix|Hard|Google| Top Interview Question |
 | [] |330|Patching Array|Hard|Google|
-| [] |331|Verify Preorder Serialization of a Binary Tree|Medium|Google|
-| [] |332|Reconstruct Itinerary|Medium|Google|
+| 👍 |331|Verify Preorder Serialization of a Binary Tree|Medium|Google|
+| 👍 |332|Reconstruct Itinerary|Medium|Google|
 | [] |333|Largest BST Subtree|Medium||
 | 👍 |334|Increasing Triplet Subsequence|Medium|Facebook| Top Interview Question |
 | [] |335|Self Crossing|Hard||
 | [] |336|Palindrome Pairs|Hard|Google, Airbnb|
-| [] |337|House Robber III|Medium|Uber|
+| 👍 |337|House Robber III|Medium|Uber|
 | 👍 |338|Counting Bits|Medium||
 | [] |339|Nested List Weight Sum|Easy|LinkedIn|
 | [] |340|Longest Substring with At Most K Distinct Characters|Hard|Google| Top Interview Question |
@@ -364,7 +364,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |370|Range Addition|Medium||
 | 👍 |371|Sum of Two Integers|Easy| C | Top Interview Question |
 | [] |372|Super Pow|Medium||
-| [] |373|Find K Pairs with Smallest Sums|Medium||
+| 👍 |373|Find K Pairs with Smallest Sums|Medium||
 | 👍 |374|Guess Number Higher or Lower|Easy||
 | [] |375|Guess Number Higher or Lower II|Medium||
 | [] |376|Wiggle Subsequence|Medium||
