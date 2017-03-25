@@ -145,7 +145,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |134|Gas Station|Medium|| Top Interview Question |
 | [] |135|Candy|Hard||
 | 👍 |136|Single Number|Easy|Airbnb| Top Interview Question |
-| [] |137|Single Number II|Medium||
+| 👍 |137|Single Number II|Medium||
 | 👍 |138|Copy List with Random Pointer|Medium|Uber| Top Interview Question |
 | 👍 |139|Word Break|Medium|Google, Uber, Facebook| Top Interview Question |
 | [] |140|Word Break II|Hard|Google, Uber| Top Interview Question |
@@ -348,7 +348,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |354|Russian Doll Envelopes|Hard||
 | [] |355|Design Twitter|Medium||
 | [] |356|Line Reflection|Medium||
-| [] |357|Count Numbers with Unique Digits|Medium||
+| 👍 |357|Count Numbers with Unique Digits|Medium||
 | [] |358|Rearrange String k Distance Apart|Hard||
 | [] |359|Logger Rate Limiter|Easy||
 | [] |360|Sort Transformed Array|Medium||
@@ -356,7 +356,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |362|Design Hit Counter|Medium||
 | [] |363|Max Sum of Rectangle No Larger Than K|Hard||
 | [] |364|Nested List Weight Sum II|Medium||
-| [] |365|Water and Jug Problem|Medium||
+| 👍 |365|Water and Jug Problem|Medium||
 | [] |366|Find Leaves of Binary Tree|Medium||
 | 👍 |367|Valid Perfect Square|Easy||
 | [] |368|Largest Divisible Subset|Medium||
@@ -368,7 +368,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |374|Guess Number Higher or Lower|Easy||
 | [] |375|Guess Number Higher or Lower II|Medium||
 | [] |376|Wiggle Subsequence|Medium||
-| [] |377|Combination Sum IV|Medium||
+| 👍 |377|Combination Sum IV|Medium||
 | 👍 |378|Kth Smallest Element in a Sorted Matrix|Medium| C | Top Interview Question |
 | [] |379|Design Phone Directory|Medium||
 | 👍 |380|Insert Delete GetRandom O(1)|Medium| C | Top Interview Question |
