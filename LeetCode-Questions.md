@@ -199,10 +199,10 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |204|Count Primes|Easy|| Top Interview Question |
 | 👍 |205|Isomorphic Strings|Easy|LinkedIn|
 | 👍 |206|Reverse Linked List|Easy|Uber, Facebook| Top Interview Question |
-| [] |207|Course Schedule|Medium|| Top Interview Question |
+| 👍 |207|Course Schedule|Medium|| Top Interview Question |
 | 👍 |208|Implement Trie (Prefix Tree)|Medium|Google, Uber, Facebook| Top Interview Question |
 | [] |209|Minimum Size Subarray Sum|Medium|Facebook|
-| [] |210|Course Schedule II|Medium|Facebook| Top Interview Question |
+| 👍 |210|Course Schedule II|Medium|Facebook| Top Interview Question |
 | [] |211|Add and Search Word - Data structure design|Medium|Facebook|
 | [] |212|Word Search II|Hard|Google, Airbnb| Top Interview Question |
 | [] |213|House Robber II|Medium||
@@ -315,7 +315,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |321|Create Maximum Number|Hard|Google|
 | 👍 |322|Coin Change|Medium|| Top Interview Question |
 | [] |323|Number of Connected Components in an Undirected Graph|Medium|Google|
-| [] |324|Wiggle Sort II|Medium|Google| Top Interview Question |
+| 👍 |324|Wiggle Sort II|Medium|Google| Top Interview Question |
 | [] |325|Maximum Size Subarray Sum Equals k|Medium|Facebook|
 | 👍 |326|Power of Three|Easy|Google| Top Interview Question |
 | [] |327|Count of Range Sum|Hard|Google|
