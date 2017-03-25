@@ -473,7 +473,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |493|Reverse Pairs|Hard||
 | [] |494|Target Sum|Medium||
 | [] |495|Teemo Attacking|Medium||
-| [] |496|Next Greater Element I|Easy||
+| 👍 |496|Next Greater Element I|Easy||
 | [] |498|Diagonal Traverse|Medium||
 | [] |499|The Maze III|Hard||
 | 👍 |500|Keyboard_Row|Easy||
@@ -506,5 +506,5 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |539|Minimum Time Difference|Medium||
 | [] |541|Reverse String II|Easy||
 | [] |542|01 Matrix |Medium||
-| [] |543|Diameter of Binary Tree|Easy||
+| 👍 |543|Diameter of Binary Tree|Easy||
 | [] |544|Output Contest Matches|Medium||
