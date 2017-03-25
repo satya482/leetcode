@@ -103,7 +103,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |92|Reverse Linked List II|Medium||
 | 👍 |93|Restore IP Addresses|Medium||
 | 👍 |94|Binary Tree Inorder Traversal|Medium|| Top Interview Question |
-| [] |95|Unique Binary Search Trees II|Medium||
+| 👍 |95|Unique Binary Search Trees II|Medium||
 | 👍 |96|Unique Binary Search Trees|Medium||
 | [] |97|Interleaving String|Hard||
 | 👍 |98|Validate Binary Search Tree|Medium|Facebook| Top Interview Question |
@@ -121,7 +121,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |110|Balanced Binary Tree|Easy||
 | 👍 |111|Minimum Depth of Binary Tree|Easy||
 | 👍 |112|Path Sum|Easy||
-| [] |113|Path Sum II|Medium||
+| 👍 |113|Path Sum II|Medium||
 | 👍 |114|Flatten Binary Tree to Linked List|Medium||
 | [] |115|Distinct Subsequences|Hard||
 | 👍 |116|Populating Next Right Pointers in Each Node|Medium|| Top Interview Question |
