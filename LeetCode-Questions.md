@@ -208,13 +208,13 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |213|House Robber II|Medium||
 | [] |214|Shortest Palindrome|Hard|Google|
 | 👍 |215|Kth Largest Element in an Array|Medium|Facebook| Top Interview Question |
-| [] |216|Combination Sum III|Medium||
+| 👍 |216|Combination Sum III|Medium||
 | 👍 |217|Contains Duplicate|Easy|Airbnb| Top Interview Question |
 | [] |218|The Skyline Problem|Hard|Google, Facebook| Top Interview Question |
 | 👍 |219|Contains Duplicate II|Easy|Airbnb|
-| [] |220|Contains Duplicate III|Medium|Airbnb|
+| 👍 |220|Contains Duplicate III|Medium|Airbnb|
 | 👍 |221|Maximal Square|Medium|Airbnb, Facebook|
-| [] |222|Count Complete Tree Nodes|Medium||
+| 👍 |222|Count Complete Tree Nodes|Medium||
 | 👍 |223|Rectangle Area|Medium||
 | 👍 |224|Basic Calculator|Hard|Google|
 | 👍 |225|Implement Stack using Queues|Easy||
