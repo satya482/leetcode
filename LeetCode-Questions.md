@@ -100,7 +100,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |89|Gray Code|Medium||
 | 👍 |90|Subsets II|Medium|Facebook|
 | 👍 |91|Decode Ways|Medium|Uber, Facebook| Top Interview Question |
-| [] |92|Reverse Linked List II|Medium||
+| 👍 |92|Reverse Linked List II|Medium||
 | [] |93|Restore IP Addresses|Medium||
 | 👍 |94|Binary Tree Inorder Traversal|Medium|| Top Interview Question |
 | [] |95|Unique Binary Search Trees II|Medium||
@@ -220,7 +220,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |225|Implement Stack using Queues|Easy||
 | 👍 |226|Invert Binary Tree|Easy||
 | 👍 |227|Basic Calculator II|Medium|| Top Interview Question |
-| [] |228|Summary Ranges|Medium|Google|
+| 👍 |228|Summary Ranges|Medium|Google|
 | 👍 |229|Majority Element II|Medium||
 | 👍 |230|Kth Smallest Element in a BST|Medium|Google, Uber| Top Interview Question |
 | 👍 |231|Power of Two|Easy|Google|
