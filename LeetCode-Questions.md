@@ -138,7 +138,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |127|Word Ladder|Medium|LinkedIn, Facebook| Top Interview Question |
 | 👍 |128|Longest Consecutive Sequence|Hard|Google, Facebook| Top Interview Question |
 | 👍 |129|Sum Root to Leaf Numbers|Medium||
-| [] |130|Surrounded Regions|Medium|| Top Interview Question |
+| 👍 |130|Surrounded Regions|Medium|| Top Interview Question |
 | 👍 |131|Palindrome Partitioning|Medium|| Top Interview Question |
 | [] |132|Palindrome Partitioning II|Hard||
 | 👍 |133|Clone Graph|Medium|Google, Uber, Facebook|
