@@ -51,7 +51,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |40|Combination Sum II|Medium||
 | 👍 |41|First Missing Positive|Hard|| Top Interview Question |
 | 👍 |42|Trapping Rain Water|Hard|Google| Top Interview Question |
-| [] |43|Multiply Strings|Medium|Facebook|
+| 👍 |43|Multiply Strings|Medium|Facebook|
 | 👍 |44|Wildcard Matching|Hard|Google, Facebook| Top Interview Question |
 | [] |45|Jump Game II|Hard||
 | 👍 |46|Permutations|Medium|LinkedIn| Top Interview Question |
