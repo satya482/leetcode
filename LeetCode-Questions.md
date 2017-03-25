@@ -84,7 +84,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |73|Set Matrix Zeroes|Medium|| Top Interview Question |
 | 👍 |74|Search a 2D Matrix|Medium||
 | 👍 |75|Sort Colors|Medium|Facebook| Top Interview Question |
-| [] |76|Minimum Window Substring|Hard|LinkedIn, Uber, Facebook| Top Interview Question |
+| 👍 |76|Minimum Window Substring|Hard|LinkedIn, Uber, Facebook| Top Interview Question |
 | 👍 |77|Combinations|Medium||
 | 👍 |78|Subsets|Medium|Uber, Facebook| Top Interview Question |
 | 👍 |79|Word Search|Medium|Facebook| Top Interview Question |
@@ -92,7 +92,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |81|Search in Rotated Sorted Array II|Medium||
 | 👍 |82|Remove Duplicates from Sorted List II|Medium||
 | 👍 |83|Remove Duplicates from Sorted List|Easy||
-| [] |84|Largest Rectangle in Histogram|Hard|| Top Interview Question |
+| 👍 |84|Largest Rectangle in Histogram|Hard|| Top Interview Question |
 | [] |85|Maximal Rectangle|Hard|Facebook|
 | 👍 |86|Partition List|Medium||
 | [] |87|Scramble String|Hard||
@@ -231,7 +231,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook| Top Interview Question |
 | 👍 |237|Delete Node in a Linked List|Easy|| Top Interview Question |
 | 👍 |238|Product of Array Except Self|Medium|LinkedIn, Facebook| Top Interview Question |
-| [] |239|Sliding Window Maximum|Hard|Google| Top Interview Question |
+| 👍 |239|Sliding Window Maximum|Hard|Google| Top Interview Question |
 | 👍 |240|Search a 2D Matrix II|Medium|Google| Top Interview Question |
 | [] |241|Different Ways to Add Parentheses|Medium||
 | 👍 |242|Valid Anagram|Easy|Uber| Top Interview Question |
@@ -306,7 +306,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |312|Burst Balloons|Hard|Google|
 | [] |313|Super Ugly Number|Medium|Google|
 | [] |314|Binary Tree Vertical Order Traversal|Medium|Google, Facebook|
-| [] |315|Count of Smaller Numbers After Self|Hard|Google| Top Interview Question |
+| 👍 |315|Count of Smaller Numbers After Self|Hard|Google| Top Interview Question |
 | [] |316|Remove Duplicate Letters|Hard|Google|
 | [] |317|Shortest Distance from All Buildings|Hard|Google|
 | [] |318|Maximum Product of Word Lengths|Medium|Google|
@@ -320,7 +320,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |326|Power of Three|Easy|Google| Top Interview Question |
 | [] |327|Count of Range Sum|Hard|Google|
 | 👍 |328|Odd Even Linked List|Medium|| Top Interview Question |
-| [] |329|Longest Increasing Path in a Matrix|Hard|Google| Top Interview Question |
+| 👍 |329|Longest Increasing Path in a Matrix|Hard|Google| Top Interview Question |
 | [] |330|Patching Array|Hard|Google|
 | [] |331|Verify Preorder Serialization of a Binary Tree|Medium|Google|
 | [] |332|Reconstruct Itinerary|Medium|Google|
