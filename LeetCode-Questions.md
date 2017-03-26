@@ -457,10 +457,10 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |474|Ones and Zeroes|Medium||
 | [] |475|Heaters|Easy||
 | 👍 |476|Number Complement|Easy||
-| [] |477|Total Hamming Distance|Medium||
+| 👍 |477|Total Hamming Distance|Medium||
 | [] |480|Sliding Window Median|Hard||
-| [] |481|Magical String|Medium||
-| [] |482|License Key Formatting|Medium||
+| 👍 |481|Magical String|Medium||
+| 👍 |482|License Key Formatting|Medium||
 | [] |483|Smallest Good Base|Hard||
 | [] |484|Find Permutation|Medium||
 | 👍 |485|Max Consecutive Ones|Easy||
@@ -471,7 +471,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |491|Increasing Subsequences|Medium||
 | 👍 |492|Construct the Rectangle|Easy||
 | [] |493|Reverse Pairs|Hard||
-| [] |494|Target Sum|Medium||
+| 👍 |494|Target Sum|Medium||
 | [] |495|Teemo Attacking|Medium||
 | 👍 |496|Next Greater Element I|Easy||
 | [] |498|Diagonal Traverse|Medium||
@@ -479,7 +479,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |500|Keyboard_Row|Easy||
 | [] |501|Find Mode in Binary Search Tree|Easy||
 | [] |502|IPO|Hard||
-| [] |503|Next Greater Element II|Medium||
+| 👍 |503|Next Greater Element II|Medium||
 | 👍 |504|Base 7|Easy||
 | [] |505|The Maze II|Medium||
 | [] |506|Relative Ranks| Easy ||
@@ -487,11 +487,11 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |513|Find Bottom Left Tree Value|Medium||
 | [] |514|Freedom Trail|Hard||
 | 👍 |515|Find Largest Value in Each Tree Row|Medium||
-| [] |516|Longest Palindromic Subsequence|Medium||
+| 👍 |516|Longest Palindromic Subsequence|Medium||
 | [] |517|Super Washing Machines|Hard||
 | 👍 |520|Detect Capital|Easy||
-| [] |523|Continuous Subarray Sum|Medium||
-| [] |524|Longest Word in Dictionary through Deleting|Medium||
+| 👍 |523|Continuous Subarray Sum|Medium||
+| 👍 |524|Longest Word in Dictionary through Deleting|Medium||
 | [] |525|Contiguous Array|Medium||
 | [] |526|Beautiful Arrangement|Medium||
 | [] |527|Word Abbreviation|Hard||
