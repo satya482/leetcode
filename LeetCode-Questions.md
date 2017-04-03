@@ -419,7 +419,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |425|Word Squares|Hard||
 | [] |432|All O`one Data Structure|Hard||
 | 👍 |434|Number of Segments in a String|Easy||
-| [] |435|Non-overlapping Intervals|Medium||
+| 👍 |435|Non-overlapping Intervals|Medium||
 | [] |436|Find Right Interval|Medium||
 | [] |437|Path Sum III|Easy||
 | [] |438|Find All Anagrams in a String|Easy||
@@ -448,7 +448,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |464|Can I Win|Medium||
 | [] |465|Optimal Account Balancing|Hard||
 | [] |466|Count The Repetitions|Hard||
-| [] |467|Unique Substrings in Wraparound String|Medium||
+| 👍 |467|Unique Substrings in Wraparound String|Medium||
 | [] |468|Validate IP Address|Medium||
 | [] |469|Convex Polygon|Medium||
 | [] |471|Encode String with Shortest Length|Hard||
