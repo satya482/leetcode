@@ -273,7 +273,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |279|Perfect Squares|Medium|Google| Top Interview Question |
 | [] |280|Wiggle Sort|Medium|Google|
 | 😊 |281|Zigzag Iterator|Medium|Google|
-| [] |282|Expression Add Operators|Hard|Google, Facebook|
+| 👍 |282|Expression Add Operators|Hard|Google, Facebook|
 | 👍 |283|Move Zeroes|Easy|Facebook| Top Interview Question |
 | 👍 |284|Peeking Iterator|Medium|Google|
 | 😊 |285|Inorder Successor in BST|Medium|Facebook|
