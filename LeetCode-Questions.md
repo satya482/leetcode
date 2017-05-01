@@ -169,7 +169,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |158|Read N Characters Given Read4 II - Call multiple times|Hard|Google, Facebook|
 | [] |159|Longest Substring with At Most Two Distinct Characters|Hard|Google|
 | 👍 |160|Intersection of Two Linked Lists|Easy|Airbnb| Top Interview Question |
-| [] |161|One Edit Distance|Medium|Uber, Facebook|
+| 😊 |161|One Edit Distance|Medium|Uber, Facebook|
 | 👍 |162|Find Peak Element|Medium|Google| Top Interview Question |
 | [] |163|Missing Ranges|Medium|Google| Top Interview Question |
 | [] |164|Maximum Gap|Hard||
@@ -178,13 +178,13 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |167|Two Sum II - Input array is sorted|Easy||
 | 👍 |168|Excel Sheet Column Title|Easy|Facebook|
 | 👍 |169|Majority Element|Easy|| Top Interview Question |
-| [] |170|Two Sum III - Data structure design|Easy|LinkedIn|
+| 😊 |170|Two Sum III - Data structure design|Easy|LinkedIn|
 | 👍 |171|Excel Sheet Column Number|Easy|Uber| Top Interview Question |
 | 👍 |172|Factorial Trailing Zeroes|Easy|| Top Interview Question |
 | 👍 |173|Binary Search Tree Iterator|Medium|LinkedIn, Google, Facebook|
 | [] |174|Dungeon Game|Hard||
 | 👍 |179|Largest Number|Medium|| Top Interview Question |
-| [] |186|Reverse Words in a String II|Medium|Uber|
+| 😊 |186|Reverse Words in a String II|Medium|Uber|
 | 👍 |187|Repeated DNA Sequences|Medium|LinkedIn|
 | [] |188|Best Time to Buy and Sell Stock IV|Hard||
 | 👍 |189|Rotate Array|Easy|| Top Interview Question |
@@ -236,7 +236,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |241|Different Ways to Add Parentheses|Medium||
 | 👍 |242|Valid Anagram|Easy|Uber| Top Interview Question |
 | [] |243|Shortest Word Distance|Easy|LinkedIn|
-| [] |244|Shortest Word Distance II|Medium|LinkedIn|
+| 😊 |244|Shortest Word Distance II|Medium|LinkedIn|
 | [] |245|Shortest Word Distance III|Medium|LinkedIn|
 | [] |246|Strobogrammatic Number|Easy|Google|
 | [] |247|Strobogrammatic Number II|Medium|Google|
@@ -262,12 +262,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |268|Missing Number|Easy|| Top Interview Question |
 | [] |269|Alien Dictionary|Hard|Google, Airbnb, Facebook| Top Interview Question |
 | [] |270|Closest Binary Search Tree Value|Easy|Google|
-| [] |271|Encode and Decode Strings|Medium|Google|
+| 😊 |271|Encode and Decode Strings|Medium|Google|
 | [] |272|Closest Binary Search Tree Value II|Hard|Google|
 | [] |273|Integer to English Words|Hard|Facebook|
 | 👍 |274|H-Index|Medium|Google, Facebook|
 | 👍 |275|H-Index II|Medium|Facebook|
-| [] |276|Paint Fence|Easy|Google|
+| 😊 |276|Paint Fence|Easy|Google|
 | [] |277|Find the Celebrity|Medium|LinkedIn, Facebook| Top Interview Question |
 | 👍 |278|First Bad Version|Easy|Facebook|
 | 👍 |279|Perfect Squares|Medium|Google| Top Interview Question |
