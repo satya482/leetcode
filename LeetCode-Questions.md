@@ -171,7 +171,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |160|Intersection of Two Linked Lists|Easy|Airbnb| Top Interview Question |
 | 😊 |161|One Edit Distance|Medium|Uber, Facebook|
 | 👍 |162|Find Peak Element|Medium|Google| Top Interview Question |
-| [] |163|Missing Ranges|Medium|Google| Top Interview Question |
+| 😊 |163|Missing Ranges|Medium|Google| Top Interview Question |
 | [] |164|Maximum Gap|Hard||
 | 👍 |165|Compare Version Numbers|Medium||
 | 👍 |166|Fraction to Recurring Decimal|Medium|Google| Top Interview Question |
@@ -241,24 +241,24 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |246|Strobogrammatic Number|Easy|Google|
 | 😊 |247|Strobogrammatic Number II|Medium|Google|
 | [] |248|Strobogrammatic Number III|Hard||
-| [] |249|Group Shifted Strings|Medium|Google, Uber|
-| [] |250|Count Univalue Subtrees|Medium||
-| 😊  |251|Flatten 2D Vector|Medium|Google, Airbnb| Top Interview Question |
+| 😊 |249|Group Shifted Strings|Medium|Google, Uber|
+| 😊 |250|Count Univalue Subtrees|Medium||
+| 😊 |251|Flatten 2D Vector|Medium|Google, Airbnb| Top Interview Question |
 | 😊 |252|Meeting Rooms|Easy|Facebook|
-| [] |253|Meeting Rooms II|Medium|Google, Facebook| Top Interview Question |
-| [] |254|Factor Combinations|Medium|LinkedIn, Uber|
-| [] |255|Verify Preorder Sequence in Binary Search Tree|Medium||
+| 😊 |253|Meeting Rooms II|Medium|Google, Facebook| Top Interview Question |
+| 😊 |254|Factor Combinations|Medium|LinkedIn, Uber|
+| 😊 |255|Verify Preorder Sequence in Binary Search Tree|Medium||
 | 😊 |256|Paint House|Easy|LinkedIn|
 | 👍 |257|Binary Tree Paths|Easy|Google, Facebook|
 | 👍 |258|Add Digits|Easy||
-| [] |259|3Sum Smaller|Medium|Google|
+| 😊 |259|3Sum Smaller|Medium|Google|
 | 👍 |260|Single Number III|Medium||
-| [] |261|Graph Valid Tree|Medium|Google, Facebook|
+| 😊 |261|Graph Valid Tree|Medium|Google, Facebook|
 | 👍 |263|Ugly Number|Easy||
 | 👍 |264|Ugly Number II|Medium||
 | [] |265|Paint House II|Hard|Facebook|
 | 😊 |266|Palindrome Permutation|Easy|Google, Uber|
-| [] |267|Palindrome Permutation II|Medium||
+| 😊 |267|Palindrome Permutation II|Medium||
 | 👍 |268|Missing Number|Easy|| Top Interview Question |
 | [] |269|Alien Dictionary|Hard|Google, Airbnb, Facebook| Top Interview Question |
 | 😊 |270|Closest Binary Search Tree Value|Easy|Google|
@@ -268,7 +268,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |274|H-Index|Medium|Google, Facebook|
 | 👍 |275|H-Index II|Medium|Facebook|
 | 😊 |276|Paint Fence|Easy|Google|
-| [] |277|Find the Celebrity|Medium|LinkedIn, Facebook| Top Interview Question |
+| 😊 |277|Find the Celebrity|Medium|LinkedIn, Facebook| Top Interview Question |
 | 👍 |278|First Bad Version|Easy|Facebook|
 | 👍 |279|Perfect Squares|Medium|Google| Top Interview Question |
 | 😊 |280|Wiggle Sort|Medium|Google|
@@ -279,7 +279,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |285|Inorder Successor in BST|Medium|Facebook|
 | 😊 |286|Walls and Gates|Medium|Google, Facebook|
 | 👍 |287|Find the Duplicate Number|Medium|| Top Interview Question |
-| [] |288|Unique Word Abbreviation|Medium|Google|
+| 😊 |288|Unique Word Abbreviation|Medium|Google|
 | 👍 |289|Game of Life|Medium|Google| Top Interview Question |
 | 👍 |290|Word Pattern|Easy|Uber|
 | [] |291|Word Pattern II|Hard|Uber|
@@ -289,7 +289,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |295|Find Median from Data Stream|Hard|Google| Top Interview Question |
 | [] |296|Best Meeting Point|Hard||
 | 👍 |297|Serialize and Deserialize Binary Tree|Hard|LinkedIn, Google, Uber, Facebook| Top Interview Question |
-| [] |298|Binary Tree Longest Consecutive Sequence|Medium|Google|
+| 😊 |298|Binary Tree Longest Consecutive Sequence|Medium|Google|
 | 👍 |299|Bulls and Cows|Medium||
 | 👍 |300|Longest Increasing Subsequence|Medium|| Top Interview Question |
 | [] |301|Remove Invalid Parentheses|Hard|Facebook|
@@ -305,7 +305,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |311|Sparse Matrix Multiplication|Medium|LinkedIn, Facebook|
 | [] |312|Burst Balloons|Hard|Google|
 | 👍 |313|Super Ugly Number|Medium|Google|
-| [] |314|Binary Tree Vertical Order Traversal|Medium|Google, Facebook|
+| 😊 |314|Binary Tree Vertical Order Traversal|Medium|Google, Facebook|
 | 👍 |315|Count of Smaller Numbers After Self|Hard|Google| Top Interview Question |
 | [] |316|Remove Duplicate Letters|Hard|Google|
 | [] |317|Shortest Distance from All Buildings|Hard|Google|
@@ -316,7 +316,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |322|Coin Change|Medium|| Top Interview Question |
 | 😊 |323|Number of Connected Components in an Undirected Graph|Medium|Google|
 | 👍 |324|Wiggle Sort II|Medium|Google| Top Interview Question |
-| [] |325|Maximum Size Subarray Sum Equals k|Medium|Facebook|
+| 😊 |325|Maximum Size Subarray Sum Equals k|Medium|Facebook|
 | 👍 |326|Power of Three|Easy|Google| Top Interview Question |
 | [] |327|Count of Range Sum|Hard|Google|
 | 👍 |328|Odd Even Linked List|Medium|| Top Interview Question |
@@ -324,7 +324,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |330|Patching Array|Hard|Google|
 | 👍 |331|Verify Preorder Serialization of a Binary Tree|Medium|Google|
 | 👍 |332|Reconstruct Itinerary|Medium|Google|
-| [] |333|Largest BST Subtree|Medium||
+| 😊 |333|Largest BST Subtree|Medium||
 | 👍 |334|Increasing Triplet Subsequence|Medium|Facebook| Top Interview Question |
 | [] |335|Self Crossing|Hard||
 | [] |336|Palindrome Pairs|Hard|Google, Airbnb|
@@ -342,12 +342,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |348|Design Tic-Tac-Toe|Medium| C | Top Interview Question |
 | 👍 |349|Intersection of Two Arrays|Easy||
 | 👍 |350|Intersection of Two Arrays II|Easy| C | Top Interview Question |
-| [] |351|Android Unlock Patterns|Medium||
+| 😊 |351|Android Unlock Patterns|Medium||
 | [] |352|Data Stream as Disjoint Intervals|Hard||
-| [] |353|Design Snake Game|Medium||
+| 😊 |353|Design Snake Game|Medium||
 | [] |354|Russian Doll Envelopes|Hard||
 | 👍 |355|Design Twitter|Medium||
-| [] |356|Line Reflection|Medium||
+| 😊 |356|Line Reflection|Medium||
 | 👍 |357|Count Numbers with Unique Digits|Medium||
 | [] |358|Rearrange String k Distance Apart|Hard||
 | 😊 |359|Logger Rate Limiter|Easy||
@@ -370,7 +370,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |376|Wiggle Subsequence|Medium||
 | 👍 |377|Combination Sum IV|Medium||
 | 👍 |378|Kth Smallest Element in a Sorted Matrix|Medium| C | Top Interview Question |
-| [] |379|Design Phone Directory|Medium||
+| 😊 |379|Design Phone Directory|Medium||
 | 👍 |380|Insert Delete GetRandom O(1)|Medium| C | Top Interview Question |
 | [] |381|Insert Delete GetRandom O(1) - Duplicates allowed|Hard||
 | 👍 |382|Linked List Random Node|Medium||
@@ -467,7 +467,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |486|Predict the Winner|Medium||
 | [] |487|Max Consecutive Ones II|Medium||
 | [] |488|Zuma Game|Hard||
-| [] |490|The Maze|Medium||
+| 😊 |490|The Maze|Medium||
 | [] |491|Increasing Subsequences|Medium||
 | 👍 |492|Construct the Rectangle|Easy||
 | [] |493|Reverse Pairs|Hard||
