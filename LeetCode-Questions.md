@@ -5,6 +5,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 
 👍 - Unlocked & Done
 😊 - Locked & Done
+:lock: - Locked & Not Done
 [] - Not yet Done
 
 |Status | Number | Title | Difficulty | Companies | Top Interview Question |
@@ -509,3 +510,4 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |542|01 Matrix |Medium||
 | 👍 |543|Diameter of Binary Tree|Easy||
 | [] |544|Output Contest Matches|Medium||
+| 😊 |545|Boundary of Binary Tree|Medium||
