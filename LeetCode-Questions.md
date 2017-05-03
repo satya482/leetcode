@@ -357,7 +357,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |363|Max Sum of Rectangle No Larger Than K|Hard||
 | [] |364|Nested List Weight Sum II|Medium||
 | 👍 |365|Water and Jug Problem|Medium||
-| [] |366|Find Leaves of Binary Tree|Medium||
+| 😊 |366|Find Leaves of Binary Tree|Medium||
 | 👍 |367|Valid Perfect Square|Easy||
 | 👍 |368|Largest Divisible Subset|Medium||
 | [] |369|Plus One Linked List|Medium||
