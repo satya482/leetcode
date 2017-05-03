@@ -410,7 +410,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |415|Add Strings|Easy||
 | 👍 |416|Partition Equal Subset Sum|Medium||
 | [] |417|Pacific Atlantic Water Flow|Medium||
-| 🔒 |418|Sentence Screen Fitting|Medium||
+| 😊 |418|Sentence Screen Fitting|Medium||
 | 👍 |419|Battleships in a Board|Medium||
 | [] |420|Strong Password Checker|Hard||
 | [] |421|Maximum XOR of Two Numbers in an Array|Medium||
