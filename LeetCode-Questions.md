@@ -235,20 +235,20 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |240|Search a 2D Matrix II|Medium|Google| Top Interview Question |
 | 👍 |241|Different Ways to Add Parentheses|Medium||
 | 👍 |242|Valid Anagram|Easy|Uber| Top Interview Question |
-| [] |243|Shortest Word Distance|Easy|LinkedIn|
+| 😊 |243|Shortest Word Distance|Easy|LinkedIn|
 | 😊 |244|Shortest Word Distance II|Medium|LinkedIn|
 | [] |245|Shortest Word Distance III|Medium|LinkedIn|
-| [] |246|Strobogrammatic Number|Easy|Google|
-| [] |247|Strobogrammatic Number II|Medium|Google|
+| 😊 |246|Strobogrammatic Number|Easy|Google|
+| 😊 |247|Strobogrammatic Number II|Medium|Google|
 | [] |248|Strobogrammatic Number III|Hard||
 | [] |249|Group Shifted Strings|Medium|Google, Uber|
 | [] |250|Count Univalue Subtrees|Medium||
 | 😊  |251|Flatten 2D Vector|Medium|Google, Airbnb| Top Interview Question |
-| [] |252|Meeting Rooms|Easy|Facebook|
+| 😊 |252|Meeting Rooms|Easy|Facebook|
 | [] |253|Meeting Rooms II|Medium|Google, Facebook| Top Interview Question |
 | [] |254|Factor Combinations|Medium|LinkedIn, Uber|
 | [] |255|Verify Preorder Sequence in Binary Search Tree|Medium||
-| [] |256|Paint House|Easy|LinkedIn|
+| 😊 |256|Paint House|Easy|LinkedIn|
 | 👍 |257|Binary Tree Paths|Easy|Google, Facebook|
 | 👍 |258|Add Digits|Easy||
 | [] |259|3Sum Smaller|Medium|Google|
@@ -257,11 +257,11 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |263|Ugly Number|Easy||
 | 👍 |264|Ugly Number II|Medium||
 | [] |265|Paint House II|Hard|Facebook|
-| [] |266|Palindrome Permutation|Easy|Google, Uber|
+| 😊 |266|Palindrome Permutation|Easy|Google, Uber|
 | [] |267|Palindrome Permutation II|Medium||
 | 👍 |268|Missing Number|Easy|| Top Interview Question |
 | [] |269|Alien Dictionary|Hard|Google, Airbnb, Facebook| Top Interview Question |
-| [] |270|Closest Binary Search Tree Value|Easy|Google|
+| 😊 |270|Closest Binary Search Tree Value|Easy|Google|
 | 😊 |271|Encode and Decode Strings|Medium|Google|
 | [] |272|Closest Binary Search Tree Value II|Hard|Google|
 | [] |273|Integer to English Words|Hard|Facebook|
@@ -284,7 +284,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |290|Word Pattern|Easy|Uber|
 | [] |291|Word Pattern II|Hard|Uber|
 | 👍 |292|Nim Game|Easy||
-| [] |293|Flip Game|Easy|Google|
+| 😊 |293|Flip Game|Easy|Google|
 | [] |294|Flip Game II|Medium|Google|
 | 👍 |295|Find Median from Data Stream|Hard|Google| Top Interview Question |
 | [] |296|Best Meeting Point|Hard||
@@ -330,14 +330,14 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |336|Palindrome Pairs|Hard|Google, Airbnb|
 | 👍 |337|House Robber III|Medium|Uber|
 | 👍 |338|Counting Bits|Medium||
-| [] |339|Nested List Weight Sum|Easy|LinkedIn|
+| 😊 |339|Nested List Weight Sum|Easy|LinkedIn|
 | [] |340|Longest Substring with At Most K Distinct Characters|Hard|Google| Top Interview Question |
 | 👍 |341|Flatten Nested List Iterator|Medium|Google| Top Interview Question |
 | 👍 |342|Power of Four|Easy||
 | 👍 |343|Integer Break|Medium||
 | 👍 |344|Reverse String|Easy| C | Top Interview Question |
 | 👍 |345|Reverse Vowels of a String|Easy||
-| [] |346|Moving Average from Data Stream|Easy||
+| 😊 |346|Moving Average from Data Stream|Easy||
 | 👍 |347|Top K Frequent Elements|Medium| C | Top Interview Question |
 | [] |348|Design Tic-Tac-Toe|Medium| C | Top Interview Question |
 | 👍 |349|Intersection of Two Arrays|Easy||
@@ -350,7 +350,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |356|Line Reflection|Medium||
 | 👍 |357|Count Numbers with Unique Digits|Medium||
 | [] |358|Rearrange String k Distance Apart|Hard||
-| [] |359|Logger Rate Limiter|Easy||
+| 😊 |359|Logger Rate Limiter|Easy||
 | [] |360|Sort Transformed Array|Medium||
 | [] |361|Bomb Enemy|Medium||
 | [] |362|Design Hit Counter|Medium||
@@ -399,7 +399,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |405|Convert a Number to Hexadecimal|Easy||
 | 👍 |406|Queue Reconstruction by Height|Medium||
 | [] |407|Trapping Rain Water II|Hard||
-| [] |408|Valid Word Abbreviation|Easy||
+| 😊 |408|Valid Word Abbreviation|Easy||
 | 👍 |409|Longest Palindrome|Easy||
 | [] |410|Split Array Largest Sum|Hard||
 | [] |411|Minimum Unique Word Abbreviation|Hard||
@@ -413,7 +413,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |419|Battleships in a Board|Medium||
 | [] |420|Strong Password Checker|Hard||
 | [] |421|Maximum XOR of Two Numbers in an Array|Medium||
-| [] |422|Valid Word Square|Easy||
+| 😊 |422|Valid Word Square|Easy||
 | 👍 |423|Reconstruct Original Digits from English|Medium||
 | [] |424|Longest Repeating Character Replacement|Medium||
 | [] |425|Word Squares|Hard||
