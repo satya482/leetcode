@@ -5,7 +5,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 
 👍 - Unlocked & Done
 😊 - Locked & Done
-:lock: - Locked & Not Done
+🔒  - Locked & Not Done
 [] - Not yet Done
 
 |Status | Number | Title | Difficulty | Companies | Top Interview Question |
@@ -353,7 +353,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |358|Rearrange String k Distance Apart|Hard||
 | 😊 |359|Logger Rate Limiter|Easy||
 | 😊 |360|Sort Transformed Array|Medium||
-| [] |361|Bomb Enemy|Medium||
+| 🔒 |361|Bomb Enemy|Medium||
 | 😊 |362|Design Hit Counter|Medium||
 | [] |363|Max Sum of Rectangle No Larger Than K|Hard||
 | 😊 |364|Nested List Weight Sum II|Medium||
@@ -410,7 +410,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |415|Add Strings|Easy||
 | 👍 |416|Partition Equal Subset Sum|Medium||
 | [] |417|Pacific Atlantic Water Flow|Medium||
-| [] |418|Sentence Screen Fitting|Medium||
+| 🔒 |418|Sentence Screen Fitting|Medium||
 | 👍 |419|Battleships in a Board|Medium||
 | [] |420|Strong Password Checker|Hard||
 | [] |421|Maximum XOR of Two Numbers in an Array|Medium||
@@ -428,7 +428,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |440|K-th Smallest in Lexicographical Order|Hard||
 | 👍 |441|Arranging Coins|Easy||
 | 👍 |442|Find All Duplicates in an Array|Medium||
-| [] |444|Sequence Reconstruction|Medium||
+| 🔒 |444|Sequence Reconstruction|Medium||
 | 👍 |445|Add Two Numbers II|Medium||
 | [] |446|Arithmetic Slices II - Subsequence|Hard||
 | [] |447|Number of Boomerangs|Easy||
@@ -451,7 +451,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |466|Count The Repetitions|Hard||
 | 👍 |467|Unique Substrings in Wraparound String|Medium||
 | [] |468|Validate IP Address|Medium||
-| [] |469|Convex Polygon|Medium||
+| 🔒 |469|Convex Polygon|Medium||
 | [] |471|Encode String with Shortest Length|Hard||
 | [] |472|Concatenated Words|Hard||
 | [] |473|Matchsticks to Square|Medium||
@@ -463,10 +463,10 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |481|Magical String|Medium||
 | 👍 |482|License Key Formatting|Medium||
 | [] |483|Smallest Good Base|Hard||
-| [] |484|Find Permutation|Medium||
+| 🔒 |484|Find Permutation|Medium||
 | 👍 |485|Max Consecutive Ones|Easy||
 | [] |486|Predict the Winner|Medium||
-| [] |487|Max Consecutive Ones II|Medium||
+| 🔒 |487|Max Consecutive Ones II|Medium||
 | [] |488|Zuma Game|Hard||
 | 😊 |490|The Maze|Medium||
 | [] |491|Increasing Subsequences|Medium||
@@ -482,7 +482,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |502|IPO|Hard||
 | 👍 |503|Next Greater Element II|Medium||
 | 👍 |504|Base 7|Easy||
-| [] |505|The Maze II|Medium||
+| 🔒 |505|The Maze II|Medium||
 | [] |506|Relative Ranks| Easy ||
 | [] |508|Most Frequent Subtree Sum|Medium||
 | 👍 |513|Find Bottom Left Tree Value|Medium||
@@ -498,16 +498,20 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |527|Word Abbreviation|Hard||
 | [] |529|Minesweeper|Medium||
 | 👍 |530|Minimum Absolute Difference in BST|Easy||
-| [] |531|Lonely Pixel I|Medium||
+| 🔒 |531|Lonely Pixel I|Medium||
 | [] |532|K-diff Pairs in an Array|Easy||
-| [] |533|Lonely Pixel II|Medium||
+| 🔒 |533|Lonely Pixel II|Medium||
 | 👍 |535|Encode and Decode TinyURL|Medium||
-| [] |536|Construct Binary Tree from String|Medium||
+| 🔒 |536|Construct Binary Tree from String|Medium||
 | 👍 |537|Complex Number Multiplication|Medium||
 | [] |538|Convert BST to Greater Tree |Medium||
 | [] |539|Minimum Time Difference|Medium||
 | [] |541|Reverse String II|Easy||
 | [] |542|01 Matrix |Medium||
 | 👍 |543|Diameter of Binary Tree|Easy||
-| [] |544|Output Contest Matches|Medium||
+| 🔒 |544|Output Contest Matches|Medium||
 | 😊 |545|Boundary of Binary Tree|Medium||
+| 🔒 |548|Split Array with Equal Sum|Medium||
+| 🔒 |549|Binary Tree Longest Consecutive Sequence II|Medium||
+| 🔒 |555|Split Concatenated Strings|Medium||
+| 🔒 |562|Longest Line of Consecutive One in Matrix|Medium||
