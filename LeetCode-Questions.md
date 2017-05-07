@@ -450,7 +450,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |465|Optimal Account Balancing|Hard||
 | [] |466|Count The Repetitions|Hard||
 | 👍 |467|Unique Substrings in Wraparound String|Medium||
-| [] |468|Validate IP Address|Medium||
+| 👍 |468|Validate IP Address|Medium||
 | 🔒 |469|Convex Polygon|Medium||
 | [] |471|Encode String with Shortest Length|Hard||
 | [] |472|Concatenated Words|Hard||
