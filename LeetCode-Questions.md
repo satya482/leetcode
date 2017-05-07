@@ -525,3 +525,4 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |563|Binary Tree Tilt|Easy||
 | 👍 |566|Reshape the Matrix|Easy||
 | 👍 |567|Permutation in String|Medium||
+| 👍 |572| Subtree of Another Tree |Easy||
