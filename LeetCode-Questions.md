@@ -422,7 +422,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |434|Number of Segments in a String|Easy||
 | 👍 |435|Non-overlapping Intervals|Medium||
 | [] |436|Find Right Interval|Medium||
-| [] |437|Path Sum III|Easy||
+| 👍 |437|Path Sum III|Easy||
 | [] |438|Find All Anagrams in a String|Easy||
 | 😊 |439|Ternary Expression Parser|Medium||
 | [] |440|K-th Smallest in Lexicographical Order|Hard||
@@ -484,6 +484,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |504|Base 7|Easy||
 | 🔒 |505|The Maze II|Medium||
 | [] |506|Relative Ranks| Easy ||
+| 👍 |507|Perfect Number|Easy||
 | [] |508|Most Frequent Subtree Sum|Medium||
 | 👍 |513|Find Bottom Left Tree Value|Medium||
 | [] |514|Freedom Trail|Hard||
@@ -491,6 +492,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |516|Longest Palindromic Subsequence|Medium||
 | [] |517|Super Washing Machines|Hard||
 | 👍 |520|Detect Capital|Easy||
+| 👍 |521|Longest Uncommon Subsequence I|Easy||
 | 👍 |523|Continuous Subarray Sum|Medium||
 | 👍 |524|Longest Word in Dictionary through Deleting|Medium||
 | [] |525|Contiguous Array|Medium||
@@ -499,14 +501,14 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |529|Minesweeper|Medium||
 | 👍 |530|Minimum Absolute Difference in BST|Easy||
 | 🔒 |531|Lonely Pixel I|Medium||
-| [] |532|K-diff Pairs in an Array|Easy||
+| 👍 |532|K-diff Pairs in an Array|Easy||
 | 🔒 |533|Lonely Pixel II|Medium||
 | 👍 |535|Encode and Decode TinyURL|Medium||
 | 🔒 |536|Construct Binary Tree from String|Medium||
 | 👍 |537|Complex Number Multiplication|Medium||
 | [] |538|Convert BST to Greater Tree |Medium||
 | [] |539|Minimum Time Difference|Medium||
-| [] |541|Reverse String II|Easy||
+| 👍 |541|Reverse String II|Easy||
 | [] |542|01 Matrix |Medium||
 | 👍 |543|Diameter of Binary Tree|Easy||
 | 🔒 |544|Output Contest Matches|Medium||
@@ -514,4 +516,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 🔒 |548|Split Array with Equal Sum|Medium||
 | 🔒 |549|Binary Tree Longest Consecutive Sequence II|Medium||
 | 🔒 |555|Split Concatenated Strings|Medium||
+| 👍 |557|Reverse Words in a String III|Easy||
+| 👍 |561|Array Partition I|Easy||
 | 🔒 |562|Longest Line of Consecutive One in Matrix|Medium||
+| 👍 |563|Binary Tree Tilt|Easy||
+| 👍 |566|Reshape the Matrix|Easy||
