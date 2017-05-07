@@ -413,7 +413,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |418|Sentence Screen Fitting|Medium||
 | 👍 |419|Battleships in a Board|Medium||
 | [] |420|Strong Password Checker|Hard||
-| [] |421|Maximum XOR of Two Numbers in an Array|Medium||
+| 👍 |421|Maximum XOR of Two Numbers in an Array|Medium||
 | 😊 |422|Valid Word Square|Easy||
 | 👍 |423|Reconstruct Original Digits from English|Medium||
 | [] |424|Longest Repeating Character Replacement|Medium||
@@ -434,13 +434,13 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |447|Number of Boomerangs|Easy||
 | 👍 |448|Find All Numbers Disappeared in an Array|Easy||
 | [] |449|Serialize and Deserialize BST|Medium||
-| [] |450|Delete Node in a BST|Medium||
-| [] |451|Sort Characters By Frequency|Medium||
-| [] |452|Minimum Number of Arrows to Burst Balloons|Medium||
+| 👍 |450|Delete Node in a BST|Medium||
+| 👍 |451|Sort Characters By Frequency|Medium||
+| 👍 |452|Minimum Number of Arrows to Burst Balloons|Medium||
 | 👍 |453|Minimum Moves to Equal Array Elements|Easy||
 | 👍 |454|4Sum II|Medium| C | Top Interview Question |
 | 👍 |455|Assign Cookies|Easy||
-| [] |456|132 Pattern|Medium||
+| 👍 |456|132 Pattern|Medium||
 | [] |459|Repeated Substring Pattern|Easy||
 | [] |460|LFU Cache|Hard||
 | 👍 |461|Hamming Distance|Easy||
