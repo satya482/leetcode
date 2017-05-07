@@ -515,6 +515,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |545|Boundary of Binary Tree|Medium||
 | 🔒 |548|Split Array with Equal Sum|Medium||
 | 🔒 |549|Binary Tree Longest Consecutive Sequence II|Medium||
+| 👍 |551|Student Attendance Record I|Easy||
 | 🔒 |555|Split Concatenated Strings|Medium||
 | 👍 |557|Reverse Words in a String III|Easy||
 | 👍 |561|Array Partition I|Easy||
