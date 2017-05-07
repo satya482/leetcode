@@ -299,7 +299,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |304|Range Sum Query 2D - Immutable|Medium||
 | [] |305|Number of Islands II|Hard|Google|
 | [] |306|Additive Number|Medium||
-| [] |307|Range Sum Query - Mutable|Medium||
+| 👍 |307|Range Sum Query - Mutable|Medium||
 | [] |308|Range Sum Query 2D - Mutable|Hard|Google| Top Interview Question |
 | 👍 |309|Best Time to Buy and Sell Stock with Cooldown|Medium|Google|
 | [] |310|Minimum Height Trees|Medium|Google|
@@ -378,7 +378,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |383|Ransom Note|Easy||
 | 👍 |384|Shuffle an Array|Medium| C | Top Interview Question |
 | 👍 |385|Mini Parser|Medium||
-| [] |386|Lexicographical Numbers|Medium||
+| 👍 |386|Lexicographical Numbers|Medium||
 | 👍 |387|First Unique Character in a String|Easy| C | Top Interview Question |
 | 👍 |388|Longest Absolute File Path|Medium||
 | 👍 |389|Find the Difference|Easy||
@@ -394,7 +394,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |399|Evaluate Division|Medium||
 | 👍 |400|Nth Digit|Easy||
 | 👍 |401|Binary Watch|Easy||
-| [] |402|Remove K Digits|Medium||
+| 👍 |402|Remove K Digits|Medium||
 | [] |403|Frog Jump|Hard||
 | 👍 |404|Sum of Left Leaves|Easy||
 | 👍 |405|Convert a Number to Hexadecimal|Easy||
@@ -517,8 +517,11 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 🔒 |549|Binary Tree Longest Consecutive Sequence II|Medium||
 | 👍 |551|Student Attendance Record I|Easy||
 | 🔒 |555|Split Concatenated Strings|Medium||
+| 👍 |556|Next Greater Element III|Medium||
 | 👍 |557|Reverse Words in a String III|Easy||
+| 👍 |560|Subarray Sum Equals K|Medium||
 | 👍 |561|Array Partition I|Easy||
 | 🔒 |562|Longest Line of Consecutive One in Matrix|Medium||
 | 👍 |563|Binary Tree Tilt|Easy||
 | 👍 |566|Reshape the Matrix|Easy||
+| 👍 |567|Permutation in String|Medium||
