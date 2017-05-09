@@ -300,7 +300,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 🔒 |305|Number of Islands II|Hard|Google|
 | [] |306|Additive Number|Medium||
 | 👍 |307|Range Sum Query - Mutable|Medium||
-| [] |308|Range Sum Query 2D - Mutable|Hard|Google| Top Interview Question |
+| 🔒 |308|Range Sum Query 2D - Mutable|Hard|Google| Top Interview Question |
 | 👍 |309|Best Time to Buy and Sell Stock with Cooldown|Medium|Google|
 | [] |310|Minimum Height Trees|Medium|Google|
 | 😊 |311|Sparse Matrix Multiplication|Medium|LinkedIn, Facebook|
@@ -309,7 +309,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |314|Binary Tree Vertical Order Traversal|Medium|Google, Facebook|
 | 👍 |315|Count of Smaller Numbers After Self|Hard|Google| Top Interview Question |
 | [] |316|Remove Duplicate Letters|Hard|Google|
-| [] |317|Shortest Distance from All Buildings|Hard|Google|
+| 🔒 |317|Shortest Distance from All Buildings|Hard|Google|
 | 👍 |318|Maximum Product of Word Lengths|Medium|Google|
 | 👍 |319|Bulb Switcher|Medium||
 | 😊 |320|Generalized Abbreviation|Medium|Google|
@@ -332,7 +332,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |337|House Robber III|Medium|Uber|
 | 👍 |338|Counting Bits|Medium||
 | 😊 |339|Nested List Weight Sum|Easy|LinkedIn|
-| [] |340|Longest Substring with At Most K Distinct Characters|Hard|Google| Top Interview Question |
+| 🔒 |340|Longest Substring with At Most K Distinct Characters|Hard|Google| Top Interview Question |
 | 👍 |341|Flatten Nested List Iterator|Medium|Google| Top Interview Question |
 | 👍 |342|Power of Four|Easy||
 | 👍 |343|Integer Break|Medium||
@@ -350,7 +350,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |355|Design Twitter|Medium||
 | 😊 |356|Line Reflection|Medium||
 | 👍 |357|Count Numbers with Unique Digits|Medium||
-| [] |358|Rearrange String k Distance Apart|Hard||
+| 🔒 |358|Rearrange String k Distance Apart|Hard||
 | 😊 |359|Logger Rate Limiter|Easy||
 | 😊 |360|Sort Transformed Array|Medium||
 | 🔒 |361|Bomb Enemy|Medium||
@@ -403,7 +403,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |408|Valid Word Abbreviation|Easy||
 | 👍 |409|Longest Palindrome|Easy||
 | [] |410|Split Array Largest Sum|Hard||
-| [] |411|Minimum Unique Word Abbreviation|Hard||
+| 🔒 |411|Minimum Unique Word Abbreviation|Hard||
 | 👍 |412|Fizz Buzz|Easy| C | Top Interview Question |
 | 👍 |413|Arithmetic Slices|Medium||
 | 👍 |414|Third Maximum Number|Easy||
@@ -417,7 +417,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |422|Valid Word Square|Easy||
 | 👍 |423|Reconstruct Original Digits from English|Medium||
 | [] |424|Longest Repeating Character Replacement|Medium||
-| [] |425|Word Squares|Hard||
+| 🔒 |425|Word Squares|Hard||
 | [] |432|All O`one Data Structure|Hard||
 | 👍 |434|Number of Segments in a String|Easy||
 | 👍 |435|Non-overlapping Intervals|Medium||
@@ -447,12 +447,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |462|Minimum Moves to Equal Array Elements II|Medium||
 | 👍 |463|Island Perimeter|Easy||
 | [] |464|Can I Win|Medium||
-| [] |465|Optimal Account Balancing|Hard||
+| 🔒 |465|Optimal Account Balancing|Hard||
 | [] |466|Count The Repetitions|Hard||
 | 👍 |467|Unique Substrings in Wraparound String|Medium||
 | 👍 |468|Validate IP Address|Medium||
 | 🔒 |469|Convex Polygon|Medium||
-| [] |471|Encode String with Shortest Length|Hard||
+| 🔒 |471|Encode String with Shortest Length|Hard||
 | [] |472|Concatenated Words|Hard||
 | [] |473|Matchsticks to Square|Medium||
 | 👍 |474|Ones and Zeroes|Medium||
@@ -476,7 +476,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |495|Teemo Attacking|Medium||
 | 👍 |496|Next Greater Element I|Easy||
 | [] |498|Diagonal Traverse|Medium||
-| [] |499|The Maze III|Hard||
+| 🔒 |499|The Maze III|Hard||
 | 👍 |500|Keyboard_Row|Easy||
 | [] |501|Find Mode in Binary Search Tree|Easy||
 | [] |502|IPO|Hard||
@@ -497,7 +497,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |524|Longest Word in Dictionary through Deleting|Medium||
 | [] |525|Contiguous Array|Medium||
 | [] |526|Beautiful Arrangement|Medium||
-| [] |527|Word Abbreviation|Hard||
+| 🔒 |527|Word Abbreviation|Hard||
 | [] |529|Minesweeper|Medium||
 | 👍 |530|Minimum Absolute Difference in BST|Easy||
 | 🔒 |531|Lonely Pixel I|Medium||
