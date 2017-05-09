@@ -293,7 +293,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |298|Binary Tree Longest Consecutive Sequence|Medium|Google|
 | 👍 |299|Bulls and Cows|Medium||
 | 👍 |300|Longest Increasing Subsequence|Medium|| Top Interview Question |
-| [] |301|Remove Invalid Parentheses|Hard|Facebook|
+| 👍 |301|Remove Invalid Parentheses|Hard|Facebook|
 | 🔒 |302|Smallest Rectangle Enclosing Black Pixels|Hard|Google|
 | 👍 |303|Range Sum Query - Immutable|Easy||
 | 👍 |304|Range Sum Query 2D - Immutable|Medium||
@@ -322,12 +322,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |327|Count of Range Sum|Hard|Google|
 | 👍 |328|Odd Even Linked List|Medium|| Top Interview Question |
 | 👍 |329|Longest Increasing Path in a Matrix|Hard|Google| Top Interview Question |
-| [] |330|Patching Array|Hard|Google|
+| 👍 |330|Patching Array|Hard|Google|
 | 👍 |331|Verify Preorder Serialization of a Binary Tree|Medium|Google|
 | 👍 |332|Reconstruct Itinerary|Medium|Google|
 | 😊 |333|Largest BST Subtree|Medium||
 | 👍 |334|Increasing Triplet Subsequence|Medium|Facebook| Top Interview Question |
-| [] |335|Self Crossing|Hard||
+| 👍 |335|Self Crossing|Hard||
 | [] |336|Palindrome Pairs|Hard|Google, Airbnb|
 | 👍 |337|House Robber III|Medium|Uber|
 | 👍 |338|Counting Bits|Medium||
@@ -344,7 +344,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |349|Intersection of Two Arrays|Easy||
 | 👍 |350|Intersection of Two Arrays II|Easy| C | Top Interview Question |
 | 😊 |351|Android Unlock Patterns|Medium||
-| [] |352|Data Stream as Disjoint Intervals|Hard||
+| 👍 |352|Data Stream as Disjoint Intervals|Hard||
 | 😊 |353|Design Snake Game|Medium||
 | [] |354|Russian Doll Envelopes|Hard||
 | 👍 |355|Design Twitter|Medium||
