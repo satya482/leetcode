@@ -149,7 +149,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |137|Single Number II|Medium||
 | 👍 |138|Copy List with Random Pointer|Medium|Uber| Top Interview Question |
 | 👍 |139|Word Break|Medium|Google, Uber, Facebook| Top Interview Question |
-| [] |140|Word Break II|Hard|Google, Uber| Top Interview Question |
+| 👍 |140|Word Break II|Hard|Google, Uber| Top Interview Question |
 | 👍 |141|Linked List Cycle|Easy|| Top Interview Question |
 | 👍 |142|Linked List Cycle II|Medium||
 | 👍 |143|Reorder List|Medium||
@@ -187,7 +187,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |179|Largest Number|Medium|| Top Interview Question |
 | 😊 |186|Reverse Words in a String II|Medium|Uber|
 | 👍 |187|Repeated DNA Sequences|Medium|LinkedIn|
-| [] |188|Best Time to Buy and Sell Stock IV|Hard||
+| 👍 |188|Best Time to Buy and Sell Stock IV|Hard||
 | 👍 |189|Rotate Array|Easy|| Top Interview Question |
 | 👍 |190|Reverse Bits|Easy|Airbnb| Top Interview Question |
 | 👍 |191|Number of 1 Bits|Easy|| Top Interview Question |
