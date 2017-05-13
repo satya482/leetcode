@@ -346,7 +346,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |351|Android Unlock Patterns|Medium||
 | 👍 |352|Data Stream as Disjoint Intervals|Hard||
 | 😊 |353|Design Snake Game|Medium||
-| [] |354|Russian Doll Envelopes|Hard||
+| 👍 |354|Russian Doll Envelopes|Hard||
 | 👍 |355|Design Twitter|Medium||
 | 😊 |356|Line Reflection|Medium||
 | 👍 |357|Count Numbers with Unique Digits|Medium||
