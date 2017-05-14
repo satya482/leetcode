@@ -13,7 +13,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |1|Two Sum|Easy|LinkedIn, Uber, Airbnb, Facebook| Top Interview Question |
 | 👍 |2|Add Two Numbers|Medium|Airbnb| Top Interview Question |
 | 👍 |3|Longest Substring Without Repeating Characters|Medium|C| Top Interview Question |
-| [] |4|Median of Two Sorted Arrays|Hard|Google| Top Interview Question |
+| 👍 |4|Median of Two Sorted Arrays|Hard|Google| Top Interview Question |
 | 👍 |5|Longest Palindromic Substring|Medium|| Top Interview Question |
 | 👍 |6|ZigZag Conversion|Medium||
 | 👍 |7|Reverse Integer|Easy|| Top Interview Question |
@@ -211,7 +211,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |215|Kth Largest Element in an Array|Medium|Facebook| Top Interview Question |
 | 👍 |216|Combination Sum III|Medium||
 | 👍 |217|Contains Duplicate|Easy|Airbnb| Top Interview Question |
-| [] |218|The Skyline Problem|Hard|Google, Facebook| Top Interview Question |
+| 👍 |218|The Skyline Problem|Hard|Google, Facebook| Top Interview Question |
 | 👍 |219|Contains Duplicate II|Easy|Airbnb|
 | 👍 |220|Contains Duplicate III|Medium|Airbnb|
 | 👍 |221|Maximal Square|Medium|Airbnb, Facebook|
@@ -226,7 +226,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |230|Kth Smallest Element in a BST|Medium|Google, Uber| Top Interview Question |
 | 👍 |231|Power of Two|Easy|Google|
 | 👍 |232|Implement Queue using Stacks|Easy||
-| [] |233|Number of Digit One|Hard||
+| 👍 |233|Number of Digit One|Hard||
 | 👍 |234|Palindrome Linked List|Easy|Facebook| Top Interview Question |
 | 👍 |235|Lowest Common Ancestor of a Binary Search Tree|Easy|Facebook|
 | 👍 |236|Lowest Common Ancestor of a Binary Tree|Medium|LinkedIn, Facebook| Top Interview Question |
@@ -304,7 +304,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |309|Best Time to Buy and Sell Stock with Cooldown|Medium|Google|
 | [] |310|Minimum Height Trees|Medium|Google|
 | 😊 |311|Sparse Matrix Multiplication|Medium|LinkedIn, Facebook|
-| [] |312|Burst Balloons|Hard|Google|
+| 👍 |312|Burst Balloons|Hard|Google|
 | 👍 |313|Super Ugly Number|Medium|Google|
 | 😊 |314|Binary Tree Vertical Order Traversal|Medium|Google, Facebook|
 | 👍 |315|Count of Smaller Numbers After Self|Hard|Google| Top Interview Question |
@@ -319,7 +319,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |324|Wiggle Sort II|Medium|Google| Top Interview Question |
 | 😊 |325|Maximum Size Subarray Sum Equals k|Medium|Facebook|
 | 👍 |326|Power of Three|Easy|Google| Top Interview Question |
-| [] |327|Count of Range Sum|Hard|Google|
+| 👍 |327|Count of Range Sum|Hard|Google|
 | 👍 |328|Odd Even Linked List|Medium|| Top Interview Question |
 | 👍 |329|Longest Increasing Path in a Matrix|Hard|Google| Top Interview Question |
 | 👍 |330|Patching Array|Hard|Google|
@@ -328,7 +328,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |333|Largest BST Subtree|Medium||
 | 👍 |334|Increasing Triplet Subsequence|Medium|Facebook| Top Interview Question |
 | 👍 |335|Self Crossing|Hard||
-| [] |336|Palindrome Pairs|Hard|Google, Airbnb|
+| 👍 |336|Palindrome Pairs|Hard|Google, Airbnb|
 | 👍 |337|House Robber III|Medium|Uber|
 | 👍 |338|Counting Bits|Medium||
 | 😊 |339|Nested List Weight Sum|Easy|LinkedIn|
