@@ -135,8 +135,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |123|Best Time to Buy and Sell Stock III|Hard||
 | 👍 |124|Binary Tree Maximum Path Sum|Hard|| Top Interview Question |
 | 👍 |125|Valid Palindrome|Easy|Uber, Facebook| Top Interview Question |
-| [] |126|Word Ladder II|Hard||
-| [] |127|Word Ladder|Medium|LinkedIn, Facebook| Top Interview Question |
+| 👍 |126|Word Ladder II|Hard||
+| 👍 |127|Word Ladder|Medium|LinkedIn, Facebook| Top Interview Question |
 | 👍 |128|Longest Consecutive Sequence|Hard|Google, Facebook| Top Interview Question |
 | 👍 |129|Sum Root to Leaf Numbers|Medium||
 | 👍 |130|Surrounded Regions|Medium|| Top Interview Question |
