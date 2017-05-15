@@ -167,8 +167,8 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |155|Min Stack|Easy|Google, Uber| Top Interview Question |
 | 😊 |156|Binary Tree Upside Down|Medium|LinkedIn|
 | 😊 |157|Read N Characters Given Read4|Easy|Facebook|
-| 🔒 |158|Read N Characters Given Read4 II - Call multiple times|Hard|Google, Facebook|
-| 🔒 |159|Longest Substring with At Most Two Distinct Characters|Hard|Google|
+| 😊 |158|Read N Characters Given Read4 II - Call multiple times|Hard|Google, Facebook|
+| 😊 |159|Longest Substring with At Most Two Distinct Characters|Hard|Google|
 | 👍 |160|Intersection of Two Linked Lists|Easy|Airbnb| Top Interview Question |
 | 😊 |161|One Edit Distance|Medium|Uber, Facebook|
 | 👍 |162|Find Peak Element|Medium|Google| Top Interview Question |
@@ -257,14 +257,14 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 😊 |261|Graph Valid Tree|Medium|Google, Facebook|
 | 👍 |263|Ugly Number|Easy||
 | 👍 |264|Ugly Number II|Medium||
-| 🔒 |265|Paint House II|Hard|Facebook|
+| 😊 |265|Paint House II|Hard|Facebook|
 | 😊 |266|Palindrome Permutation|Easy|Google, Uber|
 | 😊 |267|Palindrome Permutation II|Medium||
 | 👍 |268|Missing Number|Easy|| Top Interview Question |
 | 🔒 |269|Alien Dictionary|Hard|Google, Airbnb, Facebook| Top Interview Question |
 | 😊 |270|Closest Binary Search Tree Value|Easy|Google|
 | 😊 |271|Encode and Decode Strings|Medium|Google|
-| 🔒 |272|Closest Binary Search Tree Value II|Hard|Google|
+| 😊 |272|Closest Binary Search Tree Value II|Hard|Google|
 | [] |273|Integer to English Words|Hard|Facebook|
 | 👍 |274|H-Index|Medium|Google, Facebook|
 | 👍 |275|H-Index II|Medium|Facebook|
