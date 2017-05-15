@@ -158,7 +158,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |146|LRU Cache|Hard|Google, Uber, Facebook| Top Interview Question |
 | 👍 |147|Insertion Sort List|Medium||
 | 👍 |148|Sort List|Medium|| Top Interview Question |
-| [] |149|Max Points on a Line|Hard|LinkedIn| Top Interview Question |
+| 👍 |149|Max Points on a Line|Hard|LinkedIn| Top Interview Question |
 | 👍 |150|Evaluate Reverse Polish Notation|Medium|LinkedIn| Top Interview Question |
 | 👍 |151|Reverse Words in a String|Medium||
 | 👍 |152|Maximum Product Subarray|Medium|LinkedIn| Top Interview Question |
