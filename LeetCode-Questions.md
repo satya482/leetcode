@@ -205,7 +205,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |209|Minimum Size Subarray Sum|Medium|Facebook|
 | 👍 |210|Course Schedule II|Medium|Facebook| Top Interview Question |
 | 👍 |211|Add and Search Word - Data structure design|Medium|Facebook|
-| [] |212|Word Search II|Hard|Google, Airbnb| Top Interview Question |
+| 👍 |212|Word Search II|Hard|Google, Airbnb| Top Interview Question |
 | 👍 |213|House Robber II|Medium||
 | 👍 |214|Shortest Palindrome|Hard|Google|
 | 👍 |215|Kth Largest Element in an Array|Medium|Facebook| Top Interview Question |
