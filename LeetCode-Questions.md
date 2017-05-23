@@ -478,12 +478,12 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |498|Diagonal Traverse|Medium||
 | 🔒 |499|The Maze III|Hard||
 | 👍 |500|Keyboard_Row|Easy||
-| [] |501|Find Mode in Binary Search Tree|Easy||
+| 👍 |501|Find Mode in Binary Search Tree|Easy||
 | [] |502|IPO|Hard||
 | 👍 |503|Next Greater Element II|Medium||
 | 👍 |504|Base 7|Easy||
 | 🔒 |505|The Maze II|Medium||
-| [] |506|Relative Ranks| Easy ||
+| 👍 |506|Relative Ranks| Easy ||
 | 👍 |507|Perfect Number|Easy||
 | [] |508|Most Frequent Subtree Sum|Medium||
 | 👍 |513|Find Bottom Left Tree Value|Medium||
