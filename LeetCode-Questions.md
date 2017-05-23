@@ -538,10 +538,10 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |575|Distribute Candies|Easy||
 | [] |576|Out of Boundary Paths|Hard||
 | 👍 |581|Shortest Unsorted Continuous Subarray|Easy||
-| [] |582|Kill Process|Medium||
-| [] |583|Delete Operation for Two Strings|Medium||
+| 👍 |582|Kill Process|Medium||
+| 👍 |583|Delete Operation for Two Strings|Medium||
 | [] |587|Erect the Fence|Hard||
 | [] |588|Design In-Memory File System|Hard||
 | [] |592|Fraction Addition and Subtraction|Medium||
-| [] |593|Valid Square|Medium||
-| [] |594|Longest Harmonious Subsequence|Easy||
+| 👍 |593|Valid Square|Medium||
+| 👍 |594|Longest Harmonious Subsequence|Easy||
