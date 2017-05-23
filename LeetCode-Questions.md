@@ -493,6 +493,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |517|Super Washing Machines|Hard||
 | 👍 |520|Detect Capital|Easy||
 | 👍 |521|Longest Uncommon Subsequence I|Easy||
+| [] |522|Longest Uncommon Subsequence II|Medium||
 | 👍 |523|Continuous Subarray Sum|Medium||
 | 👍 |524|Longest Word in Dictionary through Deleting|Medium||
 | [] |525|Contiguous Array|Medium||
@@ -513,9 +514,14 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |543|Diameter of Binary Tree|Easy||
 | 🔒 |544|Output Contest Matches|Medium||
 | 😊 |545|Boundary of Binary Tree|Medium||
+| [] |546|Remove Boxes|Hard||
+| [] |547|Friend Circles|Medium||
 | 🔒 |548|Split Array with Equal Sum|Medium||
 | 🔒 |549|Binary Tree Longest Consecutive Sequence II|Medium||
 | 👍 |551|Student Attendance Record I|Easy||
+| [] |552|Student Attendance Record II |Hard||
+| [] |553|Optimal Division|Medium||
+| [] |554|Brick Wall|Medium||
 | 🔒 |555|Split Concatenated Strings|Medium||
 | 👍 |556|Next Greater Element III|Medium||
 | 👍 |557|Reverse Words in a String III|Easy||
@@ -523,6 +529,19 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |561|Array Partition I|Easy||
 | 🔒 |562|Longest Line of Consecutive One in Matrix|Medium||
 | 👍 |563|Binary Tree Tilt|Easy||
+| [] |564|Find the Closest Palindrome|Hard||
 | 👍 |566|Reshape the Matrix|Easy||
 | 👍 |567|Permutation in String|Medium||
+| 🔒 |568|Maximum Vacation Days|Hard||
 | 👍 |572| Subtree of Another Tree |Easy||
+| [] |573|Squirrel Simulation|Medium||
+| [] |575|Distribute Candies|Easy||
+| [] |576|Out of Boundary Paths|Hard||
+| [] |581|Shortest Unsorted Continuous Subarray|Easy||
+| [] |582|Kill Process|Medium||
+| [] |583|Delete Operation for Two Strings|Medium||
+| [] |587|Erect the Fence|Hard||
+| [] |588|Design In-Memory File SystemNew|Hard||
+| [] |592|Fraction Addition and SubtractionNew|Medium||
+| [] |593|Valid SquareNew|Medium||
+| [] |594|Longest Harmonious SubsequenceNew|Easy||
