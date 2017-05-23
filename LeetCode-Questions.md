@@ -431,7 +431,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 🔒 |444|Sequence Reconstruction|Medium||
 | 👍 |445|Add Two Numbers II|Medium||
 | [] |446|Arithmetic Slices II - Subsequence|Hard||
-| [] |447|Number of Boomerangs|Easy||
+| 👍 |447|Number of Boomerangs|Easy||
 | 👍 |448|Find All Numbers Disappeared in an Array|Easy||
 | [] |449|Serialize and Deserialize BST|Medium||
 | 👍 |450|Delete Node in a BST|Medium||
@@ -441,7 +441,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |454|4Sum II|Medium| C | Top Interview Question |
 | 👍 |455|Assign Cookies|Easy||
 | 👍 |456|132 Pattern|Medium||
-| [] |459|Repeated Substring Pattern|Easy||
+| 👍 |459|Repeated Substring Pattern|Easy||
 | [] |460|LFU Cache|Hard||
 | 👍 |461|Hamming Distance|Easy||
 | 👍 |462|Minimum Moves to Equal Array Elements II|Medium||
@@ -456,7 +456,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |472|Concatenated Words|Hard||
 | [] |473|Matchsticks to Square|Medium||
 | 👍 |474|Ones and Zeroes|Medium||
-| [] |475|Heaters|Easy||
+| 👍 |475|Heaters|Easy||
 | 👍 |476|Number Complement|Easy||
 | 👍 |477|Total Hamming Distance|Medium||
 | [] |480|Sliding Window Median|Hard||
@@ -535,7 +535,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 🔒 |568|Maximum Vacation Days|Hard||
 | 👍 |572| Subtree of Another Tree |Easy||
 | 🔒 |573|Squirrel Simulation|Medium||
-| [] |575|Distribute Candies|Easy||
+| 👍 |575|Distribute Candies|Easy||
 | [] |576|Out of Boundary Paths|Hard||
 | 👍 |581|Shortest Unsorted Continuous Subarray|Easy||
 | 👍 |582|Kill Process|Medium||
