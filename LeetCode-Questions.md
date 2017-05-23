@@ -423,7 +423,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |435|Non-overlapping Intervals|Medium||
 | [] |436|Find Right Interval|Medium||
 | 👍 |437|Path Sum III|Easy||
-| [] |438|Find All Anagrams in a String|Easy||
+| 👍 |438|Find All Anagrams in a String|Easy||
 | 😊 |439|Ternary Expression Parser|Medium||
 | [] |440|K-th Smallest in Lexicographical Order|Hard||
 | 👍 |441|Arranging Coins|Easy||
@@ -537,7 +537,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |573|Squirrel Simulation|Medium||
 | [] |575|Distribute Candies|Easy||
 | [] |576|Out of Boundary Paths|Hard||
-| [] |581|Shortest Unsorted Continuous Subarray|Easy||
+| 👍 |581|Shortest Unsorted Continuous Subarray|Easy||
 | [] |582|Kill Process|Medium||
 | [] |583|Delete Operation for Two Strings|Medium||
 | [] |587|Erect the Fence|Hard||
