@@ -541,7 +541,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | [] |582|Kill Process|Medium||
 | [] |583|Delete Operation for Two Strings|Medium||
 | [] |587|Erect the Fence|Hard||
-| [] |588|Design In-Memory File SystemNew|Hard||
-| [] |592|Fraction Addition and SubtractionNew|Medium||
-| [] |593|Valid SquareNew|Medium||
-| [] |594|Longest Harmonious SubsequenceNew|Easy||
+| [] |588|Design In-Memory File System|Hard||
+| [] |592|Fraction Addition and Subtraction|Medium||
+| [] |593|Valid Square|Medium||
+| [] |594|Longest Harmonious Subsequence|Easy||
