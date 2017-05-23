@@ -534,7 +534,7 @@ https://github.com/chubbysingh/coding/tree/master/src/Leetcode
 | 👍 |567|Permutation in String|Medium||
 | 🔒 |568|Maximum Vacation Days|Hard||
 | 👍 |572| Subtree of Another Tree |Easy||
-| [] |573|Squirrel Simulation|Medium||
+| 🔒 |573|Squirrel Simulation|Medium||
 | [] |575|Distribute Candies|Easy||
 | [] |576|Out of Boundary Paths|Hard||
 | 👍 |581|Shortest Unsorted Continuous Subarray|Easy||
